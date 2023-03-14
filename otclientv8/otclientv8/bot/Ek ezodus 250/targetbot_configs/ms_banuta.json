@@ -1,0 +1,227 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 1,
+        "id": 3436
+      },
+      {
+        "count": 1,
+        "id": 9694
+      },
+      {
+        "count": 1,
+        "id": 3035
+      },
+      {
+        "count": 1,
+        "id": 3029
+      },
+      {
+        "count": 1,
+        "id": 10309
+      },
+      {
+        "count": 1,
+        "id": 3381
+      },
+      {
+        "count": 1,
+        "id": 7386
+      },
+      {
+        "count": 1,
+        "id": 3554
+      },
+      {
+        "count": 1,
+        "id": 3081
+      },
+      {
+        "count": 1,
+        "id": 3033
+      },
+      {
+        "count": 1,
+        "id": 3032
+      },
+      {
+        "count": 1,
+        "id": 3079
+      },
+      {
+        "count": 1,
+        "id": 3392
+      },
+      {
+        "count": 1,
+        "id": 814
+      },
+      {
+        "count": 1,
+        "id": 9302
+      },
+      {
+        "count": 1,
+        "id": 811
+      },
+      {
+        "count": 1,
+        "id": 812
+      },
+      {
+        "count": 1,
+        "id": 7456
+      },
+      {
+        "count": 1,
+        "id": 8074
+      },
+      {
+        "count": 1,
+        "id": 8052
+      },
+      {
+        "count": 1,
+        "id": 10390
+      },
+      {
+        "count": 1,
+        "id": 3342
+      },
+      {
+        "count": 0,
+        "id": 5893
+      },
+      {
+        "count": 1,
+        "id": 813
+      },
+      {
+        "count": 1,
+        "id": 11447
+      },
+      {
+        "count": 1,
+        "id": 10310
+      },
+      {
+        "count": 2,
+        "id": 3043
+      },
+      {
+        "count": 1,
+        "id": 10313
+      },
+      {
+        "count": 1,
+        "id": 3073
+      },
+      {
+        "count": 1,
+        "id": 6299
+      },
+      {
+        "count": 1,
+        "id": 5930
+      },
+      {
+        "count": 9,
+        "id": 11680
+      },
+      {
+        "count": 2,
+        "id": 3030
+      },
+      {
+        "count": 1,
+        "id": 3281
+      }
+    ],
+    "maxDanger": 10000,
+    "minCapacity": 50,
+    "containers": [
+      {
+        "count": 1,
+        "id": 23721
+      },
+      {
+        "count": 1,
+        "id": 23525
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "attackSpellDelay": 2500,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 7,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 3202,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 3,
+      "keepDistance": false,
+      "attackRune": 0,
+      "chase": true,
+      "priority": 1,
+      "groupAttackTargets": 2,
+      "lure": true,
+      "minManaGroup": 1500,
+      "groupAttackDelay": 5000,
+      "groupRuneAttackDelay": 5000,
+      "name": "Hydra,Serpent Spawn,Medusa,Behemoth, Eternal Guardian, Ghastly Dragon",
+      "regex": "^hydra$|^serpent spawn$|^medusa$|^behemoth$|^eternal guardian$|^ghastly dragon$"
+    },
+    {
+      "useSpellAttack": true,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 2,
+      "runeAttackDelay": 2000,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 6,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "exori vis",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 2,
+      "attackRune": 0,
+      "minManaGroup": 1500,
+      "chase": true,
+      "priority": 6,
+      "groupAttackDelay": 5000,
+      "lure": false,
+      "attackSpellDelay": 2500,
+      "keepDistance": false,
+      "groupRuneAttackDelay": 5000,
+      "name": "Nightmare",
+      "regex": "^nightmare$"
+    }
+  ]
+}

@@ -1,0 +1,2869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<itemtype name="nameless">
+		<item id="3031" name="gold coin"/>
+		<item id="3035" name="platinum coin"/>
+		<item id="3043" name="crystal coin"/>
+		<item id="3507" name="label"/>
+	</itemtype>
+	<itemtype name="ropes">
+		<item id="3003"/>
+		<item id="646"/>
+		<item id="9594"/>
+		<item id="9596"/>
+		<item id="9598"/>
+	</itemtype>
+	<itemtype name="shovels">
+		<item id="3457"/>
+		<item id="5710"/>
+		<item id="9594"/>
+		<item id="9596"/>
+		<item id="9598"/>
+	</itemtype>
+	<itemtype name="blocking">
+		<item id="6754"/>
+		<item id="1066"/>
+		<item id="293"/>
+		<item id="2030"/>
+	</itemtype>
+	<itemtype name="fields">
+		<item id="105"/>
+		<item id="1998"/>
+		<item id="1999"/>
+		<item id="2000"/>
+		<item id="2140"/>
+		<item id="9630"/>
+		<item id="10181"/>
+		<item id="10182"/>
+		<item id="12743"/>
+		<item startid="2118" endid="2127"/>
+		<item startid="2131" endid="2138"/>
+		<item startid="2128" endid="2130"/>
+		<item startid="10181" endid="10182"/>
+	</itemtype>
+	<itemtype name="furniture">
+		<item id="140"/>
+		<item id="404"/>
+		<item id="831"/>
+		<item id="832"/>
+		<item id="833"/>
+		<item id="834"/>
+		<item id="2025"/>
+		<item id="2029"/>
+		<item id="2030"/>
+		<item startid="2043" endid="2048"/>
+		<item startid="2059" endid="2061"/>
+		<item id="2314"/>
+		<item id="2315"/>
+		<item id="2316"/>
+		<item id="2319"/>
+		<item startid="2346" endid="2386"/>
+		<item id="2426"/>
+		<item startid="2430" endid="2434"/>
+		<item id="2441"/>
+		<item startid="2445" endid="2454"/>
+		<item startid="2465" endid="2478"/>
+		<item startid="2480" endid="2486"/>
+		<item id="2519"/>
+		<item id="2523"/>
+		<item id="2524"/>
+		<item startid="2775" endid="2812"/>
+		<item id="2904"/>
+		<item startid="2959" endid="2964"/>
+		<item id="2975"/>
+		<item id="2976"/>
+		<item id="2979"/>
+		<item startid="2981" endid="2988"/>
+		<item startid="2997" endid="3000"/>
+		<item startid="3484" endid="3487"/>
+		<item id="3503"/>
+		<item id="3504"/>
+		<item startid="3510" endid="3514"/>
+		<item id="3666"/>
+		<item id="4051"/>
+		<item startid="4054" endid="4056"/>
+		<item id="4059"/>
+		<item id="5046"/>
+		<item id="5055"/>
+		<item id="5056"/>
+		<item id="5086"/>
+		<item id="5087"/>
+		<item id="5088"/>
+		<item startid="6109" endid="6112"/>
+		<item id="6114"/>
+		<item id="6115"/>
+		<item startid="6367" endid="6372"/>
+		<item startid="7860" endid="7864"/>
+		<item id="8519"/>
+		<item id="8520"/>
+		<item id="8521"/>
+		<item id="8522"/>
+		<item id="8529"/>
+		<item id="8763"/>
+		<item id="9061"/>
+		<item id="9062"/>
+		<item id="9132"/>
+		<item startid="10207" endid="10215"/>
+		<item id="10216"/>
+		<item id="10288"/>
+		<item id="10978"/>
+		<item id="10979"/>
+		<item id="11010"/>
+		<item id="11011"/>
+		<item id="11012"/>
+		<item id="11013"/>
+		<item id="11540"/>
+		<item id="11800"/>
+		<item id="11801"/>
+		<item id="11802"/>
+		<item id="11803"/>
+		<item id="11806"/>
+		<item startid="11808" endid="11813"/>
+		<item startid="12147" endid="12155"/>
+		<item id="12246"/>
+		<item id="14237"/>
+		<item id="14421"/>
+		<item id="14425"/>
+		<item id="14426"/>
+		<item id="14427"/>
+		<item id="14428"/>
+		<item id="14754"/>
+		<item id="14755"/>
+		<item id="15156"/>
+		<item id="15157"/>
+		<item id="15239"/>
+		<item id="15240"/>
+		<item id="15273"/>
+		<item id="15274"/>
+		<item id="17345"/>
+		<item id="17364"/>
+		<item id="17365"/>
+		<item id="17367"/>
+		<item id="17361"/>
+		<item id="17372"/>
+		<item id="17373"/>
+		<item startid="17722" endid="17724"/>
+		<item id="17972"/>
+		<item id="17975"/>
+		<item id="17977"/>
+		<item startid="17959" endid="17962"/>
+		<item id="17974"/>
+		<item id="17975"/>
+		<item id="17977"/>
+		<item startid="18015" endid="18020"/>
+		<item id="14427"/>
+		<item id="14428"/>
+		<item id="14756"/>
+		<item id="15151"/>
+		<item id="15152"/>
+		<item id="15153"/>
+		<item id="15154"/>
+		<item id="15155"/>
+		<item id="17152"/>
+		<item id="17359"/>
+		<item id="17360"/>
+		<item id="17361"/>
+		<item id="17362"/>
+		<item id="17363"/>
+		<item id="17364"/>
+		<item id="17365"/>
+		<item id="17366"/>
+		<item id="17367"/>
+		<item id="17972"/>
+		<item id="17974"/>
+		<item id="17975"/>
+		<item id="17977"/>
+		<item id="19116"/>
+		<item id="19200"/>
+		<item id="21152"/>
+		<item id="21300"/>
+		<item id="21391"/>
+		<item id="21842"/>
+		<item id="23403"/>
+		<item id="23404"/>
+		<item id="23405"/>
+		<item id="23406"/>
+		<item id="23407"/>
+		<item id="23408"/>
+		<item id="23409"/>
+		<item id="23410"/>
+		<item id="23411"/>
+		<item id="23414"/>
+		<item id="23417"/>
+		<item id="23418"/>
+		<item id="23423"/>
+		<item id="23424"/>
+		<item id="23425"/>
+		<item id="23426"/>
+		<item id="23427"/>
+		<item id="23428"/>
+		<item id="23429"/>
+		<item id="23430"/>
+		<item id="23456"/>
+		<item id="23457"/>
+		<item id="23458"/>
+		<item id="23459"/>
+		<item id="23460"/>
+		<item id="23473"/>
+	</itemtype>
+	<itemtype name="trainingstatues">
+		<item id="16202"/>
+		<item id="16201"/>
+		<item id="16200"/>
+		<item id="16199"/>
+		<item id="16198"/>
+	</itemtype>
+	<itemtype name="corpses">
+		<item id="21983"/>
+		<item id="21985"/>
+		<item id="6012"/>
+		<item id="18150"/>
+		<item id="8181"/>
+		<item id="8118"/>
+		<item id="4388"/>
+		<item id="25840"/>
+		<item id="25841"/>
+		<item id="4348"/>
+		<item id="26125"/>
+		<item id="26127"/>
+		<item id="4037" fish="1"/>
+		<item id="21884"/>
+		<item id="13751"/>
+
+		<item id="30071"/>
+		<item id="30072"/>
+		<item id="13870"/>
+		<item id="25830"/>
+		<item id="25810"/>
+		<item id="25805"/>
+		<item id="25822"/>
+		<item id="25814"/>
+		<item id="25818"/>
+		<item id="25826"/>
+		<item id="8744" stake="1"/>
+		<item id="6006" stake="1"/>
+		<item id="5995" stake="1"/>
+		<item id="18958" stake="1"/>
+		<item id="18961" stake="1"/>
+
+		<item id="6017" skin="1"/>
+		<item id="5969" skin="1"/>
+		<item id="5973" skin="1"/>
+		<item id="5981" skin="1"/>
+		<item id="5982" skin="1"/>
+		<item id="5983" skin="1"/>
+		<item id="5984" skin="1"/>
+		<item id="5999" skin="1"/>
+		<item id="6030" skin="1"/>
+		<item id="6040" skin="1"/>
+		<item id="6041" skin="1"/>
+		<item id="10355" skin="1"/>
+		<item id="10359" skin="1"/>
+		<item id="10363" skin="1"/>
+		<item id="10367" skin="1"/>
+		<item id="10371" skin="1"/>
+		<item id="21099" skin="1"/>
+		<item id="21091" skin="1"/>
+		<item id="21095" skin="1"/>
+	</itemtype>
+	<itemtype name="food">
+		<item id="17457"/>
+		<item id="17821"/>
+		<item id="17820"/>
+		<item id="14085"/>
+		<item id="8020"/>
+		<item id="3587"/>
+		<item id="6574"/>
+		<item id="8017"/>
+		<item id="3588"/>
+		<item id="3600"/>
+		<item id="3602"/>
+		<item id="3725"/>
+		<item id="8197"/>
+		<item id="6277"/>
+		<item id="6569"/>
+		<item id="3599"/>
+		<item id="3595"/>
+		<item id="3607"/>
+		<item id="3590"/>
+		<item id="8019"/>
+		<item id="3589"/>
+		<item id="6543"/>
+		<item id="6544"/>
+		<item id="6545"/>
+		<item id="6542"/>
+		<item id="6541"/>
+		<item id="3598"/>
+		<item id="3597"/>
+		<item id="904"/>
+		<item id="8014"/>
+		<item id="3728"/>
+		<item id="6278"/>
+		<item id="3583"/>
+		<item id="3606"/>
+		<item id="3731"/>
+		<item id="3578"/>
+		<item id="6500"/>
+		<item id="3592"/>
+		<item id="3732"/>
+		<item id="7159"/>
+		<item id="3582"/>
+		<item id="12310"/>
+		<item id="7375"/>
+		<item id="7372"/>
+		<item id="7373"/>
+		<item id="8013"/>
+		<item id="6276"/>
+		<item id="8018"/>
+		<item id="3604"/>
+		<item id="5096"/>
+		<item id="901"/>
+		<item id="3577"/>
+		<item id="3593"/>
+		<item id="3580"/>
+		<item id="8015"/>
+		<item id="3586"/>
+		<item id="3726"/>
+		<item id="841"/>
+		<item id="3584"/>
+		<item id="8011"/>
+		<item id="8010"/>
+		<item id="3594"/>
+		<item id="7158"/>
+		<item id="8012"/>
+		<item id="3585"/>
+		<item id="3724"/>
+		<item id="10329"/>
+		<item id="3601"/>
+		<item id="3579"/>
+		<item id="3581"/>
+		<item id="3730"/>
+		<item id="3729"/>
+		<item id="3591"/>
+		<item id="3596"/>
+		<item id="5678"/>
+		<item id="6125"/>
+		<item id="6392"/>
+		<item id="836"/>
+		<item id="3723"/>
+		<item id="8177"/>
+		<item id="21143"/>
+		<item id="21146"/>
+		<item id="21144"/>
+	</itemtype>
+	<itemtype name="attributes">
+		<item id="102" weight="10"/>
+		<item id="107" cost="1000" weight="180"/>
+		<item id="110" cost="1000" weight="180"/>
+		<item id="112" weight="50"/>
+		<item id="113" weight="50"/>
+		<item id="117" weight="8000"/>
+		<item id="118" weight="8000"/>
+		<item id="119" weight="4000"/>
+		<item id="120" weight="80"/>
+		<item id="121" weight="1500"/>
+		<item id="123" cost="16000" weight="1250"/>
+		<item id="124" weight="50"/>
+		<item id="125" cost="1000" weight="180"/>
+		<item id="126" cost="1000" weight="180"/>
+		<item id="127" weight="200"/>
+		<item id="128" weight="200"/>
+		<item id="129" weight="200"/>
+		<item id="130" cost="100" weight="10"/>
+		<item id="131" cost="750" weight="600"/>
+		<item id="133" cost="1000" weight="180"/>
+		<item id="135" weight="180"/>
+		<item id="136" weight="250"/>
+		<item id="138" cost="600" weight="250"/>
+		<item id="139" weight="700"/>
+		<item id="140" weight="1800"/>
+		<item id="141" cost="2000" weight="120"/>
+		<item id="142" cost="6000" weight="1000"/>
+		<item id="143" weight="1000"/>
+		<item id="144" weight="900"/>
+		<item id="145" weight="60000"/>
+		<item id="170" weight="50"/>
+		<item id="172" cost="60" weight="200"/>
+		<item id="235" cost="5" weight="800"/>
+		<item id="236" cost="100" weight="290"/>
+		<item id="237" cost="80" weight="290"/>
+		<item id="238" cost="120" weight="310"/>
+		<item id="239" cost="190" weight="310"/>
+		<item id="266" cost="45" weight="270"/>
+		<item id="268" cost="50" weight="270"/>
+		<item id="281" value="3000" weight="80"/>
+		<item id="282" value="3000" weight="80"/>
+		<item id="283" weight="160"/>
+		<item id="284" weight="180"/>
+		<item id="285" weight="150"/>
+		<item id="306" cost="250" weight="150"/>
+		<item id="347" cost="5" weight="50"/>
+		<item id="348" weight="120"/>
+		<item id="349" cost="15000" weight="80"/>
+		<item id="350" weight="170"/>
+		<item id="396" cost="5000" weight="50"/>
+		<item id="397" weight="1000"/>
+		<item id="399" weight="100"/>
+		<item id="400" weight="150"/>
+		<item id="401" weight="1300"/>
+		<item id="402" weight="50"/>
+		<item id="403" weight="1300"/>
+		<item id="404" weight="8500"/>
+		<item id="405" weight="7500"/>
+		<item id="645" value="15000" weight="1800"/>
+		<item id="646" weight="600"/>
+		<item id="647" value="150" weight="50"/>
+		<item id="648" weight="5800"/>
+		<item id="649" cost="20" weight="80"/>
+		<item id="650" cost="50" weight="850"/>
+		<item id="651" value="299" cost="299" weight="200"/>
+		<item id="652" weight="4500"/>
+		<item id="653" cost="500" weight="800"/>
+		<item id="654" cost="1000" weight="800"/>
+		<item id="655" cost="1500" weight="800"/>
+		<item id="660" value="1000" weight="5000"/>
+		<item id="661" value="25000" weight="4800"/>
+		<item id="662" value="30000" weight="3500"/>
+		<item id="663" value="6000" weight="5900"/>
+		<item id="664" value="15000" weight="8200"/>
+		<item id="665" weight="5100"/>
+		<item id="666" value="2000" weight="5900"/>
+		<item id="667" value="30000" weight="6100"/>
+		<item id="668" value="6000" weight="4500"/>
+		<item id="669" value="12000" weight="6150"/>
+		<item id="670" weight="5800"/>
+		<item id="671" weight="8000"/>
+		<item id="672" value="30000" weight="7800"/>
+		<item id="673" value="6000" weight="5400"/>
+		<item id="674" value="1200" weight="8500"/>
+		<item id="675" weight="10"/>
+		<item id="676" weight="10"/>
+		<item id="677" weight="10"/>
+		<item id="678" weight="10"/>
+		<item id="679" value="1000" weight="5000"/>
+		<item id="680" value="25000" weight="4800"/>
+		<item id="681" value="30000" weight="3500"/>
+		<item id="682" value="6000" weight="5900"/>
+		<item id="683" value="15000" weight="8200"/>
+		<item id="684" weight="5100"/>
+		<item id="685" value="2000" weight="5900"/>
+		<item id="686" value="30000" weight="6100"/>
+		<item id="687" value="6000" weight="4500"/>
+		<item id="688" value="12000" weight="6150"/>
+		<item id="689" weight="5800"/>
+		<item id="690" weight="8000"/>
+		<item id="691" value="30000" weight="7800"/>
+		<item id="692" value="6000" weight="5400"/>
+		<item id="693" value="1200" weight="8500"/>
+		<item id="761" cost="5" weight="70"/>
+		<item id="762" cost="5" weight="70"/>
+		<item id="763" cost="5" weight="70"/>
+		<item id="768" weight="200"/>
+		<item id="769" weight="200"/>
+		<item id="770" weight="200"/>
+		<item id="774" cost="5" weight="70"/>
+		<item id="779" value="1000" weight="5000"/>
+		<item id="780" value="25000" weight="4800"/>
+		<item id="781" value="30000" weight="3500"/>
+		<item id="782" value="6000" weight="5900"/>
+		<item id="783" value="15000" weight="8200"/>
+		<item id="784" weight="5100"/>
+		<item id="785" value="2000" weight="5900"/>
+		<item id="786" value="30000" weight="6100"/>
+		<item id="787" value="6000" weight="4500"/>
+		<item id="788" value="12000" weight="6150"/>
+		<item id="789" weight="5800"/>
+		<item id="790" weight="8000"/>
+		<item id="791" value="30000" weight="7800"/>
+		<item id="792" value="6000" weight="5400"/>
+		<item id="793" value="1200" weight="8500"/>
+		<item id="794" value="1000" weight="5000"/>
+		<item id="795" value="25000" weight="4800"/>
+		<item id="796" value="30000" weight="3500"/>
+		<item id="797" value="6000" weight="5900"/>
+		<item id="798" value="15000" weight="8200"/>
+		<item id="801" weight="5100"/>
+		<item id="802" value="2000" weight="5900"/>
+		<item id="803" value="30000" weight="6100"/>
+		<item id="804" value="6000" weight="4500"/>
+		<item id="805" value="12000" weight="6150"/>
+		<item id="806" weight="5800"/>
+		<item id="807" weight="8000"/>
+		<item id="808" value="30000" weight="7800"/>
+		<item id="809" value="6000" weight="5400"/>
+		<item id="810" value="1200" weight="8500"/>
+		<item id="811" value="11000" weight="2250"/>
+		<item id="812" value="11000" weight="1900"/>
+		<item id="813" value="2500" weight="750"/>
+		<item id="814" value="1500" weight="500"/>
+		<item id="815" value="1500" weight="500"/>
+		<item id="816" value="1500" weight="500"/>
+		<item id="817" value="1500" weight="500"/>
+		<item id="818" value="2500" weight="750"/>
+		<item id="819" value="2500" weight="750"/>
+		<item id="820" value="2500" weight="750"/>
+		<item id="821" value="11000" weight="1900"/>
+		<item id="822" value="11000" weight="1900"/>
+		<item id="823" value="11000" weight="1900"/>
+		<item id="824" value="11000" weight="2250"/>
+		<item id="825" value="11000" weight="2250"/>
+		<item id="826" value="11000" weight="2250"/>
+		<item id="827" value="2500" weight="1000"/>
+		<item id="828" value="2500" weight="1000"/>
+		<item id="829" value="2500" weight="1000"/>
+		<item id="830" value="2500" weight="1000"/>
+		<item id="831" cost="80" weight="3500"/>
+		<item id="832" cost="80" weight="3500"/>
+		<item id="833" cost="80" weight="3500"/>
+		<item id="834" cost="80" weight="3500"/>
+		<item id="836" value="80" weight="10"/>
+		<item id="841" weight="10"/>
+		<item id="860" weight="3600"/>
+		<item id="872" cost="50" weight="969"/>
+		<item id="875" weight="700"/>
+		<item id="892" weight="3600"/>
+		<item id="893" cost="222" weight="200"/>
+		<item id="894" weight="1000"/>
+		<item id="895" weight="725"/>
+		<item id="896" weight="1000"/>
+		<item id="897" weight="1000"/>
+		<item id="898" weight="1000"/>
+		<item id="899" weight="1000"/>
+		<item id="900" cost="299" weight="1600"/>
+		<item id="901" value="800" weight="1800"/>
+		<item id="902" value="5000" weight="500"/>
+		<item id="903" weight="1000"/>
+		<item id="904" weight="80"/>
+		<item id="906" cost="199" weight="600"/>
+		<item id="907" weight="80"/>
+		<item id="919" cost="1020" weight="4000"/>
+		<item id="939" cost="50" weight="800"/>
+		<item id="940" value="2000" weight="250"/>
+		<item id="941" value="2000" weight="250"/>
+		<item id="942" value="5000" weight="250"/>
+		<item id="943" weight="250"/>
+		<item id="944" value="2000" weight="250"/>
+		<item id="945" value="2000" weight="250"/>
+		<item id="946" value="5000" weight="250"/>
+		<item id="947" value="5000" weight="250"/>
+		<item id="948" value="5000" weight="250"/>
+		<item id="953" value="10" weight="5"/>
+		<item id="954" value="5000" weight="250"/>
+		<item id="1781" weight="360"/>
+		<item id="2386" cost="20" weight="1500"/>
+		<item id="2387" cost="20" weight="1500"/>
+		<item id="2388" cost="20" weight="1500"/>
+		<item id="2389" cost="20" weight="1500"/>
+		<item id="2390" cost="20" weight="1500"/>
+		<item id="2391" cost="20" weight="1500"/>
+		<item id="2392" cost="20" weight="1500"/>
+		<item id="2393" cost="30" weight="1700"/>
+		<item id="2394" cost="25" weight="1600"/>
+		<item id="2395" cost="25" weight="1600"/>
+		<item id="2396" cost="25" weight="1600"/>
+		<item id="2397" cost="25" weight="1600"/>
+		<item id="2398" cost="25" weight="1550"/>
+		<item id="2399" cost="25" weight="1550"/>
+		<item id="2400" cost="25" weight="1550"/>
+		<item id="2401" cost="25" weight="1550"/>
+		<item id="2469" cost="10" weight="3500"/>
+		<item id="2471" cost="10" weight="8000"/>
+		<item id="2472" cost="10" weight="12000"/>
+		<item id="2473" weight="3500"/>
+		<item id="2478" cost="1000" weight="9500"/>
+		<item id="2480" cost="10" weight="12000"/>
+		<item id="2481" cost="10" weight="12000"/>
+		<item id="2482" cost="10" weight="12000"/>
+		<item id="2632" cost="40" weight="1000"/>
+		<item id="2635" cost="40" weight="1000"/>
+		<item id="2638" cost="40" weight="1000"/>
+		<item id="2639" cost="50" weight="1000"/>
+		<item id="2640" cost="50" weight="1000"/>
+		<item id="2641" cost="50" weight="1000"/>
+		<item id="2644" cost="25" weight="1000"/>
+		<item id="2647" cost="25" weight="1000"/>
+		<item id="2650" cost="25" weight="1000"/>
+		<item id="2653" cost="25" weight="1000"/>
+		<item id="2656" cost="25" weight="1000"/>
+		<item id="2659" cost="25" weight="1000"/>
+		<item id="2664" cost="40" weight="800"/>
+		<item id="2667" cost="25" weight="1000"/>
+		<item id="2668" cost="40" weight="800"/>
+		<item id="2775" cost="40" weight="2500"/>
+		<item id="2776" cost="40" weight="2500"/>
+		<item id="2777" cost="15" weight="2500"/>
+		<item id="2778" cost="25" weight="2500"/>
+		<item id="2779" cost="55" weight="2500"/>
+		<item id="2780" cost="25" weight="2500"/>
+		<item id="2781" cost="25" weight="2500"/>
+		<item id="2782" cost="20" weight="2500"/>
+		<item id="2783" cost="25" weight="3500"/>
+		<item id="2784" cost="25" weight="3500"/>
+		<item id="2785" cost="30" weight="3500"/>
+		<item id="2786" cost="30" weight="3500"/>
+		<item id="2787" cost="25" weight="3500"/>
+		<item id="2788" cost="25" weight="3500"/>
+		<item id="2789" cost="18" weight="2500"/>
+		<item id="2790" cost="25" weight="2500"/>
+		<item id="2791" cost="30" weight="3000"/>
+		<item id="2792" cost="7" weight="3000"/>
+		<item id="2793" cost="12" weight="3500"/>
+		<item id="2794" cost="10" weight="3500"/>
+		<item id="2795" cost="20" weight="3500"/>
+		<item id="2796" cost="50" weight="2000"/>
+		<item id="2797" cost="50" weight="2000"/>
+		<item id="2798" cost="35" weight="2000"/>
+		<item id="2799" cost="70" weight="2500"/>
+		<item id="2800" cost="30" weight="3500"/>
+		<item id="2801" cost="75" weight="3000"/>
+		<item id="2802" cost="50" weight="3000"/>
+		<item id="2803" cost="50" weight="3000"/>
+		<item id="2804" cost="50" weight="2500"/>
+		<item id="2805" cost="50" weight="3000"/>
+		<item id="2806" cost="25" weight="3500"/>
+		<item id="2807" cost="200" weight="3500"/>
+		<item id="2808" cost="50" weight="3500"/>
+		<item id="2809" cost="20" weight="3500"/>
+		<item id="2810" cost="20" weight="3500"/>
+		<item id="2811" cost="8" weight="3000"/>
+		<item id="2848" value="2000" weight="1900"/>
+		<item id="2849" weight="1900"/>
+		<item id="2850" weight="1900"/>
+		<item id="2851" weight="1900"/>
+		<item id="2852" value="2000" weight="1900"/>
+		<item id="2853" cost="5" weight="800"/>
+		<item id="2854" cost="10" weight="1800"/>
+		<item id="2855" cost="6" weight="950"/>
+		<item id="2856" cost="10" weight="600"/>
+		<item id="2857" cost="4" weight="800"/>
+		<item id="2858" cost="4" weight="800"/>
+		<item id="2859" cost="5" weight="800"/>
+		<item id="2860" cost="5" weight="800"/>
+		<item id="2861" cost="5" weight="800"/>
+		<item id="2862" cost="4" weight="800"/>
+		<item id="2863" cost="4" weight="800"/>
+		<item id="2864" cost="5" weight="800"/>
+		<item id="2865" cost="20" weight="1800"/>
+		<item id="2866" cost="10" weight="1800"/>
+		<item id="2867" cost="20" weight="1800"/>
+		<item id="2868" cost="20" weight="1800"/>
+		<item id="2869" cost="20" weight="1800"/>
+		<item id="2870" cost="10" weight="1800"/>
+		<item id="2871" cost="10" weight="1800"/>
+		<item id="2872" cost="20" weight="1800"/>
+		<item id="2873" cost="4" weight="2000"/>
+		<item id="2874" value="5" cost="8" weight="180"/>
+		<item id="2875" cost="3" weight="250"/>
+		<item id="2876" cost="3" weight="940"/>
+		<item id="2877" weight="300"/>
+		<item id="2879" weight="940"/>
+		<item id="2880" cost="4" weight="250"/>
+		<item id="2881" cost="2" weight="200"/>
+		<item id="2882" cost="10" weight="750"/>
+		<item id="2883" weight="200"/>
+		<item id="2884" weight="200"/>
+		<item id="2885" weight="300"/>
+		<item id="2893" cost="4" weight="9700"/>
+		<item id="2901" cost="10" weight="700"/>
+		<item id="2902" weight="380"/>
+		<item id="2903" value="250" weight="470"/>
+		<item id="2905" cost="6" weight="150"/>
+		<item id="2906" value="6" cost="20" weight="50"/>
+		<item id="2911" cost="8" weight="5000"/>
+		<item id="2914" cost="8" weight="3000"/>
+		<item id="2917" cost="2" weight="300"/>
+		<item id="2920" cost="2" weight="500"/>
+		<item id="2932" weight="1400"/>
+		<item id="2933" value="150" weight="900"/>
+		<item id="2948" weight="200"/>
+		<item id="2949" cost="120" weight="1250"/>
+		<item id="2950" cost="195" weight="3400"/>
+		<item id="2951" weight="2900"/>
+		<item id="2952" cost="140" weight="3200"/>
+		<item id="2953" weight="819"/>
+		<item id="2954" cost="150" weight="2200"/>
+		<item id="2955" weight="2300"/>
+		<item id="2956" weight="2500"/>
+		<item id="2957" weight="1500"/>
+		<item id="2958" value="8000" weight="1500"/>
+		<item id="2965" cost="5000" weight="4200"/>
+		<item id="2966" cost="1000" weight="3000"/>
+		<item id="2974" cost="40" weight="6500"/>
+		<item id="2977" weight="950"/>
+		<item id="2978" weight="950"/>
+		<item id="2980" weight="5600"/>
+		<item id="2981" cost="5" weight="1100"/>
+		<item id="2983" cost="6" weight="1100"/>
+		<item id="2984" cost="5" weight="1000"/>
+		<item id="2985" cost="5" weight="2300"/>
+		<item id="2988" cost="300" weight="1100"/>
+		<item id="2989" weight="860"/>
+		<item id="2991" value="200" weight="650"/>
+		<item id="2992" weight="80"/>
+		<item id="2993" weight="590"/>
+		<item id="2994" weight="1300"/>
+		<item id="2995" weight="750"/>
+		<item id="3001" weight="590"/>
+		<item id="3002" value="400" weight="650"/>
+		<item id="3003" value="15" cost="50" weight="1800"/>
+		<item id="3004" value="100" cost="990" weight="40"/>
+		<item id="3005" weight="90"/>
+		<item id="3006" value="30000" weight="40"/>
+		<item id="3007" value="250" weight="90"/>
+		<item id="3008" value="400" weight="490"/>
+		<item id="3009" weight="409"/>
+		<item id="3010" value="800" weight="179"/>
+		<item id="3011" weight="1900"/>
+		<item id="3012" value="100" weight="330"/>
+		<item id="3013" value="2000" cost="6600" weight="830"/>
+		<item id="3014" value="500" weight="610"/>
+		<item id="3015" weight="480"/>
+		<item id="3016" value="2000" cost="3560" weight="570"/>
+		<item id="3017" value="150" weight="115"/>
+		<item id="3018" value="200" weight="770"/>
+		<item id="3019" value="32000" weight="690"/>
+		<item id="3020" weight="1070"/>
+		<item id="3021" weight="680"/>
+		<item id="3022" weight="819"/>
+		<item id="3023" weight="869"/>
+		<item id="3024" weight="840"/>
+		<item id="3025" value="200" weight="840"/>
+		<item id="3026" value="160" cost="320" weight="20"/>
+		<item id="3027" value="280" cost="560" weight="20"/>
+		<item id="3028" value="300" cost="600" weight="10"/>
+		<item id="3029" value="250" cost="500" weight="10"/>
+		<item id="3030" value="250" cost="500" weight="10"/>
+		<item id="3031" value="1" cost="1" weight="10"/>
+		<item id="3032" value="250" cost="500" weight="10"/>
+		<item id="3033" value="200" cost="400" weight="10"/>
+		<item id="3034" value="320" weight="20"/>
+		<item id="3035" value="100" cost="100" weight="10"/>
+		<item id="3036" value="10000" weight="30"/>
+		<item id="3037" value="1000" weight="30"/>
+		<item id="3038" value="5000" weight="30"/>
+		<item id="3039" value="1000" weight="30"/>
+		<item id="3040" weight="80"/>
+		<item id="3041" value="5000" weight="30"/>
+		<item id="3042" value="100" weight="20"/>
+		<item id="3043" value="10000" cost="10000" weight="10"/>
+		<item id="3044" value="100" weight="1000"/>
+		<item id="3045" value="30" cost="100" weight="290"/>
+		<item id="3046" value="35" cost="120" weight="1500"/>
+		<item id="3048" value="250" cost="5000" weight="100"/>
+		<item id="3049" value="200" cost="5000" weight="100"/>
+		<item id="3050" value="50" cost="100" weight="80"/>
+		<item id="3051" value="100" cost="2000" weight="80"/>
+		<item id="3052" value="50" cost="900" weight="80"/>
+		<item id="3053" value="100" cost="2000" weight="90"/>
+		<item id="3054" value="50" cost="100" weight="500"/>
+		<item id="3055" value="2500" weight="600"/>
+		<item id="3056" value="50" cost="100" weight="500"/>
+		<item id="3057" value="45000" cost="50000" weight="420"/>
+		<item id="3058" value="200" weight="200"/>
+		<item id="3059" cost="150" weight="1800"/>
+		<item id="3060" value="750" weight="800"/>
+		<item id="3061" value="85" weight="263"/>
+		<item id="3062" value="170" weight="250"/>
+		<item id="3063" value="8000" weight="100"/>
+		<item id="3065" value="2000" cost="10000" weight="2500"/>
+		<item id="3066" value="100" cost="500" weight="1900"/>
+		<item id="3067" value="3000" cost="15000" weight="2700"/>
+		<item id="3068" value="10000" weight="2800"/>
+		<item id="3069" value="1000" cost="5000" weight="2300"/>
+		<item id="3070" value="200" cost="1000" weight="2100"/>
+		<item id="3071" value="3000" cost="15000" weight="2700"/>
+		<item id="3072" value="1000" cost="5000" weight="2300"/>
+		<item id="3073" value="2000" cost="10000" weight="2500"/>
+		<item id="3074" value="100" cost="500" weight="1900"/>
+		<item id="3075" value="200" cost="1000" weight="2100"/>
+		<item id="3076" value="190" cost="530" weight="3400"/>
+		<item id="3077" value="100" weight="420"/>
+		<item id="3078" value="50" weight="490"/>
+		<item id="3079" value="30000" weight="750"/>
+		<item id="3080" value="50000" weight="420"/>
+		<item id="3081" value="500" cost="5000" weight="700"/>
+		<item id="3082" value="100" cost="500" weight="270"/>
+		<item id="3083" value="50" cost="100" weight="380"/>
+		<item id="3084" value="100" cost="700" weight="550"/>
+		<item id="3085" value="100" cost="1000" weight="630"/>
+		<item id="3091" value="100" cost="500" weight="90"/>
+		<item id="3092" value="100" cost="500" weight="90"/>
+		<item id="3093" value="100" cost="500" weight="90"/>
+		<item id="3097" value="100" cost="2000" weight="110"/>
+		<item id="3098" value="100" cost="1800" weight="80"/>
+		<item id="3101" weight="5800"/>
+		<item id="3102" weight="420"/>
+		<item id="3103" weight="1400"/>
+		<item id="3104" weight="30"/>
+		<item id="3105" weight="200"/>
+		<item id="3110" weight="20"/>
+		<item id="3114" weight="2180"/>
+		<item id="3115" weight="950"/>
+		<item id="3116" weight="1900"/>
+		<item id="3120" weight="400"/>
+		<item id="3147" cost="10" weight="210"/>
+		<item id="3148" cost="15" weight="70"/>
+		<item id="3149" cost="162" weight="105"/>
+		<item id="3152" cost="95" weight="210"/>
+		<item id="3153" cost="65" weight="210"/>
+		<item id="3155" cost="108" weight="70"/>
+		<item id="3156" cost="160" weight="105"/>
+		<item id="3158" cost="30" weight="42"/>
+		<item id="3160" cost="175" weight="210"/>
+		<item id="3161" cost="45" weight="52"/>
+		<item id="3164" cost="38" weight="70"/>
+		<item id="3165" cost="700" weight="210"/>
+		<item id="3166" cost="85" weight="52"/>
+		<item id="3172" cost="21" weight="70"/>
+		<item id="3173" cost="85" weight="105"/>
+		<item id="3174" cost="4" weight="21"/>
+		<item id="3175" cost="37" weight="52"/>
+		<item id="3176" cost="52" weight="52"/>
+		<item id="3177" cost="80" weight="210"/>
+		<item id="3178" cost="210" weight="210"/>
+		<item id="3179" cost="12" weight="21"/>
+		<item id="3180" cost="116" weight="70"/>
+		<item id="3182" cost="16" weight="42"/>
+		<item id="3188" cost="28" weight="70"/>
+		<item id="3189" cost="30" weight="42"/>
+		<item id="3190" cost="61" weight="52"/>
+		<item id="3191" cost="45" weight="52"/>
+		<item id="3192" cost="117" weight="105"/>
+		<item id="3195" cost="46" weight="70"/>
+		<item id="3197" cost="26" weight="70"/>
+		<item id="3198" cost="12" weight="21"/>
+		<item id="3200" cost="31" weight="35"/>
+		<item id="3202" cost="37" weight="52"/>
+		<item id="3203" cost="375" weight="210"/>
+		<item id="3205" cost="1000" weight="110"/>
+		<item id="3206" weight="490"/>
+		<item id="3207" value="250" weight="2180"/>
+		<item id="3208" value="250" weight="6800"/>
+		<item id="3209" weight="650"/>
+		<item id="3210" weight="700"/>
+		<item id="3211" weight="1100"/>
+		<item id="3213" weight="4300"/>
+		<item id="3214" weight="420"/>
+		<item id="3215" weight="30"/>
+		<item id="3216" cost="8000" weight="150"/>
+		<item id="3217" cost="8000" weight="50000"/>
+		<item id="3218" cost="16000" weight="1200"/>
+		<item id="3219" cost="2000" weight="2200"/>
+		<item id="3220" cost="8000" weight="50"/>
+		<item id="3222" weight="160"/>
+		<item id="3223" weight="80"/>
+		<item id="3224" weight="140"/>
+		<item id="3225" weight="140"/>
+		<item id="3226" weight="1800"/>
+		<item id="3227" weight="260"/>
+		<item id="3228" weight="180"/>
+		<item id="3229" weight="2760"/>
+		<item id="3230" weight="2760"/>
+		<item id="3231" cost="5000" weight="1300"/>
+		<item id="3232" weight="150"/>
+		<item id="3233" cost="16000" weight="30"/>
+		<item id="3234" cost="150" weight="1500"/>
+		<item id="3235" weight="300"/>
+		<item id="3236" weight="250"/>
+		<item id="3237" weight="900"/>
+		<item id="3238" weight="600"/>
+		<item id="3239" weight="100"/>
+		<item id="3240" weight="400"/>
+		<item id="3241" weight="500"/>
+		<item id="3242" weight="350"/>
+		<item id="3243" weight="1300"/>
+		<item id="3244" weight="1800"/>
+		<item id="3245" weight="50"/>
+		<item id="3246" weight="770"/>
+		<item id="3247" weight="600"/>
+		<item id="3249" value="20000" weight="20"/>
+		<item id="3250" weight="160"/>
+		<item id="3253" weight="1500"/>
+		<item id="3264" value="25" cost="85" weight="3500"/>
+		<item id="3265" value="450" cost="950" weight="7000"/>
+		<item id="3266" value="80" cost="235" weight="5000"/>
+		<item id="3267" value="2" cost="5" weight="950"/>
+		<item id="3268" value="5" cost="8" weight="1800"/>
+		<item id="3269" value="400" weight="9000"/>
+		<item id="3270" value="1" cost="5" weight="2500"/>
+		<item id="3271" value="1000" cost="8000" weight="5000"/>
+		<item id="3272" value="5" cost="15" weight="1500"/>
+		<item id="3273" value="12" cost="35" weight="2500"/>
+		<item id="3274" value="7" cost="20" weight="4000"/>
+		<item id="3275" value="260" weight="7000"/>
+		<item id="3276" value="25" weight="3500"/>
+		<item id="3277" value="3" cost="9" weight="2000"/>
+		<item id="3278" value="460" weight="4300"/>
+		<item id="3279" value="1200" cost="10000" weight="8500"/>
+		<item id="3280" value="4000" weight="2300"/>
+		<item id="3281" value="17000" weight="18000"/>
+		<item id="3282" value="100" cost="430" weight="5400"/>
+		<item id="3283" value="118" cost="473" weight="4000"/>
+		<item id="3284" value="1000" cost="5000" weight="1500"/>
+		<item id="3285" value="51" cost="160" weight="4200"/>
+		<item id="3286" value="30" cost="90" weight="3800"/>
+		<item id="3287" value="2" cost="42" weight="200"/>
+		<item id="3288" value="350" weight="4200"/>
+		<item id="3289" value="1" cost="40" weight="3800"/>
+		<item id="3290" value="500" weight="1019"/>
+		<item id="3291" value="1" weight="420"/>
+		<item id="3292" value="1" weight="869"/>
+		<item id="3293" value="3" cost="7" weight="1050"/>
+		<item id="3294" value="10" cost="26" weight="3500"/>
+		<item id="3295" value="6000" weight="2900"/>
+		<item id="3296" value="360" weight="6400"/>
+		<item id="3297" value="900" cost="6000" weight="4100"/>
+		<item id="3298" value="2" cost="25" weight="500"/>
+		<item id="3299" value="50" weight="880"/>
+		<item id="3300" value="35" weight="3100"/>
+		<item id="3301" value="500" weight="5250"/>
+		<item id="3302" value="9000" weight="6700"/>
+		<item id="3303" value="300" weight="9000"/>
+		<item id="3304" value="50" cost="260" weight="2100"/>
+		<item id="3305" value="120" cost="350" weight="6800"/>
+		<item id="3306" value="1000" weight="1950"/>
+		<item id="3307" value="150" weight="2900"/>
+		<item id="3308" value="6" cost="35" weight="1650"/>
+		<item id="3309" value="450" weight="12500"/>
+		<item id="3310" value="9" weight="6600"/>
+		<item id="3311" value="170" cost="540" weight="5800"/>
+		<item id="3312" value="270" weight="6700"/>
+		<item id="3313" value="500" cost="3000" weight="8000"/>
+		<item id="3314" value="2000" weight="7800"/>
+		<item id="3315" value="11000" weight="11000"/>
+		<item id="3316" value="350" weight="4500"/>
+		<item id="3317" value="185" cost="590" weight="5100"/>
+		<item id="3318" value="2000" weight="5900"/>
+		<item id="3319" value="320" weight="9900"/>
+		<item id="3320" value="8000" weight="4000"/>
+		<item id="3321" weight="3800"/>
+		<item id="3322" value="2000" weight="9700"/>
+		<item id="3323" value="1500" weight="8200"/>
+		<item id="3324" value="6000" weight="1700"/>
+		<item id="3325" weight="4100"/>
+		<item id="3326" value="8000" weight="1450"/>
+		<item id="3327" value="110" cost="500" weight="6800"/>
+		<item id="3328" value="1000" weight="5250"/>
+		<item id="3329" weight="4100"/>
+		<item id="3330" value="90" weight="1839"/>
+		<item id="3331" weight="5250"/>
+		<item id="3332" value="30000" weight="7000"/>
+		<item id="3333" value="12000" weight="8000"/>
+		<item id="3334" value="23000" weight="5200"/>
+		<item id="3335" weight="6400"/>
+		<item id="3336" value="10" weight="3500"/>
+		<item id="3337" value="5" weight="3900"/>
+		<item id="3338" value="20" cost="75" weight="1900"/>
+		<item id="3339" value="15000" weight="2450"/>
+		<item id="3340" value="50000" weight="11000"/>
+		<item id="3341" value="42000" weight="4000"/>
+		<item id="3342" value="12000" weight="6150"/>
+		<item id="3343" weight="4100"/>
+		<item id="3344" value="1500" weight="6150"/>
+		<item id="3345" value="200" weight="2900"/>
+		<item id="3346" value="500" weight="8000"/>
+		<item id="3347" value="25" weight="2200"/>
+		<item id="3348" value="1000" weight="5000"/>
+		<item id="3349" value="160" cost="500" weight="4000"/>
+		<item id="3350" value="130" cost="400" weight="3100"/>
+		<item id="3351" value="293" cost="580" weight="4600"/>
+		<item id="3352" value="17" cost="52" weight="4200"/>
+		<item id="3353" value="150" cost="390" weight="3000"/>
+		<item id="3354" value="30" cost="120" weight="2700"/>
+		<item id="3355" value="4" cost="12" weight="2200"/>
+		<item id="3356" value="1000" weight="5000"/>
+		<item id="3357" value="400" cost="1200" weight="12000"/>
+		<item id="3358" value="70" cost="200" weight="10000"/>
+		<item id="3359" value="150" cost="450" weight="8000"/>
+		<item id="3360" value="20000" weight="8000"/>
+		<item id="3361" value="12" cost="35" weight="6000"/>
+		<item id="3362" value="15" cost="50" weight="2600"/>
+		<item id="3363" value="180" weight="4800"/>
+		<item id="3364" value="30000" weight="5600"/>
+		<item id="3365" value="420" weight="3200"/>
+		<item id="3366" value="90000" weight="8500"/>
+		<item id="3367" value="66" cost="265" weight="3900"/>
+		<item id="3368" value="320" weight="1200"/>
+		<item id="3369" value="5000" weight="6800"/>
+		<item id="3370" value="5000" weight="12000"/>
+		<item id="3371" value="5000" weight="7000"/>
+		<item id="3372" value="49" cost="195" weight="3800"/>
+		<item id="3373" value="500" weight="4600"/>
+		<item id="3374" value="22" weight="3100"/>
+		<item id="3375" value="16" cost="110" weight="3200"/>
+		<item id="3376" value="20" cost="63" weight="2450"/>
+		<item id="3377" value="75" cost="260" weight="10500"/>
+		<item id="3378" value="25" cost="90" weight="7100"/>
+		<item id="3379" value="3" cost="16" weight="2500"/>
+		<item id="3380" value="900" cost="8000" weight="12000"/>
+		<item id="3381" value="12000" weight="9900"/>
+		<item id="3382" value="12000" weight="6500"/>
+		<item id="3383" value="400" cost="1500" weight="12000"/>
+		<item id="3384" value="250" cost="1000" weight="4600"/>
+		<item id="3385" value="2500" weight="2950"/>
+		<item id="3386" value="40000" weight="11400"/>
+		<item id="3387" value="40000" weight="2950"/>
+		<item id="3388" value="195" weight="8000"/>
+		<item id="3389" value="84" weight="7000"/>
+		<item id="3390" value="155" weight="5100"/>
+		<item id="3391" value="6000" weight="5200"/>
+		<item id="3392" value="30000" weight="4800"/>
+		<item id="3393" weight="2950"/>
+		<item id="3394" weight="4500"/>
+		<item id="3395" weight="4000"/>
+		<item id="3396" weight="4200"/>
+		<item id="3397" value="30000" weight="13000"/>
+		<item id="3398" value="40000" weight="4900"/>
+		<item id="3399" weight="9000"/>
+		<item id="3400" weight="3250"/>
+		<item id="3401" weight="3300"/>
+		<item id="3402" weight="8000"/>
+		<item id="3403" value="250" weight="2500"/>
+		<item id="3404" value="1000" weight="9500"/>
+		<item id="3405" value="280" weight="4200"/>
+		<item id="3406" value="850" weight="2100"/>
+		<item id="3407" value="900" weight="2200"/>
+		<item id="3408" value="7500" weight="4600"/>
+		<item id="3409" value="80" cost="240" weight="6900"/>
+		<item id="3410" value="45" cost="125" weight="6500"/>
+		<item id="3411" value="25" cost="65" weight="6000"/>
+		<item id="3412" value="5" cost="15" weight="4000"/>
+		<item id="3413" value="95" weight="6200"/>
+		<item id="3414" value="50000" weight="5700"/>
+		<item id="3415" value="2000" weight="5500"/>
+		<item id="3416" value="4000" weight="6000"/>
+		<item id="3417" value="520" weight="5400"/>
+		<item id="3418" value="1200" cost="7000" weight="4700"/>
+		<item id="3419" value="8000" weight="6200"/>
+		<item id="3420" value="30000" weight="2600"/>
+		<item id="3421" value="400" weight="5200"/>
+		<item id="3422" value="480" weight="8400"/>
+		<item id="3423" value="650" weight="6800"/>
+		<item id="3424" value="1500" weight="6700"/>
+		<item id="3425" value="100" cost="500" weight="5500"/>
+		<item id="3426" value="16" cost="50" weight="5900"/>
+		<item id="3427" value="49" weight="5200"/>
+		<item id="3428" value="8000" weight="8200"/>
+		<item id="3429" value="800" weight="4200"/>
+		<item id="3430" value="50" weight="6300"/>
+		<item id="3431" value="85" cost="260" weight="6600"/>
+		<item id="3432" value="900" cost="5000" weight="6100"/>
+		<item id="3433" value="59" weight="5000"/>
+		<item id="3434" value="15000" weight="3800"/>
+		<item id="3435" value="5000" weight="4900"/>
+		<item id="3436" value="9000" weight="5800"/>
+		<item id="3437" weight="6200"/>
+		<item id="3438" weight="6200"/>
+		<item id="3439" value="16000" weight="3500"/>
+		<item id="3440" value="2000" weight="4700"/>
+		<item id="3441" value="80" weight="5500"/>
+		<item id="3442" value="35000" weight="5100"/>
+		<item id="3443" value="850" weight="6900"/>
+		<item id="3444" value="120" weight="4900"/>
+		<item id="3445" value="280" weight="5900"/>
+		<item id="3446" cost="4" weight="80"/>
+		<item id="3447" cost="3" weight="70"/>
+		<item id="3448" weight="80"/>
+		<item id="3449" weight="90"/>
+		<item id="3450" cost="7" weight="90"/>
+		<item id="3451" cost="25" weight="2500"/>
+		<item id="3452" cost="20" weight="1500"/>
+		<item id="3453" value="10" cost="25" weight="3000"/>
+		<item id="3454" cost="12" weight="1100"/>
+		<item id="3455" cost="15" weight="2800"/>
+		<item id="3456" value="15" cost="50" weight="4500"/>
+		<item id="3457" value="8" cost="20" weight="3500"/>
+		<item id="3459" value="15" weight="600"/>
+		<item id="3460" cost="80" weight="1150"/>
+		<item id="3461" cost="95" weight="1000"/>
+		<item id="3462" value="5" weight="2000"/>
+		<item id="3463" value="10" weight="950"/>
+		<item id="3464" cost="20" weight="1200"/>
+		<item id="3465" cost="30" weight="5250"/>
+		<item id="3466" cost="20" weight="1800"/>
+		<item id="3467" cost="10" weight="100"/>
+		<item id="3468" cost="10" weight="100"/>
+		<item id="3469" cost="10" weight="100"/>
+		<item id="3470" cost="5" weight="100"/>
+		<item id="3471" cost="15" weight="660"/>
+		<item id="3472" cost="12" weight="1400"/>
+		<item id="3473" cost="12" weight="500"/>
+		<item id="3474" weight="1850"/>
+		<item id="3475" weight="1850"/>
+		<item id="3476" weight="1850"/>
+		<item id="3477" weight="1750"/>
+		<item id="3478" weight="1750"/>
+		<item id="3479" weight="1750"/>
+		<item id="3480" weight="1750"/>
+		<item id="3481" value="75" cost="280" weight="2100"/>
+		<item id="3482" weight="2100"/>
+		<item id="3483" value="40" cost="150" weight="850"/>
+		<item id="3492" cost="1" weight="5"/>
+		<item id="3503" cost="10" weight="1800"/>
+		<item id="3504" weight="1800"/>
+		<item id="3505" cost="5" weight="50"/>
+		<item id="3506" weight="50"/>
+		<item id="3507" cost="1" weight="10"/>
+		<item id="3509" value="8" cost="10" weight="200"/>
+		<item id="3549" weight="800"/>
+		<item id="3550" value="2000" weight="1000"/>
+		<item id="3551" cost="2" weight="600"/>
+		<item id="3552" value="2" cost="10" weight="900"/>
+		<item id="3553" weight="600"/>
+		<item id="3554" value="30000" weight="2900"/>
+		<item id="3555" weight="3100"/>
+		<item id="3556" value="1000" weight="900"/>
+		<item id="3557" value="115" weight="5000"/>
+		<item id="3558" value="25" cost="80" weight="3500"/>
+		<item id="3559" value="9" cost="10" weight="1800"/>
+		<item id="3560" value="750" weight="350"/>
+		<item id="3561" value="1" cost="12" weight="2400"/>
+		<item id="3562" value="1" cost="7" weight="2700"/>
+		<item id="3563" cost="25" weight="930"/>
+		<item id="3564" weight="1400"/>
+		<item id="3565" cost="9" weight="3200"/>
+		<item id="3566" weight="2600"/>
+		<item id="3567" value="10000" weight="2200"/>
+		<item id="3568" value="50" weight="1000"/>
+		<item id="3569" weight="2400"/>
+		<item id="3570" weight="2500"/>
+		<item id="3571" cost="550" weight="4800"/>
+		<item id="3572" cost="15" weight="200"/>
+		<item id="3573" weight="750"/>
+		<item id="3574" value="150" weight="850"/>
+		<item id="3575" weight="1100"/>
+		<item id="3576" weight="700"/>
+		<item id="3577" value="2" cost="3" weight="1300"/>
+		<item id="3578" cost="5" weight="520"/>
+		<item id="3579" cost="4" weight="320"/>
+		<item id="3580" value="100" weight="830"/>
+		<item id="3581" weight="50"/>
+		<item id="3582" value="4" cost="5" weight="2000"/>
+		<item id="3583" cost="25" weight="3000"/>
+		<item id="3584" cost="4" weight="140"/>
+		<item id="3585" cost="3" weight="150"/>
+		<item id="3586" cost="5" weight="110"/>
+		<item id="3587" cost="2" weight="180"/>
+		<item id="3588" cost="1" weight="20"/>
+		<item id="3589" weight="480"/>
+		<item id="3590" cost="1" weight="20"/>
+		<item id="3591" cost="1" weight="20"/>
+		<item id="3592" cost="3" weight="250"/>
+		<item id="3593" cost="8" weight="950"/>
+		<item id="3594" cost="10" weight="1350"/>
+		<item id="3595" cost="2" weight="160"/>
+		<item id="3596" cost="3" weight="100"/>
+		<item id="3597" cost="3" weight="350"/>
+		<item id="3598" cost="2" weight="10"/>
+		<item id="3599" weight="50"/>
+		<item id="3600" value="2" cost="2" weight="500"/>
+		<item id="3601" cost="2" weight="100"/>
+		<item id="3602" cost="3" weight="400"/>
+		<item id="3603" weight="100"/>
+		<item id="3604" weight="100"/>
+		<item id="3605" cost="1" weight="1250"/>
+		<item id="3606" cost="2" weight="30"/>
+		<item id="3607" cost="4" weight="400"/>
+		<item id="3655" weight="10"/>
+		<item id="3658" cost="11" weight="80"/>
+		<item id="3659" weight="80"/>
+		<item id="3660" weight="80"/>
+		<item id="3661" value="25" weight="60"/>
+		<item id="3668" cost="9" weight="50"/>
+		<item id="3673" cost="50" weight="70"/>
+		<item id="3674" value="50" weight="80"/>
+		<item id="3723" cost="10" weight="40"/>
+		<item id="3724" cost="12" weight="50"/>
+		<item id="3725" cost="10" weight="20"/>
+		<item id="3726" value="150" weight="30"/>
+		<item id="3727" value="15" weight="30"/>
+		<item id="3728" value="100" weight="10"/>
+		<item id="3729" weight="10"/>
+		<item id="3730" weight="10"/>
+		<item id="3731" value="200" weight="10"/>
+		<item id="3732" value="100" weight="10"/>
+		<item id="3734" value="500" weight="120"/>
+		<item id="3735" value="20" cost="28" weight="20"/>
+		<item id="3736" value="15" cost="21" weight="30"/>
+		<item id="3737" cost="24" weight="30"/>
+		<item id="3738" value="10" weight="90"/>
+		<item id="3739" value="10" weight="50"/>
+		<item id="3740" value="20" weight="20"/>
+		<item id="3741" value="25" weight="100"/>
+		<item id="3997" weight="4200"/>
+		<item id="4010" weight="4200"/>
+		<item id="4033" value="40000" weight="2500"/>
+		<item id="4049" weight="2550"/>
+		<item id="4050" weight="700"/>
+		<item id="4061" weight="999"/>
+		<item id="4065" weight="1800"/>
+		<item id="4115" weight="2000"/>
+		<item id="4827" cost="18000" weight="20"/>
+		<item id="4828" cost="50" weight="300"/>
+		<item id="4829" weight="100"/>
+		<item id="4831" value="500" weight="200"/>
+		<item id="4832" cost="24000" weight="2000"/>
+		<item id="4834" weight="110"/>
+		<item id="4835" cost="8000" weight="6600"/>
+		<item id="4836" cost="15000" weight="1000"/>
+		<item id="4838" cost="5000" weight="500"/>
+		<item id="4839" value="500" weight="2000"/>
+		<item id="4840" weight="250"/>
+		<item id="4841" cost="3000" weight="250"/>
+		<item id="4842" cost="500" weight="100"/>
+		<item id="4843" cost="500" weight="100"/>
+		<item id="4844" weight="1300"/>
+		<item id="4845" weight="6000"/>
+		<item id="4846" cost="4000" weight="200"/>
+		<item id="4847" cost="6000" weight="10000"/>
+		<item id="4852" cost="750" weight="600"/>
+		<item id="4853" cost="750" weight="600"/>
+		<item id="4863" cost="250" weight="700"/>
+		<item id="4864" cost="250" weight="700"/>
+		<item id="4865" cost="250" weight="700"/>
+		<item id="4866" cost="250" weight="700"/>
+		<item id="4867" cost="500" weight="1800"/>
+		<item id="4868" cost="500" weight="1800"/>
+		<item id="4869" cost="500" weight="1800"/>
+		<item id="4870" cost="500" weight="1800"/>
+		<item id="4871" value="50" weight="90"/>
+		<item id="4872" weight="7000"/>
+		<item id="5014" weight="180"/>
+		<item id="5021" cost="80" weight="30"/>
+		<item id="5080" value="30000" weight="600"/>
+		<item id="5086" cost="65" weight="2500"/>
+		<item id="5087" cost="65" weight="2500"/>
+		<item id="5088" cost="65" weight="2500"/>
+		<item id="5089" cost="250" weight="700"/>
+		<item id="5096" cost="8" weight="180"/>
+		<item id="5460" value="5000" cost="5000" weight="21000"/>
+		<item id="5461" value="3000" weight="800"/>
+		<item id="5466" weight="2250"/>
+		<item id="5467" cost="100" weight="3050"/>
+		<item id="5479" value="2000" weight="1000"/>
+		<item id="5552" cost="150" weight="280"/>
+		<item id="5615" cost="40" weight="1000"/>
+		<item id="5668" value="4000" weight="1400"/>
+		<item id="5678" weight="30"/>
+		<item id="5706" cost="1000" weight="830"/>
+		<item id="5710" value="300" weight="1500"/>
+		<item id="5741" value="40000" weight="4200"/>
+		<item id="5786" weight="100"/>
+		<item id="5791" value="6000" weight="850"/>
+		<item id="5792" cost="100" weight="200"/>
+		<item id="5793" cost="100" weight="200"/>
+		<item id="5794" cost="100" weight="200"/>
+		<item id="5795" cost="100" weight="200"/>
+		<item id="5796" cost="100" weight="200"/>
+		<item id="5797" cost="100" weight="200"/>
+		<item id="5799" value="3000" weight="1500"/>
+		<item id="5801" weight="1700"/>
+		<item id="5802" weight="1200"/>
+		<item id="5803" value="42000" weight="9500"/>
+		<item id="5804" value="2000" weight="500"/>
+		<item id="5805" cost="5000" weight="1500"/>
+		<item id="5806" cost="3000" weight="1500"/>
+		<item id="5807" cost="2000" weight="1500"/>
+		<item id="5808" weight="3500"/>
+		<item id="5809" value="6000" weight="30"/>
+		<item id="5810" value="500" weight="650"/>
+		<item id="5812" weight="2200"/>
+		<item id="5813" weight="2200"/>
+		<item id="5865" cost="100" weight="1500"/>
+		<item id="5875" value="2000" weight="400"/>
+		<item id="5876" value="150" weight="50"/>
+		<item id="5877" value="100" weight="60"/>
+		<item id="5878" value="80" weight="40"/>
+		<item id="5879" value="100" weight="10"/>
+		<item id="5880" value="500" weight="200"/>
+		<item id="5881" value="120" weight="80"/>
+		<item id="5882" value="200" weight="90"/>
+		<item id="5883" value="120" weight="120"/>
+		<item id="5884" value="40000" weight="600"/>
+		<item id="5885" value="10000" weight="300"/>
+		<item id="5886" value="1000" weight="100"/>
+		<item id="5887" value="10000" weight="500"/>
+		<item id="5888" value="500" weight="500"/>
+		<item id="5889" value="3000" weight="500"/>
+		<item id="5890" value="30" weight="10"/>
+		<item id="5891" value="20000" weight="1000"/>
+		<item id="5892" value="15000" weight="5000"/>
+		<item id="5893" value="250" weight="500"/>
+		<item id="5894" value="50" weight="100"/>
+		<item id="5895" value="150" weight="120"/>
+		<item id="5896" value="100" weight="120"/>
+		<item id="5897" value="70" weight="80"/>
+		<item id="5898" value="80" weight="500"/>
+		<item id="5899" value="90" weight="500"/>
+		<item id="5900" weight="50"/>
+		<item id="5901" value="50" weight="500"/>
+		<item id="5902" value="40" weight="80"/>
+		<item id="5903" weight="850"/>
+		<item id="5904" value="8000" weight="100"/>
+		<item id="5905" value="100" weight="100"/>
+		<item id="5906" value="300" weight="100"/>
+		<item id="5907" cost="34000" weight="200"/>
+		<item id="5908" weight="100"/>
+		<item id="5909" value="100" weight="500"/>
+		<item id="5910" value="200" weight="500"/>
+		<item id="5911" value="300" weight="500"/>
+		<item id="5912" value="200" weight="500"/>
+		<item id="5913" value="100" weight="500"/>
+		<item id="5914" value="150" weight="500"/>
+		<item id="5917" value="150" weight="850"/>
+		<item id="5918" value="200" weight="1200"/>
+		<item id="5919" value="8000" weight="1250"/>
+		<item id="5920" value="100" weight="80"/>
+		<item id="5921" value="50" weight="210"/>
+		<item id="5922" value="90" weight="250"/>
+		<item id="5924" weight="4600"/>
+		<item id="5925" value="70" weight="600"/>
+		<item id="5926" weight="1800"/>
+		<item id="5927" weight="800"/>
+		<item id="5928" cost="50" weight="3200"/>
+		<item id="5929" weight="3200"/>
+		<item id="5930" value="2000" weight="1250"/>
+		<item id="5937" weight="1800"/>
+		<item id="5938" weight="700"/>
+		<item id="5939" weight="700"/>
+		<item id="5940" weight="330"/>
+		<item id="5941" cost="5000" weight="500"/>
+		<item id="5942" weight="500"/>
+		<item id="5943" weight="3500"/>
+		<item id="5944" value="25" weight="20"/>
+		<item id="5945" weight="450"/>
+		<item id="5946" weight="450"/>
+		<item id="5947" weight="4000"/>
+		<item id="5948" value="200" weight="60"/>
+		<item id="5949" cost="20" weight="1800"/>
+		<item id="5950" cost="4" weight="800"/>
+		<item id="5951" weight="250"/>
+		<item id="5953" weight="100"/>
+		<item id="5954" value="1000" weight="1000"/>
+		<item id="5957" weight="120"/>
+		<item id="5958" weight="120"/>
+		<item id="6086" weight="10"/>
+		<item id="6087" value="100" weight="50"/>
+		<item id="6088" value="250" weight="50"/>
+		<item id="6089" value="400" weight="50"/>
+		<item id="6090" value="800" weight="50"/>
+		<item id="6091" cost="500" weight="50"/>
+		<item id="6092" cost="500" weight="50"/>
+		<item id="6093" weight="90"/>
+		<item id="6095" value="500" weight="2000"/>
+		<item id="6096" value="1000" weight="1250"/>
+		<item id="6097" weight="500"/>
+		<item id="6098" weight="150"/>
+		<item id="6099" weight="1250"/>
+		<item id="6100" weight="2000"/>
+		<item id="6101" weight="2500"/>
+		<item id="6102" weight="150"/>
+		<item id="6103" value="30000" weight="1300"/>
+		<item id="6104" weight="170"/>
+		<item id="6105" cost="16000" weight="1700"/>
+		<item id="6106" cost="80" weight="300"/>
+		<item id="6107" weight="3800"/>
+		<item id="6108" cost="150" weight="1300"/>
+		<item id="6113" weight="50"/>
+		<item id="6114" cost="90" weight="3500"/>
+		<item id="6115" cost="90" weight="3500"/>
+		<item id="6119" cost="200" weight="120"/>
+		<item id="6120" cost="16000" weight="5800"/>
+		<item id="6124" cost="40000" weight="1100"/>
+		<item id="6125" weight="30"/>
+		<item id="6126" weight="500"/>
+		<item id="6131" value="150" weight="5200"/>
+		<item id="6276" weight="100"/>
+		<item id="6277" cost="50" weight="500"/>
+		<item id="6278" weight="600"/>
+		<item id="6279" weight="700"/>
+		<item id="6299" value="1000" weight="80"/>
+		<item id="6371" cost="80" weight="2500"/>
+		<item id="6372" cost="70" weight="2500"/>
+		<item id="6387" cost="10" weight="100"/>
+		<item id="6390" weight="3200"/>
+		<item id="6392" cost="30" weight="500"/>
+		<item id="6393" weight="500"/>
+		<item id="6432" weight="3200"/>
+		<item id="6489" cost="40" weight="1800"/>
+		<item id="6491" value="2000" weight="200"/>
+		<item id="6496" weight="8000"/>
+		<item id="6498" weight="150"/>
+		<item id="6499" value="1000" weight="100"/>
+		<item id="6500" weight="500"/>
+		<item id="6505" cost="20" weight="600"/>
+		<item id="6509" cost="20" weight="600"/>
+		<item id="6510" cost="20" weight="600"/>
+		<item id="6511" weight="750"/>
+		<item id="6522" weight="200"/>
+		<item id="6525" value="3000" weight="1000"/>
+		<item id="6526" weight="5"/>
+		<item id="6527" value="42000" weight="6400"/>
+		<item id="6528" weight="90"/>
+		<item id="6529" weight="800"/>
+		<item id="6530" weight="800"/>
+		<item id="6531" weight="750"/>
+		<item id="6534" value="50000" weight="8000"/>
+		<item id="6535" value="50000" weight="3000"/>
+		<item id="6536" value="50000" weight="1000"/>
+		<item id="6537" value="50000" weight="2500"/>
+		<item id="6539" value="50000" weight="3500"/>
+		<item id="6540" value="50000" weight="6500"/>
+		<item id="6541" cost="2" weight="30"/>
+		<item id="6542" cost="2" weight="30"/>
+		<item id="6543" cost="2" weight="30"/>
+		<item id="6544" cost="2" weight="30"/>
+		<item id="6545" cost="2" weight="30"/>
+		<item id="6546" value="50000" weight="1500"/>
+		<item id="6547" weight="100"/>
+		<item id="6548" weight="100"/>
+		<item id="6549" weight="100"/>
+		<item id="6550" weight="100"/>
+		<item id="6551" weight="100"/>
+		<item id="6553" value="45000" weight="5800"/>
+		<item id="6558" weight="200"/>
+		<item id="6561" value="20000" weight="500"/>
+		<item id="6566" value="6000" weight="850"/>
+		<item id="6567" weight="750"/>
+		<item id="6568" value="30000" weight="600"/>
+		<item id="6569" weight="5"/>
+		<item id="6570" weight="1000"/>
+		<item id="6571" weight="1000"/>
+		<item id="6572" cost="80" weight="50"/>
+		<item id="6573" cost="80" weight="50"/>
+		<item id="6574" weight="10"/>
+		<item id="6575" weight="10"/>
+		<item id="6576" cost="50" weight="100"/>
+		<item id="6577" weight="10"/>
+		<item id="6578" cost="600" weight="750"/>
+		<item id="7140" weight="1200"/>
+		<item id="7141" weight="1200"/>
+		<item id="7158" value="100" weight="1200"/>
+		<item id="7159" value="100" weight="800"/>
+		<item id="7183" value="20000" weight="850"/>
+		<item id="7184" value="20000" weight="850"/>
+		<item id="7242" weight="250"/>
+		<item id="7243" weight="750"/>
+		<item id="7244" weight="750"/>
+		<item id="7245" weight="100"/>
+		<item id="7246" cost="25" weight="700"/>
+		<item id="7247" weight="50"/>
+		<item id="7248" weight="100"/>
+		<item id="7249" weight="20"/>
+		<item id="7250" cost="100" weight="100"/>
+		<item id="7251" weight="1"/>
+		<item id="7253" weight="180"/>
+		<item id="7281" cost="500" weight="250"/>
+		<item id="7286" cost="25" weight="700"/>
+		<item id="7289" weight="1900"/>
+		<item id="7290" value="2000" weight="1900"/>
+		<item id="7314" weight="90"/>
+		<item id="7315" weight="250"/>
+		<item id="7342" cost="20" weight="1800"/>
+		<item id="7343" cost="5" weight="800"/>
+		<item id="7363" cost="5" weight="80"/>
+		<item id="7364" cost="5" weight="70"/>
+		<item id="7365" cost="7" weight="70"/>
+		<item id="7366" weight="200"/>
+		<item id="7367" weight="2000"/>
+		<item id="7368" cost="100" weight="200"/>
+		<item id="7372" cost="10" weight="100"/>
+		<item id="7373" weight="100"/>
+		<item id="7374" weight="100"/>
+		<item id="7375" weight="100"/>
+		<item id="7376" weight="100"/>
+		<item id="7377" weight="100"/>
+		<item id="7378" cost="15" weight="2500"/>
+		<item id="7379" value="1500" weight="3800"/>
+		<item id="7380" value="6000" weight="4500"/>
+		<item id="7381" value="300" weight="4500"/>
+		<item id="7382" value="36000" weight="15000"/>
+		<item id="7383" value="25000" weight="4800"/>
+		<item id="7384" value="30000" weight="3500"/>
+		<item id="7385" cost="610" weight="3600"/>
+		<item id="7386" value="12000" weight="6800"/>
+		<item id="7387" value="3000" weight="1500"/>
+		<item id="7388" value="30000" weight="5200"/>
+		<item id="7389" value="30000" weight="6100"/>
+		<item id="7390" value="40000" weight="5000"/>
+		<item id="7391" value="16000" weight="6100"/>
+		<item id="7392" value="6000" weight="5400"/>
+		<item id="7393" value="40000" weight="500"/>
+		<item id="7394" value="3000" weight="500"/>
+		<item id="7395" weight="500"/>
+		<item id="7396" value="20000" weight="500"/>
+		<item id="7397" value="3000" weight="500"/>
+		<item id="7398" value="500" weight="500"/>
+		<item id="7399" value="10000" weight="500"/>
+		<item id="7400" value="3000" weight="500"/>
+		<item id="7401" value="500" weight="500"/>
+		<item id="7402" value="15000" weight="8200"/>
+		<item id="7403" value="40000" weight="13000"/>
+		<item id="7404" value="20000" weight="1700"/>
+		<item id="7405" weight="7200"/>
+		<item id="7406" value="6000" weight="5900"/>
+		<item id="7407" value="8000" weight="3100"/>
+		<item id="7408" value="1500" weight="2000"/>
+		<item id="7409" weight="4200"/>
+		<item id="7410" value="20000" weight="2300"/>
+		<item id="7411" value="20000" weight="6150"/>
+		<item id="7412" value="18000" weight="6300"/>
+		<item id="7413" value="4000" weight="8100"/>
+		<item id="7414" value="20000" weight="5500"/>
+		<item id="7415" value="30000" weight="7800"/>
+		<item id="7416" value="30000" weight="5200"/>
+		<item id="7417" value="45000" weight="4600"/>
+		<item id="7418" value="35000" weight="4600"/>
+		<item id="7419" value="15000" weight="3800"/>
+		<item id="7420" weight="5900"/>
+		<item id="7421" value="22000" weight="2600"/>
+		<item id="7422" value="25000" weight="3200"/>
+		<item id="7423" weight="12000"/>
+		<item id="7424" value="5000" weight="3800"/>
+		<item id="7425" value="500" weight="5100"/>
+		<item id="7426" value="8000" weight="3500"/>
+		<item id="7427" value="9000" weight="6300"/>
+		<item id="7428" value="10000" weight="12000"/>
+		<item id="7429" value="40000" weight="3900"/>
+		<item id="7430" value="3000" weight="1800"/>
+		<item id="7431" weight="18000"/>
+		<item id="7432" value="1000" weight="4200"/>
+		<item id="7433" weight="5500"/>
+		<item id="7434" value="40000" weight="9200"/>
+		<item id="7435" weight="8200"/>
+		<item id="7436" value="5000" weight="5600"/>
+		<item id="7437" value="7000" weight="2100"/>
+		<item id="7438" value="2000" weight="3900"/>
+		<item id="7439" value="500" weight="200"/>
+		<item id="7440" value="500" weight="200"/>
+		<item id="7441" weight="2000"/>
+		<item id="7442" weight="2000"/>
+		<item id="7443" value="500" weight="200"/>
+		<item id="7444" weight="2000"/>
+		<item id="7445" weight="2000"/>
+		<item id="7446" weight="2000"/>
+		<item id="7447" cost="50" weight="1000"/>
+		<item id="7448" cost="50" weight="1000"/>
+		<item id="7449" value="600" weight="6900"/>
+		<item id="7450" weight="11000"/>
+		<item id="7451" value="10000" weight="4100"/>
+		<item id="7452" value="5000" weight="6800"/>
+		<item id="7453" value="55000" weight="9900"/>
+		<item id="7454" value="3000" weight="9500"/>
+		<item id="7455" weight="5500"/>
+		<item id="7456" value="10000" weight="3800"/>
+		<item id="7457" value="2000" weight="1200"/>
+		<item id="7458" weight="1800"/>
+		<item id="7459" value="1500" weight="500"/>
+		<item id="7460" value="1500" weight="4100"/>
+		<item id="7461" value="200" weight="5100"/>
+		<item id="7462" value="400" weight="3100"/>
+		<item id="7463" value="6000" weight="2000"/>
+		<item id="7464" value="850" weight="150"/>
+		<item id="7527" weight="170"/>
+		<item id="7528" weight="100"/>
+		<item id="7529" weight="100"/>
+		<item id="7530" weight="100"/>
+		<item id="7531" weight="100"/>
+		<item id="7532" weight="550"/>
+		<item id="7533" weight="200"/>
+		<item id="7642" cost="190" weight="310"/>
+		<item id="7643" cost="310" weight="310"/>
+		<item id="7644" weight="265"/>
+		<item id="7754" weight="630"/>
+		<item id="7773" cost="500" weight="4100"/>
+		<item id="7774" cost="500" weight="2900"/>
+		<item id="7785" cost="100" weight="1800"/>
+		<item id="7786" weight="1000"/>
+		<item id="7864" cost="200" weight="8000"/>
+		<item id="7865" weight="1000"/>
+		<item id="7866" cost="1000" weight="150"/>
+		<item id="7870" weight="1500"/>
+		<item id="7871" weight="1000"/>
+		<item id="7873" weight="150"/>
+		<item id="7876" weight="265"/>
+		<item id="7882" weight="10"/>
+		<item id="7889" cost="50" weight="85"/>
+		<item id="7924" cost="10000" weight="75"/>
+		<item id="7932" weight="1000"/>
+		<item id="7933" weight="10"/>
+		<item id="7934" weight="100"/>
+		<item id="7935" weight="10"/>
+		<item id="7936" cost="7000" weight="3200"/>
+		<item id="7939" cost="5000" weight="500"/>
+		<item id="7940" weight="10"/>
+		<item id="7991" cost="450" weight="2500"/>
+		<item id="7992" cost="150" weight="900"/>
+		<item id="7993" weight="2500"/>
+		<item id="8010" cost="4" weight="170"/>
+		<item id="8011" cost="3" weight="130"/>
+		<item id="8012" cost="1" weight="20"/>
+		<item id="8013" cost="3" weight="20"/>
+		<item id="8014" cost="3" weight="200"/>
+		<item id="8015" cost="2" weight="140"/>
+		<item id="8016" cost="2" weight="30"/>
+		<item id="8017" cost="2" weight="130"/>
+		<item id="8018" weight="100"/>
+		<item id="8019" weight="500"/>
+		<item id="8020" weight="1200"/>
+		<item id="8021" value="10000" weight="3500"/>
+		<item id="8022" value="40000" weight="5500"/>
+		<item id="8023" weight="12000"/>
+		<item id="8024" weight="5500"/>
+		<item id="8025" value="50000" weight="15000"/>
+		<item id="8026" weight="4500"/>
+		<item id="8027" value="25000" weight="5200"/>
+		<item id="8028" weight="3500"/>
+		<item id="8029" value="12000" weight="2200"/>
+		<item id="8030" weight="4400"/>
+		<item id="8031" value="10" weight="50"/>
+		<item id="8032" weight="5"/>
+		<item id="8037" weight="2900"/>
+		<item id="8038" weight="2950"/>
+		<item id="8039" value="50000" weight="2850"/>
+		<item id="8040" weight="2850"/>
+		<item id="8041" value="50000" weight="2850"/>
+		<item id="8042" value="350" cost="1000" weight="2650"/>
+		<item id="8043" value="6000" weight="2100"/>
+		<item id="8044" value="500" cost="1300" weight="3500"/>
+		<item id="8045" value="3000" weight="1900"/>
+		<item id="8046" weight="1000"/>
+		<item id="8047" weight="1500"/>
+		<item id="8048" weight="1300"/>
+		<item id="8049" value="16000" weight="8500"/>
+		<item id="8050" value="16000" weight="8450"/>
+		<item id="8051" weight="8450"/>
+		<item id="8052" value="16000" weight="8450"/>
+		<item id="8053" weight="12000"/>
+		<item id="8054" weight="12000"/>
+		<item id="8055" value="50000" weight="12000"/>
+		<item id="8056" weight="10000"/>
+		<item id="8057" value="55000" weight="7500"/>
+		<item id="8058" weight="7500"/>
+		<item id="8059" weight="7500"/>
+		<item id="8060" weight="6900"/>
+		<item id="8061" value="18000" weight="11000"/>
+		<item id="8062" weight="3100"/>
+		<item id="8063" value="15000" weight="6500"/>
+		<item id="8064" value="200" cost="750" weight="2550"/>
+		<item id="8072" value="4000" weight="1950"/>
+		<item id="8073" value="8000" weight="2100"/>
+		<item id="8074" value="13000" weight="2450"/>
+		<item id="8075" value="19000" weight="2560"/>
+		<item id="8076" weight="2650"/>
+		<item id="8077" weight="6900"/>
+		<item id="8078" weight="6900"/>
+		<item id="8079" weight="6900"/>
+		<item id="8080" weight="6900"/>
+		<item id="8081" weight="6900"/>
+		<item id="8082" value="4400" cost="22000" weight="2900"/>
+		<item id="8083" value="1500" cost="7500" weight="2900"/>
+		<item id="8084" value="3600" cost="18000" weight="2700"/>
+		<item id="8090" weight="2850"/>
+		<item id="8092" value="3600" cost="18000" weight="2550"/>
+		<item id="8093" value="1500" cost="7500" weight="2700"/>
+		<item id="8094" value="4400" cost="22000" weight="2850"/>
+		<item id="8095" weight="3500"/>
+		<item id="8096" weight="8800"/>
+		<item id="8097" weight="11000"/>
+		<item id="8098" weight="12000"/>
+		<item id="8099" weight="9900"/>
+		<item id="8100" weight="6500"/>
+		<item id="8101" weight="11500"/>
+		<item id="8102" weight="4100"/>
+		<item id="8103" weight="4500"/>
+		<item id="8104" weight="6800"/>
+		<item id="8117" weight="1300"/>
+		<item id="8143" value="500" weight="50"/>
+		<item id="8146" cost="100" weight="800"/>
+		<item id="8147" cost="100" weight="800"/>
+		<item id="8148" weight="2000"/>
+		<item id="8149" weight="1337"/>
+		<item id="8153" weight="2400"/>
+		<item id="8154" weight="1000"/>
+		<item id="8157" weight="1000"/>
+		<item id="8174" weight="1337"/>
+		<item id="8175" weight="2000"/>
+		<item id="8176" weight="2400"/>
+		<item id="8177" weight="20"/>
+		<item id="8178" weight="20"/>
+		<item id="8179" weight="20"/>
+		<item id="8191" weight="940"/>
+		<item id="8192" weight="5"/>
+		<item id="8194" weight="500"/>
+		<item id="8195" weight="500"/>
+		<item id="8196" weight="500"/>
+		<item id="8197" cost="3" weight="140"/>
+		<item id="8199" weight="10"/>
+		<item id="8200" cost="25000" weight="750"/>
+		<item id="8225" cost="50000" weight="890"/>
+		<item id="8453" cost="50000" weight="890"/>
+		<item id="8531" value="10000" weight="490"/>
+		<item id="8532" weight="490"/>
+		<item id="8717" cost="20000" weight="100"/>
+		<item id="8718" cost="25000" weight="100"/>
+		<item id="8719" cost="30000" weight="100"/>
+		<item id="8720" cost="40000" weight="100"/>
+		<item id="8746" cost="50000" weight="1000"/>
+		<item id="8758" cost="200" weight="280"/>
+		<item id="8759" cost="200" weight="500"/>
+		<item id="8760" cost="200" weight="80"/>
+		<item id="8761" cost="200" weight="750"/>
+		<item id="8762" cost="200" weight="500"/>
+		<item id="8763" cost="150" weight="1100"/>
+		<item id="8764" weight="200"/>
+		<item id="8772" weight="10000"/>
+		<item id="8773" weight="12000"/>
+		<item id="8774" cost="3000" weight="30000"/>
+		<item id="8775" value="500" weight="5"/>
+		<item id="8777" weight="90"/>
+		<item id="8778" weight="1200"/>
+		<item id="8779" weight="400"/>
+		<item id="8780" weight="400"/>
+		<item id="8781" weight="100"/>
+		<item id="8782" weight="100"/>
+		<item id="8783" weight="100"/>
+		<item id="8784" weight="100"/>
+		<item id="8818" cost="8000" weight="200"/>
+		<item id="8819" cost="400" weight="180"/>
+		<item id="8820" cost="8000" weight="4600"/>
+		<item id="8822" cost="20000" weight="900"/>
+		<item id="8827" weight="900"/>
+		<item id="8828" weight="250"/>
+		<item id="8829" weight="250"/>
+		<item id="8853" weight="800"/>
+		<item id="8860" cost="20" weight="1800"/>
+		<item id="8861" cost="4" weight="800"/>
+		<item id="8862" weight="7000"/>
+		<item id="8863" weight="6500"/>
+		<item id="8864" weight="3500"/>
+		<item id="8894" weight="12000"/>
+		<item id="8895" weight="12000"/>
+		<item id="8896" weight="12000"/>
+		<item id="8897" weight="7000"/>
+		<item id="8898" weight="7000"/>
+		<item id="8899" weight="7000"/>
+		<item id="8923" value="800" weight="1000"/>
+		<item id="9013" value="500" weight="500"/>
+		<item id="9014" value="500" weight="1200"/>
+		<item id="9015" value="1000" weight="1900"/>
+		<item id="9016" cost="50" weight="90"/>
+		<item id="9017" value="500" weight="600"/>
+		<item id="9018" weight="950"/>
+		<item id="9019" weight="950"/>
+		<item id="9020" weight="800"/>
+		<item id="9027" value="2000" weight="800"/>
+		<item id="9028" value="1000" weight="850"/>
+		<item id="9034" value="5000" weight="1500"/>
+		<item id="9035" value="5000" weight="1500"/>
+		<item id="9039" value="5000" weight="1500"/>
+		<item id="9040" value="5000" weight="1500"/>
+		<item id="9041" weight="500"/>
+		<item id="9045" value="1000" weight="1000"/>
+		<item id="9046" cost="80" weight="1000"/>
+		<item id="9053" value="20" weight="10"/>
+		<item id="9054" value="25" weight="10"/>
+		<item id="9055" value="30" weight="10"/>
+		<item id="9056" value="4000" weight="2400"/>
+		<item id="9057" value="200" weight="10"/>
+		<item id="9058" value="5000" weight="1800"/>
+		<item id="9059" weight="1000"/>
+		<item id="9060" weight="1000"/>
+		<item id="9061" cost="150" weight="2500"/>
+		<item id="9063" value="500" weight="4000"/>
+		<item id="9064" value="500" weight="4000"/>
+		<item id="9065" value="500" weight="4000"/>
+		<item id="9066" value="500" weight="4000"/>
+		<item id="9067" value="3000" weight="850"/>
+		<item id="9068" weight="800"/>
+		<item id="9079" weight="1200"/>
+		<item id="9080" weight="550"/>
+		<item id="9081" weight="850"/>
+		<item id="9082" weight="780"/>
+		<item id="9083" weight="300"/>
+		<item id="9084" weight="1100"/>
+		<item id="9085" weight="650"/>
+		<item id="9086" weight="950"/>
+		<item id="9087" weight="680"/>
+		<item id="9088" weight="459"/>
+		<item id="9093" weight="1500"/>
+		<item id="9103" value="8000" weight="600"/>
+		<item id="9106" weight="50"/>
+		<item id="9107" weight="100"/>
+		<item id="9109" weight="70"/>
+		<item id="9112" weight="180"/>
+		<item id="9113" weight="100"/>
+		<item id="9114" weight="500"/>
+		<item id="9115" cost="500" weight="250"/>
+		<item id="9127" weight="110"/>
+		<item id="9128" weight="110"/>
+		<item id="9129" weight="110"/>
+		<item id="9131" weight="600"/>
+		<item id="9142" weight="2500"/>
+		<item id="9143" weight="800"/>
+		<item id="9144" weight="777"/>
+		<item id="9145" weight="777"/>
+		<item id="9172" weight="100"/>
+		<item id="9173" weight="180"/>
+		<item id="9181" weight="790"/>
+		<item id="9182" cost="5000" weight="790"/>
+		<item id="9183" weight="790"/>
+		<item id="9184" weight="790"/>
+		<item id="9185" weight="200"/>
+		<item id="9186" weight="200"/>
+		<item id="9187" cost="5000" weight="1900"/>
+		<item id="9188" cost="5000" weight="110"/>
+		<item id="9189" weight="5"/>
+		<item id="9190" weight="5"/>
+		<item id="9191" cost="5000" weight="900"/>
+		<item id="9201" weight="6450"/>
+		<item id="9204" weight="200"/>
+		<item id="9205" weight="830"/>
+		<item id="9215" weight="1240"/>
+		<item id="9216" weight="1220"/>
+		<item id="9217" weight="1200"/>
+		<item id="9232" value="50" cost="52" weight="200"/>
+		<item id="9233" weight="35"/>
+		<item id="9234" weight="6450"/>
+		<item id="9235" weight="1500"/>
+		<item id="9236" cost="10000" weight="245"/>
+		<item id="9237" cost="12500" weight="400"/>
+		<item id="9238" cost="17000" weight="260"/>
+		<item id="9239" cost="12500" weight="850"/>
+		<item id="9240" cost="13000" weight="310"/>
+		<item id="9241" cost="10000" weight="95"/>
+		<item id="9247" cost="13500" weight="120"/>
+		<item id="9248" cost="12500" weight="114"/>
+		<item id="9249" cost="13000" weight="135"/>
+		<item id="9251" cost="8000" weight="320"/>
+		<item id="9252" cost="13000" weight="780"/>
+		<item id="9255" cost="25000" weight="3000"/>
+		<item id="9301" weight="700"/>
+		<item id="9302" value="3000" weight="700"/>
+		<item id="9303" value="3000" weight="700"/>
+		<item id="9304" value="3000" weight="700"/>
+		<item id="9306" weight="919"/>
+		<item id="9307" weight="750"/>
+		<item id="9308" cost="5250" weight="819"/>
+		<item id="9372" weight="500"/>
+		<item id="9373" weight="1300"/>
+		<item id="9374" weight="700"/>
+		<item id="9375" weight="160"/>
+		<item id="9376" weight="500"/>
+		<item id="9377" weight="500"/>
+		<item id="9378" weight="1250"/>
+		<item id="9379" weight="800"/>
+		<item id="9380" weight="1700"/>
+		<item id="9381" weight="1250"/>
+		<item id="9382" weight="1100"/>
+		<item id="9383" weight="30"/>
+		<item id="9384" weight="3000"/>
+		<item id="9385" weight="500"/>
+		<item id="9386" weight="2500"/>
+		<item id="9387" weight="200"/>
+		<item id="9388" weight="500"/>
+		<item id="9389" weight="650"/>
+		<item id="9390" cost="8500" weight="8000"/>
+		<item id="9391" cost="10000" weight="150"/>
+		<item id="9394" value="15000" weight="500"/>
+		<item id="9396" weight="4200"/>
+		<item id="9399" weight="4600"/>
+		<item id="9400" weight="3200"/>
+		<item id="9401" weight="5200"/>
+		<item id="9446" weight="3200"/>
+		<item id="9447" weight="5200"/>
+		<item id="9537" cost="350" weight="20"/>
+		<item id="9585" weight="40"/>
+		<item id="9586" cost="5000" weight="2500"/>
+		<item id="9593" weight="40"/>
+		<item id="9594" weight="300"/>
+		<item id="9595" weight="300"/>
+		<item id="9596" weight="300"/>
+		<item id="9597" weight="300"/>
+		<item id="9598" weight="300"/>
+		<item id="9599" weight="300"/>
+		<item id="9601" cost="1000" weight="1800"/>
+		<item id="9602" cost="20" weight="1800"/>
+		<item id="9603" cost="5" weight="800"/>
+		<item id="9604" weight="1800"/>
+		<item id="9605" cost="800" weight="1700"/>
+		<item id="9606" value="15000" weight="5000"/>
+		<item id="9613" value="10000" weight="500"/>
+		<item id="9615" value="1000" weight="300"/>
+		<item id="9616" value="20000" weight="4500"/>
+		<item id="9617" value="20000" weight="4500"/>
+		<item id="9618" value="20000" weight="4500"/>
+		<item id="9619" value="20000" weight="4500"/>
+		<item id="9631" value="280" weight="229"/>
+		<item id="9632" value="200" weight="160"/>
+		<item id="9633" value="100" weight="120"/>
+		<item id="9634" value="15" weight="75"/>
+		<item id="9635" value="45" weight="110"/>
+		<item id="9636" value="375" weight="114"/>
+		<item id="9637" value="500" weight="75"/>
+		<item id="9638" value="280" weight="165"/>
+		<item id="9639" value="150" weight="200"/>
+		<item id="9640" value="50" weight="80"/>
+		<item id="9641" value="45" weight="142"/>
+		<item id="9642" value="95" weight="86"/>
+		<item id="9643" value="100" weight="120"/>
+		<item id="9644" value="265" weight="225"/>
+		<item id="9645" value="190" weight="175"/>
+		<item id="9646" value="120" weight="150"/>
+		<item id="9647" value="80" weight="132"/>
+		<item id="9648" value="30" weight="180"/>
+		<item id="9649" value="90" weight="97"/>
+		<item id="9650" value="30" weight="150"/>
+		<item id="9651" value="25" weight="120"/>
+		<item id="9652" value="60" weight="333"/>
+		<item id="9653" value="5000" weight="780"/>
+		<item id="9654" value="460" weight="145"/>
+		<item id="9655" value="200" weight="95"/>
+		<item id="9656" value="190" weight="640"/>
+		<item id="9657" value="55" weight="111"/>
+		<item id="9658" value="160" weight="248"/>
+		<item id="9659" value="85" weight="64"/>
+		<item id="9660" value="700" weight="96"/>
+		<item id="9661" value="280" weight="186"/>
+		<item id="9662" value="420" weight="175"/>
+		<item id="9663" value="420" weight="132"/>
+		<item id="9664" value="550" weight="250"/>
+		<item id="9665" value="400" weight="180"/>
+		<item id="9666" value="520" weight="146"/>
+		<item id="9667" value="200" weight="169"/>
+		<item id="9668" value="150" weight="143"/>
+		<item id="9683" value="115" weight="225"/>
+		<item id="9684" value="120" weight="70"/>
+		<item id="9685" value="275" weight="50"/>
+		<item id="9686" value="20" weight="94"/>
+		<item id="9688" value="800" weight="227"/>
+		<item id="9689" value="30" weight="85"/>
+		<item id="9690" value="90" weight="50"/>
+		<item id="9691" value="60" weight="180"/>
+		<item id="9692" value="10" weight="68"/>
+		<item id="9693" value="10" weight="98"/>
+		<item id="9694" value="400" weight="100"/>
+		<item id="9696" cost="1000" weight="250"/>
+		<item id="9697" cost="1000" weight="310"/>
+		<item id="9698" cost="1000" weight="3500"/>
+		<item id="9699" cost="1000" weight="3500"/>
+		<item id="9802" weight="520"/>
+		<item id="9803" weight="520"/>
+		<item id="9843" cost="100" weight="180"/>
+		<item id="10009" cost="700" weight="110"/>
+		<item id="10011" cost="650" weight="680"/>
+		<item id="10025" cost="600" weight="5555"/>
+		<item id="10026" cost="600" weight="45"/>
+		<item id="10027" cost="550" weight="300"/>
+		<item id="10028" cost="666" weight="150"/>
+		<item id="10159" weight="2180"/>
+		<item id="10183" cost="1000" weight="180"/>
+		<item id="10184" weight="200"/>
+		<item id="10189" cost="1000" weight="180"/>
+		<item id="10196" value="150" weight="100"/>
+		<item id="10198" weight="500"/>
+		<item id="10199" weight="500"/>
+		<item id="10200" weight="1850"/>
+		<item id="10201" weight="1850"/>
+		<item id="10202" cost="500" weight="1800"/>
+		<item id="10207" weight="3500"/>
+		<item id="10209" cost="500" weight="5500"/>
+		<item id="10216" weight="6500"/>
+		<item id="10217" weight="1500"/>
+		<item id="10218" weight="509"/>
+		<item id="10219" weight="440"/>
+		<item id="10227" weight="1800"/>
+		<item id="10244" value="6000" weight="500"/>
+		<item id="10247" weight="8000"/>
+		<item id="10272" value="35" weight="175"/>
+		<item id="10273" value="95" weight="117"/>
+		<item id="10274" value="50" weight="105"/>
+		<item id="10275" value="35" weight="88"/>
+		<item id="10276" value="150" weight="75"/>
+		<item id="10277" value="210" weight="92"/>
+		<item id="10278" value="120" weight="153"/>
+		<item id="10279" value="15" weight="104"/>
+		<item id="10280" value="380" weight="120"/>
+		<item id="10281" value="80" weight="40"/>
+		<item id="10282" value="600" weight="1300"/>
+		<item id="10283" value="55" weight="124"/>
+		<item id="10288" weight="7500"/>
+		<item id="10289" weight="300"/>
+		<item id="10290" weight="450"/>
+		<item id="10291" value="30" weight="60"/>
+		<item id="10292" value="35" weight="114"/>
+		<item id="10293" value="50" weight="120"/>
+		<item id="10294" weight="450"/>
+		<item id="10295" value="20" weight="110"/>
+		<item id="10296" value="10" weight="50"/>
+		<item id="10297" value="50" weight="90"/>
+		<item id="10298" value="320" weight="50"/>
+		<item id="10299" value="15" weight="65"/>
+		<item id="10300" value="50" weight="35"/>
+		<item id="10301" value="28" weight="69"/>
+		<item id="10302" value="45" weight="80"/>
+		<item id="10303" value="48" weight="90"/>
+		<item id="10304" value="475" weight="125"/>
+		<item id="10305" value="130" weight="115"/>
+		<item id="10306" value="360" weight="95"/>
+		<item id="10307" value="150" weight="125"/>
+		<item id="10308" value="50" weight="250"/>
+		<item id="10309" value="600" weight="229"/>
+		<item id="10310" value="500" weight="156"/>
+		<item id="10311" value="400" weight="128"/>
+		<item id="10312" value="450" weight="150"/>
+		<item id="10313" value="800" weight="450"/>
+		<item id="10314" value="75" weight="88"/>
+		<item id="10315" value="100" weight="142"/>
+		<item id="10316" value="480" weight="125"/>
+		<item id="10317" value="380" weight="112"/>
+		<item id="10318" value="30" weight="105"/>
+		<item id="10319" value="15" weight="118"/>
+		<item id="10320" value="180" weight="358"/>
+		<item id="10321" value="100" weight="600"/>
+		<item id="10323" value="35000" weight="2250"/>
+		<item id="10324" cost="100" weight="1800"/>
+		<item id="10325" cost="50" weight="800"/>
+		<item id="10326" cost="200" weight="1700"/>
+		<item id="10327" cost="200" weight="1850"/>
+		<item id="10328" value="75" weight="750"/>
+		<item id="10329" weight="30"/>
+		<item id="10338" weight="550"/>
+		<item id="10339" weight="620"/>
+		<item id="10341" weight="1000"/>
+		<item id="10342" weight="1000"/>
+		<item id="10343" weight="1000"/>
+		<item id="10344" weight="1000"/>
+		<item id="10345" weight="1000"/>
+		<item id="10346" weight="1650"/>
+		<item id="10347" cost="80" weight="1000"/>
+		<item id="10384" value="14000" weight="9550"/>
+		<item id="10385" value="45000" weight="6600"/>
+		<item id="10386" value="5000" weight="700"/>
+		<item id="10387" value="14000" weight="6600"/>
+		<item id="10388" value="10000" weight="5400"/>
+		<item id="10389" value="16500" weight="5000"/>
+		<item id="10390" value="30000" weight="4900"/>
+		<item id="10391" value="10000" weight="6000"/>
+		<item id="10392" value="500" cost="1100" weight="5000"/>
+		<item id="10397" value="250" weight="170"/>
+		<item id="10398" value="15000" weight="600"/>
+		<item id="10404" value="150" weight="220"/>
+		<item id="10405" value="200" weight="120"/>
+		<item id="10406" value="500" cost="1200" weight="8700"/>
+		<item id="10407" value="25" weight="112"/>
+		<item id="10408" value="100" weight="125"/>
+		<item id="10409" value="700" weight="112"/>
+		<item id="10410" value="320" weight="97"/>
+		<item id="10411" value="110" weight="105"/>
+		<item id="10412" value="3000" weight="540"/>
+		<item id="10413" value="600" weight="98"/>
+		<item id="10414" value="150" weight="103"/>
+		<item id="10415" value="550" weight="112"/>
+		<item id="10416" value="130" weight="103"/>
+		<item id="10417" value="500" weight="110"/>
+		<item id="10418" value="100" weight="210"/>
+		<item id="10419" value="8000" weight="550"/>
+		<item id="10420" value="250" weight="150"/>
+		<item id="10421" value="3000" weight="700"/>
+		<item id="10422" weight="1000"/>
+		<item id="10426" weight="1000"/>
+		<item id="10438" value="12000" weight="2350"/>
+		<item id="10439" value="12000" weight="2450"/>
+		<item id="10444" value="175" weight="155"/>
+		<item id="10449" value="700" weight="1200"/>
+		<item id="10450" value="200" weight="80"/>
+		<item id="10451" value="9000" weight="900"/>
+		<item id="10452" value="170" weight="150"/>
+		<item id="10453" value="50" weight="20"/>
+		<item id="10454" value="60" weight="114"/>
+		<item id="10455" value="80" weight="107"/>
+		<item id="10456" value="20" weight="75"/>
+		<item id="10457" value="1500" weight="819"/>
+		<item id="10476" weight="150"/>
+		<item id="10477" weight="1800"/>
+		<item id="10798" weight="1700"/>
+		<item id="10799" weight="1700"/>
+		<item id="10800" weight="2500"/>
+		<item id="10801" weight="2500"/>
+		<item id="10817" weight="1508"/>
+		<item id="10818" weight="1508"/>
+		<item id="11328" weight="8000"/>
+		<item id="11329" cost="1000" weight="1000"/>
+		<item id="11331" weight="1000"/>
+		<item id="11333" weight="1000"/>
+		<item id="11334" weight="1000"/>
+		<item id="11339" cost="1000" weight="1000"/>
+		<item id="11341" cost="1000" weight="1000"/>
+		<item id="11344" weight="1000"/>
+		<item id="11347" weight="1000"/>
+		<item id="11362" weight="1400"/>
+		<item id="11364" weight="180"/>
+		<item id="11367" weight="450"/>
+		<item id="11368" weight="1210"/>
+		<item id="11369" weight="40"/>
+		<item id="11370" weight="100"/>
+		<item id="11371" weight="1400"/>
+		<item id="11372" weight="180"/>
+		<item id="11426" weight="250"/>
+		<item id="11443" value="30" weight="50"/>
+		<item id="11444" value="60" weight="120"/>
+		<item id="11445" value="30" weight="112"/>
+		<item id="11446" value="350" weight="46"/>
+		<item id="11447" value="290" weight="150"/>
+		<item id="11448" value="300" weight="118"/>
+		<item id="11449" value="320" weight="80"/>
+		<item id="11450" value="480" weight="80"/>
+		<item id="11451" value="30" weight="130"/>
+		<item id="11452" value="35" weight="128"/>
+		<item id="11453" value="20" weight="156"/>
+		<item id="11454" value="1000" weight="94"/>
+		<item id="11455" value="500" weight="82"/>
+		<item id="11456" value="120" weight="134"/>
+		<item id="11457" value="100" weight="250"/>
+		<item id="11458" value="80" weight="130"/>
+		<item id="11459" cost="12" weight="750"/>
+		<item id="11460" cost="8" weight="200"/>
+		<item id="11461" cost="3" weight="300"/>
+		<item id="11462" cost="4" weight="680"/>
+		<item id="11463" value="120" weight="122"/>
+		<item id="11464" value="50" weight="80"/>
+		<item id="11465" value="90" weight="112"/>
+		<item id="11466" value="30" weight="75"/>
+		<item id="11467" value="60" weight="140"/>
+		<item id="11468" weight="840"/>
+		<item id="11469" value="80" weight="132"/>
+		<item id="11470" value="180" weight="124"/>
+		<item id="11471" value="100" weight="140"/>
+		<item id="11472" value="75" weight="111"/>
+		<item id="11473" value="110" weight="229"/>
+		<item id="11474" value="60" weight="140"/>
+		<item id="11475" value="250" weight="220"/>
+		<item id="11476" value="25" weight="90"/>
+		<item id="11477" value="85" weight="180"/>
+		<item id="11478" value="45" weight="90"/>
+		<item id="11479" value="30" weight="50"/>
+		<item id="11480" value="80" weight="115"/>
+		<item id="11481" value="30" weight="130"/>
+		<item id="11482" value="50" weight="110"/>
+		<item id="11483" value="20" weight="110"/>
+		<item id="11484" value="25" weight="98"/>
+		<item id="11485" value="10" weight="130"/>
+		<item id="11486" value="430" weight="144"/>
+		<item id="11487" value="140" weight="107"/>
+		<item id="11488" value="350" weight="80"/>
+		<item id="11489" value="280" weight="114"/>
+		<item id="11490" value="410" weight="120"/>
+		<item id="11491" value="500" weight="144"/>
+		<item id="11492" value="66" weight="97"/>
+		<item id="11493" value="120" weight="50"/>
+		<item id="11510" value="230" weight="79"/>
+		<item id="11511" value="55" weight="68"/>
+		<item id="11512" value="95" weight="50"/>
+		<item id="11513" value="70" weight="110"/>
+		<item id="11514" value="110" weight="36"/>
+		<item id="11515" value="50" weight="140"/>
+		<item id="11539" value="20" weight="75"/>
+		<item id="11541" weight="1500"/>
+		<item id="11545" cost="4000" weight="10"/>
+		<item id="11546" cost="4000" weight="500"/>
+		<item id="11547" cost="4000" weight="500"/>
+		<item id="11548" cost="4000" weight="35"/>
+		<item id="11549" cost="4000" weight="222"/>
+		<item id="11550" cost="4000" weight="80"/>
+		<item id="11551" cost="4000" weight="60"/>
+		<item id="11552" cost="4000" weight="140"/>
+		<item id="11584" weight="2000"/>
+		<item id="11585" value="5000" cost="5000" weight="21000"/>
+		<item id="11586" weight="1200"/>
+		<item id="11587" weight="950"/>
+		<item id="11588" weight="300"/>
+		<item id="11603" weight="120"/>
+		<item id="11604" weight="120"/>
+		<item id="11605" weight="120"/>
+		<item id="11606" weight="120"/>
+		<item id="11607" weight="120"/>
+		<item id="11608" weight="120"/>
+		<item id="11609" weight="120"/>
+		<item id="11610" weight="120"/>
+		<item id="11611" weight="120"/>
+		<item id="11612" weight="120"/>
+		<item id="11613" weight="120"/>
+		<item id="11614" weight="120"/>
+		<item id="11615" weight="120"/>
+		<item id="11616" weight="120"/>
+		<item id="11617" weight="120"/>
+		<item id="11618" weight="120"/>
+		<item id="11619" weight="120"/>
+		<item id="11620" weight="120"/>
+		<item id="11621" weight="120"/>
+		<item id="11622" weight="120"/>
+		<item id="11623" weight="120"/>
+		<item id="11624" weight="120"/>
+		<item id="11625" weight="120"/>
+		<item id="11626" weight="120"/>
+		<item id="11627" weight="120"/>
+		<item id="11628" weight="120"/>
+		<item id="11629" weight="120"/>
+		<item id="11630" weight="120"/>
+		<item id="11631" weight="120"/>
+		<item id="11632" weight="120"/>
+		<item id="11633" weight="120"/>
+		<item id="11634" weight="120"/>
+		<item id="11635" weight="120"/>
+		<item id="11636" weight="120"/>
+		<item id="11637" weight="120"/>
+		<item id="11638" weight="120"/>
+		<item id="11639" weight="120"/>
+		<item id="11640" weight="120"/>
+		<item id="11641" weight="120"/>
+		<item id="11642" weight="120"/>
+		<item id="11643" weight="120"/>
+		<item id="11644" weight="120"/>
+		<item id="11645" weight="120"/>
+		<item id="11646" weight="120"/>
+		<item id="11647" weight="120"/>
+		<item id="11648" weight="120"/>
+		<item id="11649" weight="120"/>
+		<item id="11650" weight="120"/>
+		<item id="11651" value="50000" weight="12000"/>
+		<item id="11652" value="8000" weight="50"/>
+		<item id="11657" value="28000" weight="18000"/>
+		<item id="11658" value="550" weight="68"/>
+		<item id="11659" value="430" weight="78"/>
+		<item id="11660" value="340" weight="200"/>
+		<item id="11661" value="120" weight="140"/>
+		<item id="11666" value="5000" weight="300"/>
+		<item id="11671" value="390" weight="93"/>
+		<item id="11672" value="240" weight="93"/>
+		<item id="11673" value="680" weight="93"/>
+		<item id="11674" value="50000" weight="850"/>
+		<item id="11679" value="7500" weight="500"/>
+		<item id="11680" value="300" weight="150"/>
+		<item id="11681" value="300" weight="400"/>
+		<item id="11682" cost="5" weight="350"/>
+		<item id="11683" cost="2" weight="80"/>
+		<item id="11684" value="20" weight="32"/>
+		<item id="11685" weight="10"/>
+		<item id="11686" weight="13000"/>
+		<item id="11687" weight="4500"/>
+		<item id="11688" weight="4900"/>
+		<item id="11689" weight="4300"/>
+		<item id="11691" weight="2800"/>
+		<item id="11692" weight="12000"/>
+		<item id="11693" value="60000" weight="6400"/>
+		<item id="11694" weight="500"/>
+		<item id="11695" weight="650"/>
+		<item id="11699" weight="1500"/>
+		<item id="11700" weight="1800"/>
+		<item id="11701" weight="3500"/>
+		<item id="11702" value="380" weight="112"/>
+		<item id="11703" value="210" weight="112"/>
+		<item id="11982" weight="204"/>
+		<item id="12039" value="750" weight="150"/>
+		<item id="12040" value="300" weight="150"/>
+		<item id="12041" weight="2000"/>
+		<item id="12042" weight="2000"/>
+		<item id="12043" weight="1500"/>
+		<item id="12044" weight="1500"/>
+		<item id="12045" weight="2700"/>
+		<item id="12046" weight="2700"/>
+		<item id="12057" weight="100"/>
+		<item id="12077" weight="1000"/>
+		<item id="12123" weight="1100"/>
+		<item id="12128" weight="1000"/>
+		<item id="12143" weight="65"/>
+		<item id="12171" weight="50"/>
+		<item id="12172" value="50" weight="98"/>
+		<item id="12173" weight="98"/>
+		<item id="12174" weight="98"/>
+		<item id="12175" weight="98"/>
+		<item id="12178" weight="1200"/>
+		<item id="12179" weight="1200"/>
+		<item id="12180" weight="1200"/>
+		<item id="12181" weight="1200"/>
+		<item id="12182" weight="1200"/>
+		<item id="12186" weight="98"/>
+		<item id="12204" weight="50"/>
+		<item id="12229" weight="50"/>
+		<item id="12230" weight="50"/>
+		<item id="12231" weight="50"/>
+		<item id="12232" weight="50"/>
+		<item id="12233" weight="50"/>
+		<item id="12234" weight="50"/>
+		<item id="12235" weight="50"/>
+		<item id="12237" cost="500" weight="900"/>
+		<item id="12251" weight="200"/>
+		<item id="12260" weight="200"/>
+		<item id="12304" weight="200"/>
+		<item id="12305" weight="200"/>
+		<item id="12306" weight="200"/>
+		<item id="12307" weight="200"/>
+		<item id="12308" weight="200"/>
+		<item id="12309" value="800" weight="200"/>
+		<item id="12310" weight="1400"/>
+		<item id="12311" weight="200"/>
+		<item id="12312" value="280" weight="150"/>
+		<item id="12313" value="150" weight="170"/>
+		<item id="12314" value="400" weight="180"/>
+		<item id="12315" value="250" weight="210"/>
+		<item id="12316" value="550" weight="130"/>
+		<item id="12317" value="950" weight="112"/>
+		<item id="12318" weight="200"/>
+		<item id="12320" weight="200"/>
+		<item id="12369" weight="5000"/>
+		<item id="12413" weight="3000"/>
+		<item id="12478" weight="750"/>
+		<item id="12482" weight="1000"/>
+		<item id="12483" weight="1000"/>
+		<item id="12509" weight="200"/>
+		<item id="12517" weight="1200"/>
+		<item id="12519" weight="200"/>
+		<item id="12541" value="1000" weight="300"/>
+		<item id="12542" weight="300"/>
+		<item id="12543" weight="350"/>
+		<item id="12544" value="400" weight="300"/>
+		<item id="12545" value="245" weight="300"/>
+		<item id="12546" weight="200"/>
+		<item id="12547" weight="200"/>
+		<item id="12548" weight="200"/>
+		<item id="12549" weight="200"/>
+		<item id="12550" weight="200"/>
+		<item id="12551" weight="500"/>
+		<item id="12552" weight="500"/>
+		<item id="12553" weight="500"/>
+		<item id="12554" weight="500"/>
+		<item id="12555" weight="500"/>
+		<item id="12556" weight="500"/>
+		<item id="12557" value="3000" weight="999"/>
+		<item id="12570" weight="1560"/>
+		<item id="12571" weight="1560"/>
+		<item id="12572" weight="1800"/>
+		<item id="12575" weight="600"/>
+		<item id="12576" weight="600"/>
+		<item id="12577" weight="600"/>
+		<item id="12578" weight="600"/>
+		<item id="12579" weight="600"/>
+		<item id="12580" weight="600"/>
+		<item id="12581" weight="600"/>
+		<item id="12582" weight="600"/>
+		<item id="12599" weight="1000"/>
+		<item id="12600" value="20" weight="500"/>
+		<item id="12601" value="175" weight="300"/>
+		<item id="12602" weight="5000"/>
+		<item id="12603" weight="2800"/>
+		<item id="12617" weight="100"/>
+		<item id="12669" weight="80"/>
+		<item id="12673" weight="2000"/>
+		<item id="12675" weight="1200"/>
+		<item id="12683" value="2000" weight="9000"/>
+		<item id="12722" weight="3000"/>
+		<item id="12730" value="150" weight="240"/>
+		<item id="12735" weight="1000"/>
+		<item id="12736" weight="500"/>
+		<item id="12737" value="4000" weight="60"/>
+		<item id="12742" value="600" weight="475"/>
+		<item id="12786" weight="70"/>
+		<item id="12787" weight="120"/>
+		<item id="12801" weight="200"/>
+		<item id="12802" weight="200"/>
+		<item id="12803" weight="1200"/>
+		<item id="12805" value="600" weight="295"/>
+		<item id="12806" value="800" weight="375"/>
+		<item id="12807" weight="200"/>
+		<item id="12809" weight="805"/>
+		<item id="12810" weight="805"/>
+		<item id="12811" weight="4609"/>
+		<item id="12812" weight="4609"/>
+		<item id="12813" weight="4015"/>
+		<item id="12814" weight="4015"/>
+		<item id="12819" weight="2000"/>
+		<item id="12904" weight="1100"/>
+		<item id="12905" weight="1100"/>
+		<item id="13429" weight="5000"/>
+		<item id="13844" weight="50"/>
+		<item id="13987" value="4000" weight="8800"/>
+		<item id="13990" value="3000" weight="500"/>
+		<item id="13991" value="40000" weight="9100"/>
+		<item id="13992" weight="660"/>
+		<item id="13993" value="60000" weight="15600"/>
+		<item id="13994" value="30000" weight="14500"/>
+		<item id="13995" value="35000" weight="4600"/>
+		<item id="13996" value="16000" weight="4800"/>
+		<item id="13997" value="25000" weight="3700"/>
+		<item id="13998" value="36000" weight="3000"/>
+		<item id="13999" value="40000" weight="7700"/>
+		<item id="14000" value="42000" weight="7100"/>
+		<item id="14001" value="42000" weight="14900"/>
+		<item id="14008" value="280" weight="190"/>
+		<item id="14009" value="330" weight="120"/>
+		<item id="14010" value="230" weight="260"/>
+		<item id="14011" value="90" weight="240"/>
+		<item id="14012" value="180" weight="240"/>
+		<item id="14013" value="290" weight="240"/>
+		<item id="14017" value="80" weight="480"/>
+		<item id="14018" weight="390"/>
+		<item id="14019" weight="134"/>
+		<item id="14020" weight="1250"/>
+		<item id="14021" weight="310"/>
+		<item id="14022" weight="220"/>
+		<item id="14023" weight="280"/>
+		<item id="14025" weight="1000"/>
+		<item id="14026" weight="1000"/>
+		<item id="14027" weight="1000"/>
+		<item id="14028" weight="1000"/>
+		<item id="14029" weight="150"/>
+		<item id="14033" weight="150"/>
+		<item id="14034" weight="150"/>
+		<item id="14035" weight="150"/>
+		<item id="14036" weight="150"/>
+		<item id="14037" weight="150"/>
+		<item id="14038" weight="150"/>
+		<item id="14040" value="11000" weight="8800"/>
+		<item id="14041" value="360" weight="180"/>
+		<item id="14042" value="9000" weight="7500"/>
+		<item id="14043" value="9000" weight="11000"/>
+		<item id="14044" value="430" weight="180"/>
+		<item id="14052" cost="150" weight="155"/>
+		<item id="14053" weight="155"/>
+		<item id="14054" cost="200" weight="150"/>
+		<item id="14076" value="130" weight="100"/>
+		<item id="14077" value="420" weight="459"/>
+		<item id="14078" value="340" weight="190"/>
+		<item id="14079" value="210" weight="265"/>
+		<item id="14080" value="320" weight="215"/>
+		<item id="14081" value="190" weight="99"/>
+		<item id="14082" value="450" weight="238"/>
+		<item id="14083" value="150" weight="165"/>
+		<item id="14084" weight="350"/>
+		<item id="14085" weight="640"/>
+		<item id="14086" value="15000" weight="2000"/>
+		<item id="14087" value="15000" weight="3200"/>
+		<item id="14088" value="32000" weight="5500"/>
+		<item id="14089" value="17000" weight="7500"/>
+		<item id="14112" weight="2000"/>
+		<item id="14142" weight="200"/>
+		<item id="14143" weight="200"/>
+		<item id="14153" weight="5000"/>
+		<item id="14156" weight="110"/>
+		<item id="14172" weight="5500"/>
+		<item id="14173" weight="1300"/>
+		<item id="14174" weight="1300"/>
+		<item id="14175" weight="1300"/>
+		<item id="14176" weight="200"/>
+		<item id="14222" weight="500"/>
+		<item id="14223" weight="500"/>
+		<item id="14224" weight="500"/>
+		<item id="14225" value="130" weight="190"/>
+		<item id="14241" weight="969"/>
+		<item id="14242" weight="969"/>
+		<item id="14246" value="28000" weight="4600"/>
+		<item id="14247" value="12000" weight="9100"/>
+		<item id="14248" weight="1800"/>
+		<item id="14249" weight="1800"/>
+		<item id="14250" value="7000" weight="8900"/>
+		<item id="14251" cost="6" weight="70"/>
+		<item id="14252" cost="6" weight="80"/>
+		<item id="14258" value="35000" weight="4600"/>
+		<item id="14671" weight="1250"/>
+		<item id="14672" weight="1250"/>
+		<item id="14673" weight="1250"/>
+		<item id="14674" weight="1500"/>
+		<item id="14681" weight="500"/>
+		<item id="14682" weight="100"/>
+		<item id="14683" weight="100"/>
+		<item id="14684" weight="550"/>
+		<item id="14685" weight="1000"/>
+		<item id="14686" weight="100"/>
+		<item id="14741" weight="1600"/>
+		<item id="14751" weight="1200"/>
+		<item id="14753" weight="190"/>
+		<item id="14756" weight="7500"/>
+		<item id="14759" weight="2000"/>
+		<item id="14760" weight="314"/>
+		<item id="14761" weight="314"/>
+		<item id="14762" weight="1000"/>
+		<item id="14763" weight="1000"/>
+		<item id="14764" weight="4000"/>
+		<item id="14765" weight="4000"/>
+		<item id="14766" weight="15000"/>
+		<item id="14767" weight="15000"/>
+		<item id="14768" weight="12600"/>
+		<item id="14769" weight="2500"/>
+		<item id="15698" weight="1000"/>
+		<item id="15793" cost="20" weight="75"/>
+		<item id="16094" weight="1000"/>
+		<item id="16095" weight="1000"/>
+		<item id="16096" value="6500" weight="3700"/>
+		<item id="16097" weight="1000"/>
+		<item id="16098" weight="1000"/>
+		<item id="16099" weight="1800"/>
+		<item id="16100" weight="1800"/>
+		<item id="16101" weight="90"/>
+		<item id="16102" weight="8500"/>
+		<item id="16103" cost="150" weight="900"/>
+		<item id="16104" weight="900"/>
+		<item id="16105" weight="1900"/>
+		<item id="16106" weight="2800"/>
+		<item id="16107" weight="2700"/>
+		<item id="16108" weight="409"/>
+		<item id="16109" weight="5600"/>
+		<item id="16110" weight="7900"/>
+		<item id="16111" weight="7100"/>
+		<item id="16112" weight="1800"/>
+		<item id="16113" weight="650"/>
+		<item id="16114" weight="105"/>
+		<item id="16115" value="6000" weight="3700"/>
+		<item id="16116" weight="7200"/>
+		<item id="16117" value="6000" weight="3700"/>
+		<item id="16118" value="6500" weight="3700"/>
+		<item id="16119" value="1500" weight="20"/>
+		<item id="16120" value="1500" weight="20"/>
+		<item id="16121" value="1500" weight="20"/>
+		<item id="16122" value="400" weight="10"/>
+		<item id="16123" value="400" weight="10"/>
+		<item id="16124" value="400" weight="10"/>
+		<item id="16125" value="800" weight="15"/>
+		<item id="16126" value="800" weight="15"/>
+		<item id="16127" value="800" weight="15"/>
+		<item id="16128" weight="250"/>
+		<item id="16129" weight="350"/>
+		<item id="16130" value="570" weight="310"/>
+		<item id="16131" value="610" weight="220"/>
+		<item id="16132" value="650" weight="90"/>
+		<item id="16133" value="400" weight="170"/>
+		<item id="16134" value="800" weight="220"/>
+		<item id="16135" value="330" weight="360"/>
+		<item id="16136" weight="380"/>
+		<item id="16137" value="590" weight="260"/>
+		<item id="16138" value="440" weight="340"/>
+		<item id="16139" value="540" weight="190"/>
+		<item id="16140" value="510" weight="160"/>
+		<item id="16141" cost="20" weight="85"/>
+		<item id="16142" cost="12" weight="80"/>
+		<item id="16143" cost="12" weight="70"/>
+		<item id="16153" weight="200"/>
+		<item id="16154" weight="200"/>
+		<item id="16155" weight="200"/>
+		<item id="16160" weight="4800"/>
+		<item id="16161" weight="7600"/>
+		<item id="16162" weight="5900"/>
+		<item id="16163" value="35000" weight="8400"/>
+		<item id="16164" value="35000" weight="4900"/>
+		<item id="16165" weight="600"/>
+		<item id="16166" weight="600"/>
+		<item id="16167" cost="150" weight="45"/>
+		<item id="16175" weight="4500"/>
+		<item id="16205" weight="210"/>
+		<item id="16206" weight="190"/>
+		<item id="16229" weight="800"/>
+		<item id="16230" weight="700"/>
+		<item id="16231" weight="900"/>
+		<item id="16232" weight="2100"/>
+		<item id="16233" weight="800"/>
+		<item id="16234" weight="900"/>
+		<item id="16235" weight="400"/>
+		<item id="16236" weight="2100"/>
+		<item id="16237" weight="700"/>
+		<item id="16238" weight="900"/>
+		<item id="16239" weight="600"/>
+		<item id="16240" weight="2200"/>
+		<item id="16242" weight="45"/>
+		<item id="16244" weight="200"/>
+		<item id="16251" weight="200"/>
+		<item id="16252" weight="80"/>
+		<item id="16253" weight="80"/>
+		<item id="16254" weight="80"/>
+		<item id="16255" weight="80"/>
+		<item id="16256" weight="80"/>
+		<item id="16257" weight="80"/>
+		<item id="16262" weight="2800"/>
+		<item id="16263" weight="2800"/>
+		<item id="16275" weight="5000"/>
+		<item id="16276" weight="5000"/>
+		<item id="17457" weight="20"/>
+		<item id="17458" value="20" weight="120"/>
+		<item id="17461" value="65" weight="110"/>
+		<item id="17462" value="50" weight="30"/>
+		<item id="17463" value="25" weight="150"/>
+		<item id="17809" value="35" weight="500"/>
+		<item id="17810" value="250" weight="5900"/>
+		<item id="17812" value="500" weight="3300"/>
+		<item id="17813" value="300" weight="4600"/>
+		<item id="17817" value="50" weight="45"/>
+		<item id="17818" value="150" weight="75"/>
+		<item id="17819" value="40" weight="75"/>
+		<item id="17820" weight="500"/>
+		<item id="17821" weight="300"/>
+		<item id="17822" value="20" weight="270"/>
+		<item id="17823" value="30" weight="350"/>
+		<item id="17824" value="40" weight="3100"/>
+		<item id="17825" weight="750"/>
+		<item id="17826" value="190" weight="220"/>
+		<item id="17827" value="110" weight="70"/>
+		<item id="17828" value="4000" weight="4500"/>
+		<item id="17829" value="7000" weight="7500"/>
+		<item id="17830" value="140" weight="120"/>
+		<item id="17831" value="150" weight="160"/>
+		<item id="17846" value="750" weight="2900"/>
+		<item id="17847" value="120" weight="240"/>
+		<item id="17848" value="250" weight="800"/>
+		<item id="17849" value="170" weight="380"/>
+		<item id="17850" value="90" weight="190"/>
+		<item id="17851" value="160" weight="1100"/>
+		<item id="17852" value="2000" weight="3500"/>
+		<item id="17853" value="140" weight="290"/>
+		<item id="17854" value="80" weight="160"/>
+		<item id="17855" value="40" weight="210"/>
+		<item id="17856" value="130" weight="210"/>
+		<item id="17857" value="110" weight="210"/>
+		<item id="17858" weight="200"/>
+		<item id="17859" value="300" weight="3900"/>
+		<item id="17972" cost="200" weight="4000"/>
+		<item id="17974" cost="90" weight="8000"/>
+		<item id="17975" cost="50" weight="2500"/>
+		<item id="17977" cost="40" weight="2000"/>
+		<item id="18327" weight="500"/>
+		<item id="18328" weight="500"/>
+		<item id="18329" weight="500"/>
+		<item id="18330" weight="500"/>
+		<item id="18331" weight="500"/>
+		<item id="18332" weight="500"/>
+		<item id="18333" weight="500"/>
+		<item id="18334" weight="500"/>
+		<item id="18335" weight="500"/>
+		<item id="18336" weight="500"/>
+		<item id="18337" weight="500"/>
+		<item id="18338" weight="500"/>
+		<item id="18339" weight="3800"/>
+		<item id="18343" weight="1900"/>
+		<item id="18344" weight="1900"/>
+		<item id="18924" value="60" weight="509"/>
+		<item id="18925" value="90" weight="490"/>
+		<item id="18926" value="40" weight="280"/>
+		<item id="18927" value="150" weight="620"/>
+		<item id="18928" value="360" weight="630"/>
+		<item id="18929" value="90" weight="440"/>
+		<item id="18930" value="210" weight="680"/>
+		<item id="18931" weight="30"/>
+		<item id="18933" weight="10"/>
+		<item id="18935" weight="10"/>
+		<item id="18936" weight="10"/>
+		<item id="18993" value="70" weight="250"/>
+		<item id="18994" value="115" weight="229"/>
+		<item id="18995" value="55" weight="380"/>
+		<item id="18996" value="120" weight="250"/>
+		<item id="18997" value="30" weight="150"/>
+		<item id="19074" weight="100"/>
+		<item id="19082" weight="110"/>
+		<item id="19083" weight="100"/>
+		<item id="19110" value="35" weight="360"/>
+		<item id="19111" value="25" weight="190"/>
+		<item id="19136" weight="200"/>
+		<item id="19146" weight="10"/>
+		<item id="19150" weight="1000"/>
+		<item id="19151" weight="1200"/>
+		<item id="19152" weight="150"/>
+		<item id="19153" weight="520"/>
+		<item id="19154" weight="1200"/>
+		<item id="19155" weight="2500"/>
+		<item id="19156" weight="2000"/>
+		<item id="19159" weight="1800"/>
+		<item id="19251" weight="1000"/>
+		<item id="19356" weight="6200"/>
+		<item id="19357" weight="550"/>
+		<item id="19358" weight="8400"/>
+		<item id="19359" weight="120"/>
+		<item id="19361" weight="850"/>
+		<item id="19362" weight="4200"/>
+		<item id="19363" weight="4900"/>
+		<item id="19365" weight="900"/>
+		<item id="19366" weight="1500"/>
+		<item id="19369" weight="1100"/>
+		<item id="19371" weight="1700"/>
+		<item id="19372" weight="4800"/>
+		<item id="19373" weight="2800"/>
+		<item id="19374" weight="1150"/>
+		<item id="19391" weight="3400"/>
+		<item id="19397" weight="2000"/>
+		<item id="19398" weight="2000"/>
+		<item id="20029" weight="10"/>
+		<item id="20062" weight="280"/>
+		<item id="20063" weight="390"/>
+		<item id="20064" weight="6300"/>
+		<item id="20065" weight="5900"/>
+		<item id="20066" weight="5500"/>
+		<item id="20067" weight="10000"/>
+		<item id="20068" weight="9500"/>
+		<item id="20069" weight="9000"/>
+		<item id="20070" weight="9000"/>
+		<item id="20071" weight="8500"/>
+		<item id="20072" weight="8000"/>
+		<item id="20073" weight="12000"/>
+		<item id="20074" weight="11500"/>
+		<item id="20075" weight="11000"/>
+		<item id="20076" weight="9000"/>
+		<item id="20077" weight="8500"/>
+		<item id="20078" weight="8000"/>
+		<item id="20079" weight="17000"/>
+		<item id="20080" weight="16500"/>
+		<item id="20081" weight="16000"/>
+		<item id="20082" weight="5000"/>
+		<item id="20083" weight="4500"/>
+		<item id="20084" weight="4000"/>
+		<item id="20085" weight="13000"/>
+		<item id="20086" weight="12500"/>
+		<item id="20087" weight="12000"/>
+		<item id="20088" weight="4000"/>
+		<item id="20089" weight="3500"/>
+		<item id="20090" weight="3000"/>
+		<item id="20182" weight="0"/>
+		<item id="20183" value="3000" weight="550"/>
+		<item id="20184" value="1900" weight="1400"/>
+		<item id="20198" value="700" weight="680"/>
+		<item id="20199" value="400" weight="190"/>
+		<item id="20200" value="390" weight="420"/>
+		<item id="20201" value="600" weight="350"/>
+		<item id="20202" value="450" weight="750"/>
+		<item id="20203" value="900" weight="1200"/>
+		<item id="20204" value="500" weight="360"/>
+		<item id="20205" value="650" weight="280"/>
+		<item id="20206" value="350" weight="190"/>
+		<item id="20207" value="480" weight="270"/>
+		<item id="20208" weight="0"/>
+		<item id="20264" weight="3300"/>
+		<item id="20270" weight="200"/>
+		<item id="20271" weight="200"/>
+		<item id="20272" weight="200"/>
+		<item id="20273" weight="200"/>
+		<item id="20274" weight="200"/>
+		<item id="20275" weight="3100"/>
+		<item id="20276" weight="3400"/>
+		<item id="20277" weight="1000"/>
+		<item id="20278" weight="1000"/>
+		<item id="20279" weight="500"/>
+		<item id="20280" weight="500"/>
+		<item id="20281" weight="500"/>
+		<item id="20282" weight="500"/>
+		<item id="20308" weight="620"/>
+		<item id="20309" weight="650"/>
+		<item id="20310" weight="650"/>
+		<item id="20311" weight="1000"/>
+		<item id="20312" weight="1000"/>
+		<item id="20313" weight="750"/>
+		<item id="20314" weight="750"/>
+		<item id="20315" weight="1000"/>
+		<item id="20355" weight="200"/>
+		<item id="20356" weight="200"/>
+		<item id="20357" weight="200"/>
+		<item id="21089" weight="50"/>
+		<item id="21103" value="350" weight="1400"/>
+		<item id="21124" weight="800"/>
+		<item id="21143" cost="7" weight="800"/>
+		<item id="21144" cost="4" weight="100"/>
+		<item id="21145" cost="10" weight="400"/>
+		<item id="21146" cost="10" weight="1200"/>
+		<item id="21154" weight="400"/>
+		<item id="21155" weight="400"/>
+		<item id="21156" weight="400"/>
+		<item id="21158" weight="2600"/>
+		<item id="21164" value="7000" weight="2900"/>
+		<item id="21165" value="11000" weight="800"/>
+		<item id="21166" value="6000" weight="12500"/>
+		<item id="21167" value="10000" weight="5500"/>
+		<item id="21168" value="11000" weight="4500"/>
+		<item id="21169" value="2000" weight="1800"/>
+		<item id="21170" value="5000" weight="1000"/>
+		<item id="21171" value="9000" weight="5100"/>
+		<item id="21172" value="2500" weight="3200"/>
+		<item id="21173" value="14000" weight="8500"/>
+		<item id="21174" value="7000" weight="6500"/>
+		<item id="21175" value="3000" weight="6500"/>
+		<item id="21176" value="12000" weight="8200"/>
+		<item id="21177" value="2500" weight="2800"/>
+		<item id="21178" value="1500" weight="1900"/>
+		<item id="21179" value="1500" weight="1900"/>
+		<item id="21180" value="1500" weight="1900"/>
+		<item id="21182" value="125" weight="10"/>
+		<item id="21183" value="2000" weight="220"/>
+		<item id="21184" weight="400"/>
+		<item id="21186" weight="200"/>
+		<item id="21187" weight="400"/>
+		<item id="21188" weight="500"/>
+		<item id="21189" weight="500"/>
+		<item id="21192" weight="800"/>
+		<item id="21193" value="260" weight="140"/>
+		<item id="21194" value="160" weight="180"/>
+		<item id="21195" value="130" weight="120"/>
+		<item id="21196" value="390" weight="150"/>
+		<item id="21197" value="320" weight="300"/>
+		<item id="21198" value="430" weight="500"/>
+		<item id="21199" value="170" weight="900"/>
+		<item id="21200" value="140" weight="350"/>
+		<item id="21201" value="240" weight="320"/>
+		<item id="21202" value="110" weight="500"/>
+		<item id="21203" weight="3000"/>
+		<item id="21204" value="210" weight="400"/>
+		<item id="21208" weight="800"/>
+		<item id="21209" weight="800"/>
+		<item id="21210" weight="800"/>
+		<item id="21211" weight="800"/>
+		<item id="21213" weight="400"/>
+		<item id="21214" weight="200"/>
+		<item id="21215" weight="200"/>
+		<item id="21216" weight="400"/>
+		<item id="21217" weight="20"/>
+		<item id="21218" weight="650"/>
+		<item id="21219" weight="9600"/>
+		<item id="21291" weight="200"/>
+		<item id="21292" weight="1800"/>
+		<item id="21295" weight="1800"/>
+		<item id="21301" weight="2"/>
+		<item id="21333" weight="3000"/>
+		<item id="21334" weight="3000"/>
+		<item id="21166" value="6000" weight="12500"/>
+		<item id="21199" value="170" weight="900"/>
+		<item id="21198" value="430" weight="500"/>
+		<item id="21200" value="140" weight="350"/>
+		<item id="21177" value="2500" weight="2800"/>
+		<item id="21201" value="240" weight="320"/>
+		<item id="21167" value="10000" weight="5500"/>
+		<item id="21195" value="130" weight="120"/>
+		<item id="21164" value="7000" weight="2900"/>
+		<item id="21176" value="12000" weight="8200"/>
+		<item id="21193" value="260" weight="140"/>
+		<item id="21197" value="320" weight="300"/>
+		<item id="21196" value="390" weight="150"/>
+		<item id="21170" value="5000" weight="1000"/>
+		<item id="21168" value="11000" weight="4500"/>
+		<item id="21182" value="125" weight="10"/>
+		<item id="21175" value="3000" weight="6500"/>
+		<item id="21103" value="350" weight="1400"/>
+		<item id="21194" value="160" weight="180"/>
+		<item id="21204" value="210" weight="400"/>
+		<item id="21172" value="2500" weight="3200"/>
+		<item id="21165" value="11000" weight="800"/>
+		<item id="21180" value="1500" weight="1900"/>
+		<item id="21174" value="7000" weight="6500"/>
+		<item id="21169" value="2000" weight="1800"/>
+		<item id="21183" value="2000" weight="220"/>
+		<item id="21173" value="14000" weight="8500"/>
+		<item id="21171" value="9000" weight="5100"/>
+		<item id="21179" value="1500" weight="1900"/>
+		<item id="21202" value="110" weight="500"/>
+		<item id="21178" value="1500" weight="1900"/>
+		<item id="22054" value="165" weight="190"/>
+		<item id="22087" value="1500" weight="1300"/>
+		<item id="22053" value="175" weight="250"/>
+		<item id="22056" value="195" weight="500"/>
+		<item id="22086" value="7500" weight="1200"/>
+		<item id="22057" value="185" weight="500"/>
+		<item id="22051" value="160" weight="110"/>
+		<item id="22055" value="185" weight="300"/>
+
+
+		<item id="23374" cost="350" weight="310"/>
+		<item id="23373" cost="350" weight="310"/>
+		<item id="23375" cost="500" weight="350"/>
+	</itemtype>
+</items>

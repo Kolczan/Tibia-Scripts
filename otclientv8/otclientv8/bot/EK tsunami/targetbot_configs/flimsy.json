@@ -1,0 +1,225 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 60,
+        "id": 3035
+      },
+      {
+        "count": 1,
+        "id": 3065
+      },
+      {
+        "count": 1,
+        "id": 8084
+      },
+      {
+        "count": 1,
+        "id": 3073
+      },
+      {
+        "count": 1,
+        "id": 3320
+      },
+      {
+        "count": 1,
+        "id": 7386
+      },
+      {
+        "count": 5,
+        "id": 32227
+      },
+      {
+        "count": 1,
+        "id": 16118
+      },
+      {
+        "count": 1,
+        "id": 13990
+      },
+      {
+        "count": 4,
+        "id": 6499
+      },
+      {
+        "count": 1,
+        "id": 7418
+      },
+      {
+        "count": 5,
+        "id": 32698
+      },
+      {
+        "count": 1,
+        "id": 14040
+      },
+      {
+        "count": 2,
+        "id": 32774
+      },
+      {
+        "count": 1,
+        "id": 823
+      },
+      {
+        "count": 1,
+        "id": 11657
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 23721
+      },
+      {
+        "count": 1,
+        "id": 25780
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "attackSpellDelay": 2500,
+      "groupAttackSpell": "",
+      "danger": 2,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 5,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "chase": true,
+      "priority": 2,
+      "keepDistanceRange": 2,
+      "keepDistance": false,
+      "groupAttackTargets": 2,
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "groupRuneAttackDelay": 5000,
+      "lure": false,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "name": "Flimsy Lost Soul",
+      "regex": "^flimsy lost soul$"
+    },
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "attackSpellDelay": 2500,
+      "groupAttackSpell": "",
+      "danger": 4,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 5,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "chase": true,
+      "priority": 4,
+      "keepDistanceRange": 2,
+      "keepDistance": false,
+      "groupAttackTargets": 2,
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "groupRuneAttackDelay": 5000,
+      "lure": false,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "name": "Mean Lost Soul",
+      "regex": "^mean lost soul$"
+    },
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "attackSpellDelay": 2500,
+      "groupAttackSpell": "",
+      "danger": 7,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 5,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "chase": true,
+      "priority": 8,
+      "keepDistanceRange": 2,
+      "keepDistance": false,
+      "groupAttackTargets": 2,
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "groupRuneAttackDelay": 5000,
+      "lure": false,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "name": "Freakish Lost Soul",
+      "regex": "^freakish lost soul$"
+    },
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 7,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 2,
+      "groupRuneAttackDelay": 5000,
+      "priority": 10,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "lure": false,
+      "keepDistance": false,
+      "attackSpellDelay": 2500,
+      "chase": true,
+      "name": "*",
+      "regex": "^.*$"
+    }
+  ]
+}

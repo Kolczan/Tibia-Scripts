@@ -1,0 +1,76 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 12,
+        "id": 28570
+      },
+      {
+        "count": 2,
+        "id": 28566
+      },
+      {
+        "count": 12,
+        "id": 28569
+      },
+      {
+        "count": 1,
+        "id": 3016
+      },
+      {
+        "count": 69,
+        "id": 3035
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 14249
+      },
+      {
+        "count": 1,
+        "id": 23721
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 1,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 1,
+      "groupRuneAttackDelay": 5000,
+      "priority": 1,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "lure": false,
+      "keepDistance": false,
+      "attackSpellDelay": 2500,
+      "chase": false,
+      "name": "Biting Book",
+      "regex": "^biting book$"
+    }
+  ]
+}

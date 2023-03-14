@@ -1,0 +1,640 @@
+{
+  "rope": 9596,
+  "castle": {
+    "enabled": false,
+    "around": false,
+    "id": 2983
+  },
+  "supplyRetries": 0,
+  "foodItems": [
+    {
+      "id": 3582,
+      "count": 1
+    },
+    {
+      "id": 3577,
+      "count": 1
+    },
+    {
+      "id": 3725,
+      "count": 83
+    },
+    {
+      "id": 3731,
+      "count": 99
+    },
+    {
+      "id": 3586,
+      "count": 84
+    }
+  ],
+  "killSteal": {
+    "setting": true,
+    "enabled": false,
+    "hp": 20,
+    "id": 3155
+  },
+  "healbot": {
+    "spellTable": [
+      {
+        "enabled": true,
+        "index": 1,
+        "origin": "HP%",
+        "spell": "exura max vita",
+        "sign": "<",
+        "value": 30,
+        "cost": 300
+      },
+      {
+        "enabled": true,
+        "value": 70,
+        "origin": "HP%",
+        "sign": "<",
+        "spell": "exura vita",
+        "index": 2,
+        "cost": 160
+      },
+      {
+        "enabled": false,
+        "index": 3,
+        "origin": "HP%",
+        "spell": "exura vita",
+        "sign": "<",
+        "value": 60,
+        "cost": 160
+      },
+      {
+        "enabled": true,
+        "index": 4,
+        "origin": "HP%",
+        "spell": "exura gran",
+        "sign": "<",
+        "value": 86,
+        "cost": 70
+      },
+      {
+        "enabled": false,
+        "index": 5,
+        "origin": "HP%",
+        "spell": "exura gran",
+        "sign": "<",
+        "value": 75,
+        "cost": 70
+      },
+      {
+        "enabled": false,
+        "index": 6,
+        "origin": "HP%",
+        "spell": "exura",
+        "sign": "<",
+        "value": 92,
+        "cost": 20
+      },
+      {
+        "enabled": true,
+        "index": 7,
+        "origin": "HP%",
+        "spell": "exura",
+        "sign": "<",
+        "value": 90,
+        "cost": 20
+      },
+      {
+        "enabled": true,
+        "value": 98,
+        "origin": "MP%",
+        "sign": ">",
+        "spell": "utana vid",
+        "index": 8,
+        "cost": 450
+      },
+      {
+        "enabled": false,
+        "value": 99,
+        "origin": "MP%",
+        "sign": ">",
+        "spell": "utana vid",
+        "index": 9,
+        "cost": 450
+      },
+      {
+        "enabled": false,
+        "index": 10,
+        "origin": "MP%",
+        "spell": "adori gran mort",
+        "sign": ">",
+        "value": 96,
+        "cost": 900
+      },
+      {
+        "enabled": false,
+        "index": 11,
+        "origin": "MP%",
+        "spell": "exura gran",
+        "sign": ">",
+        "value": 98,
+        "cost": 70
+      }
+    ],
+    "enabled": true,
+    "itemTable": [
+      {
+        "sign": "<",
+        "value": 50,
+        "index": 1,
+        "item": 23373,
+        "origin": "MP%",
+        "enabled": true
+      },
+      {
+        "sign": "<",
+        "value": 90,
+        "index": 2,
+        "item": 23373,
+        "origin": "MP%",
+        "enabled": false
+      },
+      {
+        "enabled": false,
+        "origin": "MP%",
+        "value": 99,
+        "item": 238,
+        "index": 3,
+        "sign": "<"
+      }
+    ]
+  },
+  "containersClosed": false,
+  "supplies": {
+    "imbues": false,
+    "item6": 0,
+    "item3": 3191,
+    "item3Min": "450",
+    "item1Min": "80",
+    "item4": 0,
+    "item2Min": "25",
+    "item2": 23373,
+    "item1": 3155,
+    "item6Min": 0,
+    "potionBp": 9602,
+    "item6Max": 0,
+    "item2Max": "70",
+    "sortSupplies": true,
+    "SoftBoots": false,
+    "runeBp": 5801,
+    "item4Max": "500",
+    "capValue": "100",
+    "item4Min": "150",
+    "item3Max": "4200",
+    "staminaSwitch": false,
+    "item5": 0,
+    "staminaValue": "850",
+    "capSwitch": false,
+    "item5Max": 0,
+    "item5Min": 0,
+    "item1Max": "800",
+    "ammoBp": 0
+  },
+  "shovel": 9596,
+  "buySuppliesCap": 0,
+  "jewelleryEquipper": {
+    "ringMin": 40,
+    "pzCheck": false,
+    "valueAmmy": false,
+    "ringEnabled": true,
+    "ammyEnabled": false,
+    "ammyMin": 70,
+    "ringMax": 80,
+    "valueRing": false,
+    "ringId": 3048,
+    "ammyId": 30403,
+    "ammySwitch": true,
+    "ringValue": "HP",
+    "ringSwitch": true,
+    "ammyMax": 90,
+    "ammyValue": "HP"
+  },
+  "attackbot": {
+    "attackTable": [
+      {
+        "attack": 3155,
+        "category": 7,
+        "model": 2,
+        "dist": 8,
+        "pvp": true,
+        "manaCost": 1,
+        "enabled": false,
+        "index": 1,
+        "minMonsters": 1
+      },
+      {
+        "attack": "exevo gran mas flam",
+        "category": 2,
+        "model": 4,
+        "dist": 4,
+        "pvp": false,
+        "manaCost": 20,
+        "enabled": true,
+        "index": 2,
+        "minMonsters": 4
+      },
+      {
+        "attack": "exevo gran mas vis",
+        "category": 2,
+        "model": 3,
+        "dist": 5,
+        "index": 3,
+        "minMonsters": 4,
+        "enabled": false,
+        "pvp": false,
+        "manaCost": 20
+      },
+      {
+        "attack": "exori moe",
+        "category": 9,
+        "model": 11,
+        "dist": 4,
+        "pvp": false,
+        "manaCost": 11,
+        "enabled": false,
+        "index": 4,
+        "minMonsters": 4
+      },
+      {
+        "attack": 3161,
+        "category": 8,
+        "model": 11,
+        "dist": 4,
+        "index": 5,
+        "minMonsters": 5,
+        "enabled": false,
+        "pvp": false,
+        "manaCost": 11
+      },
+      {
+        "attack": 3161,
+        "category": 8,
+        "model": 11,
+        "dist": 4,
+        "pvp": false,
+        "manaCost": 11,
+        "enabled": true,
+        "index": 6,
+        "minMonsters": 3
+      },
+      {
+        "attack": 3191,
+        "category": 8,
+        "model": 11,
+        "dist": 5,
+        "pvp": false,
+        "manaCost": 15,
+        "enabled": false,
+        "index": 7,
+        "minMonsters": 2
+      },
+      {
+        "attack": 3191,
+        "category": 8,
+        "model": 11,
+        "dist": 5,
+        "pvp": false,
+        "manaCost": 33,
+        "enabled": false,
+        "index": 8,
+        "minMonsters": 3
+      },
+      {
+        "attack": 3191,
+        "category": 8,
+        "model": 11,
+        "dist": 4,
+        "index": 9,
+        "minMonsters": 4,
+        "enabled": false,
+        "pvp": false,
+        "manaCost": 20
+      },
+      {
+        "attack": 3202,
+        "category": 8,
+        "model": 11,
+        "dist": 4,
+        "index": 10,
+        "minMonsters": 2,
+        "enabled": false,
+        "pvp": false,
+        "manaCost": 10
+      },
+      {
+        "attack": "exori flam",
+        "category": 6,
+        "model": 2,
+        "dist": 9,
+        "pvp": false,
+        "manaCost": 15,
+        "enabled": false,
+        "index": 11,
+        "minMonsters": 1
+      },
+      {
+        "attack": 3155,
+        "category": 7,
+        "model": 2,
+        "dist": 8,
+        "index": 12,
+        "minMonsters": 1,
+        "enabled": true,
+        "pvp": false,
+        "manaCost": 1
+      },
+      {
+        "attack": 3155,
+        "category": 7,
+        "model": 2,
+        "dist": 6,
+        "index": 13,
+        "minMonsters": 1,
+        "enabled": false,
+        "pvp": false,
+        "manaCost": 10
+      },
+      {
+        "attack": "exori max vis",
+        "category": 6,
+        "model": 2,
+        "dist": 3,
+        "index": 14,
+        "minMonsters": 1,
+        "enabled": false,
+        "pvp": false,
+        "manaCost": 1
+      },
+      {
+        "attack": "exori gran vis",
+        "category": 6,
+        "model": 2,
+        "dist": 3,
+        "pvp": false,
+        "manaCost": 10,
+        "enabled": true,
+        "index": 15,
+        "minMonsters": 1
+      },
+      {
+        "attack": "exori gran flam",
+        "category": 6,
+        "model": 2,
+        "dist": 3,
+        "pvp": false,
+        "manaCost": 10,
+        "enabled": true,
+        "index": 16,
+        "minMonsters": 1
+      },
+      {
+        "attack": "exori vis",
+        "category": 6,
+        "model": 2,
+        "dist": 3,
+        "index": 17,
+        "minMonsters": 1,
+        "enabled": false,
+        "pvp": false,
+        "manaCost": 1
+      },
+      {
+        "attack": "exori frigo",
+        "category": 6,
+        "model": 2,
+        "dist": 3,
+        "pvp": false,
+        "manaCost": 1,
+        "enabled": false,
+        "index": 18,
+        "minMonsters": 1
+      }
+    ],
+    "pvpMode": false,
+    "pvpSafe": true,
+    "enabled": true,
+    "ignoreMana": true
+  },
+  "scythe": 9596,
+  "currentStack": 0,
+  "advancedFriendHealer": {
+    "spellName": "exura sio",
+    "itemHeal": true,
+    "minFriendHp": 40,
+    "id": 3160,
+    "enabled": false,
+    "distance": 8,
+    "spellHeal": true,
+    "minMana": 60
+  },
+  "autoTradeMessage": "sell tc here for tc global, trusted forum user, small parts, 100:25",
+  "stopSearch": false,
+  "combobot": {
+    "attackSpellEnabled": false,
+    "attackLeaderTargetEnabled": false,
+    "shootLeader": "",
+    "serverTriggers": true,
+    "serverLeaderTarget": false,
+    "commandsEnabled": true,
+    "serverEnabled": false,
+    "onSayEnabled": false,
+    "attack": "",
+    "enabled": false,
+    "spell": "",
+    "onShootEnabled": false,
+    "attackItemToggle": false,
+    "onCastEnabled": false,
+    "item": 3155,
+    "sayPhrase": "",
+    "followLeaderEnabled": false,
+    "serverLeader": "",
+    "sayLeader": "",
+    "follow": "",
+    "castLeader": ""
+  },
+  "antiPushPanel": {
+    "items": [
+      3031,
+      3035,
+      0,
+      0,
+      0
+    ]
+  },
+  "_macros": {
+    "": false,
+    "Anty-rs": false,
+    "new heal": true,
+    "Blessed Steak": false,
+    "mwall step": false,
+    "mwall on target": false,
+    "Click ReUse": false,
+    "Eat Food": true,
+    "Drop Items": false,
+    "Exchange money": true,
+    "utamo / exana": true,
+    "auto follow": false,
+    "Send message on trade": false
+  },
+  "lootStatus": "",
+  "trashItems": [
+    {
+      "id": 283,
+      "count": 1
+    },
+    {
+      "id": 284,
+      "count": 1
+    },
+    {
+      "id": 285,
+      "count": 1
+    }
+  ],
+  "sellAllCap": 0,
+  "lootContainerOpen": false,
+  "depositDone": false,
+  "ConditionPanel": {
+    "cureBurn": false,
+    "curseCost": 80,
+    "electrifyCost": 22,
+    "ignoreInPz": true,
+    "bleedCost": 45,
+    "cureCurse": false,
+    "holdHaste": true,
+    "curePosion": false,
+    "hasteSpell": "utani gran hur",
+    "uturaType": "",
+    "burnCost": 30,
+    "cureBleed": false,
+    "holdUtura": false,
+    "paralyseSpell": "utani gran hur",
+    "hasteCost": 40,
+    "cureParalyse": true,
+    "poisonCost": 20,
+    "utamoCost": 40,
+    "enabled": true,
+    "uturaCost": 100,
+    "cureElectrify": false,
+    "holdUtamo": false,
+    "paralyseCost": 40,
+    "utanaCost": 12700,
+    "holdUtana": false,
+    "stopHaste": true
+  },
+  "ManatrainText": "Utevo Mana",
+  "clearing": false,
+  "posCheckRetries": 0,
+  "_configs": {
+    "cavebot_configs": {
+      "enabled": false,
+      "selected": "blessy"
+    },
+    "targetbot_configs": {
+      "enabled": false,
+      "selected": "cobra"
+    }
+  },
+  "serverMembers": "[\"Akmed Punisher\",\"Becalmed\",\"Ceoo\",\"El Bananero\",\"Enigma\",\"Errype\",\"Franga Murcha\",\"Goordinho Bololo\",\"Greco\",\"Ivermectina\",\"Lennyn\",\"Lord Vulgo\",\"Marielle Presente\",\"Simon Lee\",\"Toma Tudo\",\"Tsunami\",\"Zoi Vermelho\"]",
+  "autoEquip": [
+    {
+      "item1": 3097,
+      "title": "Auto Equip",
+      "item2": 3098,
+      "on": true,
+      "slot": 9
+    },
+    {
+      "item1": 27565,
+      "title": "Auto Equip",
+      "item2": 27565,
+      "on": true,
+      "slot": 2
+    }
+  ],
+  "BOTserver": {
+    "manaInfo": true,
+    "mwallInfo": true,
+    "mwalls": [
+
+    ]
+  },
+  "pushmax": {
+    "pushMaxRuneId": 3188,
+    "mwallBlockId": 2128,
+    "pushDelay": 1060,
+    "enabled": false,
+    "pushMaxKey": "PageUp"
+  },
+  "AnalysersPanel": {
+    "lootItems": [
+      "royal helmet",
+      "crown armor",
+      "medusa shield",
+      "winged tail",
+      "snake skin",
+      "strand of medusa hair",
+      "boots of haste",
+      "mercenary sword",
+      "zaoan sword",
+      "platinum coin",
+      "gold coin",
+      "terra mantle",
+      "terra legs",
+      "terra hood",
+      "terra boots",
+      "steel boots",
+      "noble axe",
+      "small ruby",
+      "small sapphire",
+      "stone skin amulet",
+      "ring of healing",
+      "battle stone",
+      "opal",
+      "small emerald",
+      "cyan crystal fragment",
+      "green crystal fragment",
+      "red crystal fragment",
+      "green crystal shard",
+      "violet crystal shard",
+      "cheese cutter",
+      "cheesy figurine"
+    ],
+    "bestHit": 4452,
+    "bestHeal": 2981
+  },
+  "containersReset": false,
+  "BotServerChannel": "5343534338356",
+  "alarms": {
+    "playerDetected": false,
+    "creatureDetected": false,
+    "manaValue": 50,
+    "playerAttack": true,
+    "manaBelow": true,
+    "healthValue": 24,
+    "playerDetectedLogout": false,
+    "enabled": false,
+    "healthBelow": true,
+    "privateMessage": false
+  },
+  "playerList": {
+    "enemyList": [
+
+    ],
+    "outfits": false,
+    "groupMembers": true,
+    "marks": false,
+    "friendList": [
+
+    ]
+  },
+  "lootItemsCount": 0,
+  "inboxContainerOpen": false,
+  "isUsing": true,
+  "machete": 9596
+}
