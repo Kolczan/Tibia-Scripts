@@ -1,0 +1,128 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 1,
+        "id": 817
+      },
+      {
+        "count": 1,
+        "id": 828
+      },
+      {
+        "count": 1,
+        "id": 16096
+      },
+      {
+        "count": 1,
+        "id": 816
+      },
+      {
+        "count": 1,
+        "id": 827
+      },
+      {
+        "count": 1,
+        "id": 8092
+      },
+      {
+        "count": 53,
+        "id": 3035
+      },
+      {
+        "count": 1,
+        "id": 814
+      },
+      {
+        "count": 1,
+        "id": 818
+      },
+      {
+        "count": 1,
+        "id": 821
+      },
+      {
+        "count": 1,
+        "id": 830
+      },
+      {
+        "count": 10,
+        "id": 31438
+      },
+      {
+        "count": 1,
+        "id": 8082
+      },
+      {
+        "count": 1,
+        "id": 9302
+      },
+      {
+        "count": 25,
+        "id": 31441
+      },
+      {
+        "count": 1,
+        "id": 16115
+      },
+      {
+        "count": 29,
+        "id": 31437
+      },
+      {
+        "count": 9,
+        "id": 9058
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 23721
+      },
+      {
+        "count": 1,
+        "id": 25780
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 2,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 4,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 3,
+      "groupRuneAttackDelay": 5000,
+      "priority": 5,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "lure": false,
+      "keepDistance": false,
+      "attackSpellDelay": 2500,
+      "chase": false,
+      "name": "*",
+      "regex": "^.*$"
+    }
+  ]
+}

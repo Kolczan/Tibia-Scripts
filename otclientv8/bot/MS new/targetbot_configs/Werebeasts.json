@@ -1,0 +1,237 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 5,
+        "id": 3035
+      },
+      {
+        "count": 65,
+        "id": 3031
+      },
+      {
+        "count": 1,
+        "id": 22054
+      },
+      {
+        "count": 1,
+        "id": 10317
+      },
+      {
+        "count": 1,
+        "id": 7439
+      },
+      {
+        "count": 2,
+        "id": 237
+      },
+      {
+        "count": 2,
+        "id": 238
+      },
+      {
+        "count": 1,
+        "id": 22060
+      },
+      {
+        "count": 1,
+        "id": 22053
+      },
+      {
+        "count": 1,
+        "id": 22056
+      },
+      {
+        "count": 1,
+        "id": 22086
+      },
+      {
+        "count": 5,
+        "id": 5902
+      },
+      {
+        "count": 3,
+        "id": 5897
+      },
+      {
+        "count": 2,
+        "id": 5896
+      },
+      {
+        "count": 1,
+        "id": 3081
+      },
+      {
+        "count": 4,
+        "id": 27462
+      },
+      {
+        "count": 7,
+        "id": 27463
+      },
+      {
+        "count": 9,
+        "id": 22055
+      },
+      {
+        "count": 7,
+        "id": 22057
+      },
+      {
+        "count": 9,
+        "id": 22051
+      },
+      {
+        "count": 1,
+        "id": 22052
+      },
+      {
+        "count": 3,
+        "id": 22083
+      },
+      {
+        "count": 1,
+        "id": 7383
+      },
+      {
+        "count": 1,
+        "id": 7452
+      },
+      {
+        "count": 1,
+        "id": 7419
+      },
+      {
+        "count": 1,
+        "id": 7428
+      },
+      {
+        "count": 1,
+        "id": 3326
+      },
+      {
+        "count": 1,
+        "id": 22103
+      },
+      {
+        "count": 1,
+        "id": 22101
+      },
+      {
+        "count": 1,
+        "id": 3055
+      },
+      {
+        "count": 6,
+        "id": 3010
+      },
+      {
+        "count": 2,
+        "id": 675
+      },
+      {
+        "count": 0,
+        "id": 678
+      },
+      {
+        "count": 2,
+        "id": 677
+      },
+      {
+        "count": 1,
+        "id": 676
+      },
+      {
+        "count": 1,
+        "id": 8094
+      },
+      {
+        "count": 1,
+        "id": 8082
+      },
+      {
+        "count": 1,
+        "id": 22102
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 14249
+      },
+      {
+        "count": 1,
+        "id": 23721
+      },
+      {
+        "count": 1,
+        "id": 2869
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "lureDelay": 250,
+      "lureMin": 1,
+      "maxDistance": 10,
+      "anchorRange": 3,
+      "lureCount": 3,
+      "avoidAttacks": false,
+      "rePositionAmount": 5,
+      "lureMax": 3,
+      "rpSafe": false,
+      "chase": true,
+      "priority": 1,
+      "name": "Were*",
+      "keepDistance": true,
+      "keepDistanceRange": 2,
+      "dynamicLureDelay": false,
+      "danger": 1,
+      "delayFrom": 2,
+      "closeLure": false,
+      "faceMonster": false,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "diamondArrows": false,
+      "lure": false,
+      "anchor": false,
+      "closeLureAmount": 3,
+      "rePosition": false,
+      "dynamicLure": false,
+      "regex": "^were.*$"
+    },
+    {
+      "lureDelay": 250,
+      "lureMin": 1,
+      "maxDistance": 10,
+      "anchorRange": 3,
+      "lureCount": 1,
+      "avoidAttacks": false,
+      "rePositionAmount": 5,
+      "lureMax": 3,
+      "rpSafe": false,
+      "chase": true,
+      "priority": 10,
+      "name": "Bloodback, Sharclaw",
+      "keepDistance": false,
+      "keepDistanceRange": 1,
+      "danger": 1,
+      "dynamicLureDelay": false,
+      "delayFrom": 2,
+      "closeLure": false,
+      "faceMonster": false,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "diamondArrows": false,
+      "lure": false,
+      "anchor": false,
+      "closeLureAmount": 3,
+      "rePosition": false,
+      "dynamicLure": false,
+      "regex": "^bloodback$|^sharclaw$"
+    }
+  ]
+}

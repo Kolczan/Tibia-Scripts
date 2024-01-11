@@ -1,0 +1,248 @@
+{
+  "rope": 9596,
+  "castle": {
+    "enabled": false,
+    "id": 2983,
+    "around": false
+  },
+  "supplyRetries": 0,
+  "foodItems": [
+    {
+      "count": 1,
+      "id": 3582
+    },
+    {
+      "count": 1,
+      "id": 3577
+    }
+  ],
+  "killSteal": {
+    "id": 3155,
+    "setting": true,
+    "enabled": false,
+    "hp": 20
+  },
+  "healbot": {
+    "spellTable": [
+
+    ],
+    "enabled": false,
+    "itemTable": [
+
+    ]
+  },
+  "supplies": {
+    "imbues": false,
+    "item6": 0,
+    "item2Min": 0,
+    "item3Min": 0,
+    "item1Min": 0,
+    "ammoBp": 0,
+    "runeBp": 0,
+    "item2Max": 0,
+    "sortSupplies": false,
+    "item6Min": 0,
+    "potionBp": 0,
+    "SoftBoots": false,
+    "item6Max": 0,
+    "item1": 0,
+    "item5Max": 0,
+    "item5Min": 0,
+    "item4Max": 0,
+    "capValue": 0,
+    "item4Min": 0,
+    "item3Max": 0,
+    "staminaSwitch": false,
+    "item5": 0,
+    "staminaValue": 900,
+    "capSwitch": false,
+    "item1Max": 0,
+    "item3": 0,
+    "item2": 0,
+    "item4": 0
+  },
+  "shovel": 9596,
+  "buySuppliesCap": 0,
+  "jewelleryEquipper": {
+    "ringMin": 30,
+    "ammyMin": 30,
+    "pzCheck": true,
+    "ringValue": "HP",
+    "ringMax": 80,
+    "valueRing": false,
+    "ringId": 3048,
+    "valueAmmy": false,
+    "ammyId": 3081,
+    "ammySwitch": true,
+    "ringSwitch": true,
+    "ammyMax": 80,
+    "ammyValue": "HP"
+  },
+  "attackbot": {
+    "attackTable": [
+
+    ],
+    "pvpMode": false,
+    "pvpSafe": true,
+    "enabled": true,
+    "ignoreMana": true
+  },
+  "scythe": 9596,
+  "ConditionPanel": {
+    "cureBurn": false,
+    "curseCost": 80,
+    "electrifyCost": 22,
+    "ignoreInPz": true,
+    "bleedCost": 45,
+    "cureCurse": false,
+    "holdHaste": false,
+    "curePosion": false,
+    "hasteSpell": "utani hur",
+    "cureParalyse": false,
+    "stopHaste": false,
+    "cureBleed": false,
+    "holdUtura": false,
+    "paralyseSpell": "utani hur",
+    "uturaType": "",
+    "utanaCost": 440,
+    "poisonCost": 20,
+    "utamoCost": 40,
+    "enabled": false,
+    "uturaCost": 100,
+    "cureElectrify": false,
+    "holdUtamo": false,
+    "paralyseCost": 40,
+    "hasteCost": 40,
+    "holdUtana": false,
+    "burnCost": 30
+  },
+  "autoTradeMessage": "I'm using OTClientV8!",
+  "stopSearch": false,
+  "combobot": {
+    "attackSpellEnabled": false,
+    "attackLeaderTargetEnabled": false,
+    "shootLeader": "",
+    "item": 3155,
+    "followLeaderEnabled": false,
+    "serverTriggers": true,
+    "commandsEnabled": true,
+    "serverLeaderTarget": false,
+    "attack": "",
+    "serverEnabled": false,
+    "spell": "",
+    "sayLeader": "",
+    "attackItemToggle": false,
+    "onSayEnabled": false,
+    "onCastEnabled": false,
+    "sayPhrase": "",
+    "onShootEnabled": false,
+    "serverLeader": "",
+    "enabled": false,
+    "follow": "",
+    "castLeader": ""
+  },
+  "antiPushPanel": {
+    "items": [
+      3031,
+      3035,
+      0,
+      0,
+      0
+    ]
+  },
+  "_macros": {
+    "": false
+  },
+  "lootStatus": "",
+  "trashItems": [
+    {
+      "count": 1,
+      "id": 283
+    },
+    {
+      "count": 1,
+      "id": 284
+    },
+    {
+      "count": 1,
+      "id": 285
+    }
+  ],
+  "sellAllCap": 0,
+  "_configs": {
+    "targetbot_configs": {
+      "selected": "carnivory",
+      "enabled": false
+    },
+    "cavebot_configs": {
+      "selected": "Deahtlingi_ph",
+      "enabled": false
+    }
+  },
+  "machete": 9596,
+  "BotServerChannel": "2469711393267",
+  "posCheckRetries": 0,
+  "pushmax": {
+    "pushMaxRuneId": 3188,
+    "mwallBlockId": 2128,
+    "pushDelay": 1060,
+    "enabled": true,
+    "pushMaxKey": "PageUp"
+  },
+  "BOTserver": {
+    "manaInfo": true,
+    "mwallInfo": true,
+    "mwalls": [
+
+    ]
+  },
+  "inboxContainerOpen": false,
+  "alarms": {
+    "playerDetected": false,
+    "healthValue": 40,
+    "healthBelow": false,
+    "playerAttack": false,
+    "manaBelow": false,
+    "privateMessage": false,
+    "manaValue": 50,
+    "enabled": false,
+    "playerDetectedLogout": false,
+    "creatureDetected": false
+  },
+  "playerList": {
+    "enemyList": [
+
+    ],
+    "outfits": false,
+    "groupMembers": true,
+    "marks": false,
+    "friendList": [
+
+    ]
+  },
+  "isUsing": false,
+  "AnalysersPanel": {
+    "bestHeal": 164,
+    "lootItems": [
+
+    ],
+    "bestHit": 177
+  },
+  "autoEquip": [
+    {
+      "item1": 3052,
+      "title": "Auto Equip",
+      "item2": 3089,
+      "on": false,
+      "slot": 9
+    },
+    {
+      "item1": 0,
+      "title": "Auto Equip",
+      "item2": 0,
+      "on": false,
+      "slot": 0
+    }
+  ],
+  "lootContainerOpen": false
+}

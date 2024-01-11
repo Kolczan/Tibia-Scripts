@@ -1,0 +1,152 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 1,
+        "id": 9302
+      },
+      {
+        "count": 1,
+        "id": 814
+      },
+      {
+        "count": 2,
+        "id": 9640
+      },
+      {
+        "count": 4,
+        "id": 27597
+      },
+      {
+        "count": 1,
+        "id": 27598
+      },
+      {
+        "count": 1,
+        "id": 27592
+      },
+      {
+        "count": 1,
+        "id": 27594
+      },
+      {
+        "count": 1,
+        "id": 281
+      },
+      {
+        "count": 1,
+        "id": 22193
+      },
+      {
+        "count": 1,
+        "id": 3032
+      },
+      {
+        "count": 1,
+        "id": 677
+      },
+      {
+        "count": 1,
+        "id": 16119
+      },
+      {
+        "count": 1,
+        "id": 16121
+      },
+      {
+        "count": 1,
+        "id": 16120
+      },
+      {
+        "count": 1,
+        "id": 678
+      },
+      {
+        "count": 1,
+        "id": 8084
+      },
+      {
+        "count": 1,
+        "id": 16164
+      },
+      {
+        "count": 1,
+        "id": 813
+      },
+      {
+        "count": 67,
+        "id": 27593
+      },
+      {
+        "count": 88,
+        "id": 9058
+      },
+      {
+        "count": 1,
+        "id": 5909
+      },
+      {
+        "count": 2,
+        "id": 5911
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 14249
+      },
+      {
+        "count": 1,
+        "id": 23721
+      },
+      {
+        "count": 1,
+        "id": 21411
+      },
+      {
+        "count": 1,
+        "id": 2869
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "attackSpellDelay": 2500,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "chase": true,
+      "priority": 1,
+      "keepDistanceRange": 1,
+      "keepDistance": false,
+      "groupAttackTargets": 2,
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "groupRuneAttackDelay": 5000,
+      "lure": true,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "name": "Diremaw, Deepworm, Humongous Fungus",
+      "regex": "^diremaw$|^deepworm$|^humongous fungus$"
+    }
+  ]
+}

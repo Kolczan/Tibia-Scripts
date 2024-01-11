@@ -1,0 +1,195 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 2,
+        "id": 27599
+      },
+      {
+        "count": 4,
+        "id": 27596
+      },
+      {
+        "count": 10,
+        "id": 27600
+      },
+      {
+        "count": 67,
+        "id": 27595
+      },
+      {
+        "count": 61,
+        "id": 21194
+      },
+      {
+        "count": 11,
+        "id": 23508
+      },
+      {
+        "count": 60,
+        "id": 27601
+      },
+      {
+        "count": 56,
+        "id": 16125
+      },
+      {
+        "count": 100,
+        "id": 16119
+      },
+      {
+        "count": 30,
+        "id": 16120
+      },
+      {
+        "count": 11,
+        "id": 3041
+      },
+      {
+        "count": 31,
+        "id": 3036
+      },
+      {
+        "count": 12,
+        "id": 3038
+      },
+      {
+        "count": 1,
+        "id": 3333
+      },
+      {
+        "count": 1,
+        "id": 8050
+      },
+      {
+        "count": 54,
+        "id": 676
+      },
+      {
+        "count": 27,
+        "id": 675
+      },
+      {
+        "count": 1,
+        "id": 3016
+      },
+      {
+        "count": 56,
+        "id": 3035
+      },
+      {
+        "count": 63,
+        "id": 28570
+      },
+      {
+        "count": 43,
+        "id": 28569
+      },
+      {
+        "count": 5,
+        "id": 28566
+      },
+      {
+        "count": 8,
+        "id": 11492
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 23721
+      },
+      {
+        "count": 1,
+        "id": 23525
+      },
+      {
+        "count": 1,
+        "id": 14249
+      },
+      {
+        "count": 1,
+        "id": 21411
+      },
+      {
+        "count": 1,
+        "id": 5949
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupRuneAttackDelay": 5000,
+      "danger": 3,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 4,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 2,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "chase": true,
+      "priority": 4,
+      "keepDistanceRange": 1,
+      "attackRune": 0,
+      "minManaGroup": 1500,
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "groupAttackDelay": 5000,
+      "lure": true,
+      "attackSpellDelay": 2500,
+      "keepDistance": false,
+      "groupAttackSpell": "",
+      "name": "Tunnel Tyrant, Cave Devourer",
+      "regex": "^tunnel tyrant$|^cave devourer$"
+    },
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "attackSpellDelay": 2500,
+      "groupRuneAttackDelay": 5000,
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 1,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "chase": true,
+      "priority": 1,
+      "keepDistanceRange": 1,
+      "groupAttackTargets": 2,
+      "minManaGroup": 1500,
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "groupAttackDelay": 5000,
+      "lure": false,
+      "attackRune": 0,
+      "keepDistance": false,
+      "groupAttackSpell": "",
+      "name": "Monk",
+      "regex": "^monk$"
+    }
+  ]
+}

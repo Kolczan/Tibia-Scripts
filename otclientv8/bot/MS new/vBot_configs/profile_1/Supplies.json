@@ -1,0 +1,28 @@
+{
+  "supplies": {
+    "GFB": {
+      "staminaSwitch": true,
+      "items": {
+        "23373": {
+          "max": 150,
+          "min": 100,
+          "avg": 20
+        },
+        "3155": {
+          "max": 800,
+          "min": 300,
+          "avg": 15
+        },
+        "3202": {
+          "max": 2300,
+          "min": 900,
+          "avg": 80
+        }
+      },
+      "staminaValue": "840",
+      "capSwitch": true,
+      "capValue": "120"
+    },
+    "currentProfile": "GFB"
+  }
+}

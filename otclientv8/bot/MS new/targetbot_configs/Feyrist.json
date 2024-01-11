@@ -1,0 +1,147 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 74,
+        "id": 3031
+      },
+      {
+        "count": 1,
+        "id": 8046
+      },
+      {
+        "count": 1,
+        "id": 7387
+      },
+      {
+        "count": 2,
+        "id": 22194
+      },
+      {
+        "count": 2,
+        "id": 25737
+      },
+      {
+        "count": 4,
+        "id": 9057
+      },
+      {
+        "count": 1,
+        "id": 25691
+      },
+      {
+        "count": 1,
+        "id": 25696
+      },
+      {
+        "count": 4,
+        "id": 25735
+      },
+      {
+        "count": 1,
+        "id": 25693
+      },
+      {
+        "count": 1,
+        "id": 24962
+      },
+      {
+        "count": 1,
+        "id": 3735
+      },
+      {
+        "count": 1,
+        "id": 3575
+      },
+      {
+        "count": 1,
+        "id": 814
+      },
+      {
+        "count": 1,
+        "id": 25699
+      },
+      {
+        "count": 16,
+        "id": 25694
+      },
+      {
+        "count": 2,
+        "id": 24390
+      },
+      {
+        "count": 1,
+        "id": 9014
+      },
+      {
+        "count": 1,
+        "id": 25695
+      },
+      {
+        "count": 0,
+        "id": 676
+      },
+      {
+        "count": 0,
+        "id": 677
+      },
+      {
+        "count": 0,
+        "id": 678
+      },
+      {
+        "count": 0,
+        "id": 675
+      },
+      {
+        "count": 1,
+        "id": 25700
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 14249
+      },
+      {
+        "count": 1,
+        "id": 23721
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "lureDelay": 250,
+      "lureMin": 1,
+      "maxDistance": 10,
+      "anchorRange": 3,
+      "lureCount": 2,
+      "avoidAttacks": false,
+      "rePositionAmount": 5,
+      "lureMax": 5,
+      "regex": "^nymph$|^faun$|^dark faun$|^swan maiden$|^pixie$|^pooka$|^twisted pooka$|^boogy$",
+      "dynamicLureDelay": false,
+      "priority": 1,
+      "dynamicLure": false,
+      "keepDistance": false,
+      "danger": 1,
+      "chase": true,
+      "keepDistanceRange": 1,
+      "lure": false,
+      "closeLure": false,
+      "faceMonster": false,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "diamondArrows": false,
+      "delayFrom": 2,
+      "anchor": false,
+      "closeLureAmount": 3,
+      "rePosition": false,
+      "name": "Nymph, Faun, Dark Faun, Swan Maiden, Pixie, Pooka, Twisted Pooka, Boogy",
+      "rpSafe": false
+    }
+  ]
+}

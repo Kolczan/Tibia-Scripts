@@ -1,0 +1,1110 @@
+{
+  "BotServerChannel": "7362566596184",
+  "combobot": {
+    "attackSpellEnabled": true,
+    "attackLeaderTargetEnabled": false,
+    "shootLeader": "",
+    "serverTriggers": true,
+    "serverLeaderTarget": false,
+    "commandsEnabled": true,
+    "serverEnabled": false,
+    "onSayEnabled": true,
+    "attack": "COMMAND TARGET",
+    "enabled": false,
+    "spell": "exevo gran mas flam",
+    "onShootEnabled": false,
+    "attackItemToggle": false,
+    "onCastEnabled": false,
+    "item": 3155,
+    "sayPhrase": "exevo gran mas flam",
+    "followLeaderEnabled": false,
+    "serverLeader": "",
+    "sayLeader": "Masakrowiec",
+    "follow": "",
+    "castLeader": ""
+  },
+  "extras": {
+    "rope": 9596,
+    "pathfinding": true,
+    "timers": true,
+    "machete": 9596,
+    "separatePm": false,
+    "reUse": false,
+    "gotoMaxDistance": 30,
+    "killUnder": 1,
+    "holdMwall": true,
+    "checkPlayer": true,
+    "looting": 40,
+    "suppliesControl": false,
+    "useAll": "space",
+    "joinBot": false,
+    "lootLast": true,
+    "holdMwHot": "F5",
+    "lootDelay": 200,
+    "shovel": 9596,
+    "reachable": false,
+    "talkDelay": 1000,
+    "autoOpenDoors": true,
+    "stake": false,
+    "scythe": 9596,
+    "oberon": true,
+    "huntRoutes": 50,
+    "antiKick": true,
+    "title": true,
+    "nextBackpack": true,
+    "holdWgHot": "F6",
+    "highlightTarget": true,
+    "height": 360,
+    "bless": true
+  },
+  "bestHeal": 2221,
+  "specialDeposit": {
+    "height": 380,
+    "items": [
+      {
+        "id": 25700,
+        "index": 3
+      }
+    ]
+  },
+  "dropper": {
+    "enabled": false,
+    "trashItems": [
+      {
+        "id": 283,
+        "count": 1
+      },
+      {
+        "id": 284,
+        "count": 1
+      },
+      {
+        "id": 285,
+        "count": 1
+      }
+    ],
+    "useItems": [
+      {
+        "id": 21203,
+        "count": 1
+      },
+      {
+        "id": 14758,
+        "count": 1
+      }
+    ],
+    "capItems": [
+      {
+        "id": 21175,
+        "count": 1
+      }
+    ]
+  },
+  "caveBot": {
+    "backOffline": false,
+    "backTrainers": false,
+    "forceRefill": false,
+    "backStop": false
+  },
+  "analyzers": {
+    "lootChannel": true,
+    "customPrices": [
+
+    ],
+    "trackedLoot": [
+
+    ],
+    "trackedBoss": {
+      "Darkfang": 1702137081,
+      "Shadowpelt": 1699588624,
+      "Bloodback": 1704642220,
+      "Grand Master Oberon": 1699122859,
+      "Black Vixen": 1699588669,
+      "Sharpclaw": 1704421290,
+      "Ravenous Hunger": 1699120454,
+      "Urmahlullu": 1699122342
+    },
+    "outfits": {
+      "No Pepsi Max": {
+        "addons": 0,
+        "feet": 18,
+        "mount": 0,
+        "body": 114,
+        "type": 128,
+        "auxType": 0,
+        "legs": 114,
+        "head": 115
+      },
+      "Werewolf": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 308,
+        "head": 0
+      },
+      "Eternal Guardian": {
+        "legs": 0,
+        "feet": 0,
+        "addons": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 345,
+        "head": 0
+      },
+      "Kongra": {
+        "mount": 0,
+        "feet": 0,
+        "legs": 0,
+        "body": 0,
+        "type": 116,
+        "auxType": 0,
+        "addons": 0,
+        "head": 0
+      },
+      "Brachiodemon": {
+        "addons": 0,
+        "feet": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 1299,
+        "auxType": 0,
+        "legs": 0,
+        "head": 0
+      },
+      "Wisdom of Urmahlullu": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1200,
+        "auxType": 0,
+        "legs": 74,
+        "body": 74,
+        "mount": 0,
+        "head": 74
+      },
+      "Bat": {
+        "addons": 0,
+        "feet": 0,
+        "type": 122,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Boogy": {
+        "addons": 0,
+        "feet": 0,
+        "type": 981,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Swan Maiden": {
+        "addons": 0,
+        "feet": 78,
+        "type": 138,
+        "auxType": 0,
+        "legs": 95,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Hydra": {
+        "legs": 0,
+        "feet": 0,
+        "addons": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 121,
+        "head": 0
+      },
+      "Puerto Del Sol": {
+        "addons": 0,
+        "feet": 114,
+        "type": 128,
+        "auxType": 0,
+        "legs": 114,
+        "body": 114,
+        "mount": 0,
+        "head": 114
+      },
+      "Urmahlullu the Tamed": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1197,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Faun": {
+        "addons": 0,
+        "feet": 0,
+        "type": 980,
+        "auxType": 0,
+        "legs": 95,
+        "body": 115,
+        "mount": 0,
+        "head": 0
+      },
+      "Lava Golem": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 491,
+        "head": 0
+      },
+      "Black Vixen": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1038,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Twisted Pooka": {
+        "addons": 0,
+        "feet": 0,
+        "type": 978,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Tjolol": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 114,
+        "body": 114,
+        "mount": 0,
+        "auxType": 0,
+        "type": 128,
+        "head": 114
+      },
+      "Toxic": {
+        "addons": 0,
+        "feet": 18,
+        "type": 129,
+        "auxType": 0,
+        "legs": 114,
+        "body": 52,
+        "mount": 1363,
+        "head": 12
+      },
+      "Kendo Bo": {
+        "addons": 0,
+        "feet": 115,
+        "mount": 0,
+        "body": 0,
+        "type": 974,
+        "auxType": 0,
+        "legs": 79,
+        "head": 129
+      },
+      "Badger": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "auxType": 0,
+        "type": 105,
+        "head": 0
+      },
+      "Falcon Knight": {
+        "addons": 3,
+        "feet": 105,
+        "type": 1071,
+        "auxType": 0,
+        "legs": 38,
+        "body": 96,
+        "mount": 0,
+        "head": 38
+      },
+      "Bloodback": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1039,
+        "body": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Pooka": {
+        "addons": 0,
+        "feet": 0,
+        "type": 977,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Deathstrike": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 500,
+        "head": 0
+      },
+      "Training Monk": {
+        "addons": 0,
+        "feet": 0,
+        "mount": 0,
+        "auxType": 0,
+        "type": 1078,
+        "body": 0,
+        "legs": 0,
+        "head": 0
+      },
+      "Serpent Spawn": {
+        "legs": 0,
+        "feet": 0,
+        "addons": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 220,
+        "head": 0
+      },
+      "Magma Crawler": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 492,
+        "head": 0
+      },
+      "Liquor Spirit": {
+        "addons": 0,
+        "feet": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 986,
+        "auxType": 0,
+        "legs": 0,
+        "head": 0
+      },
+      "War Wolf": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "auxType": 0,
+        "type": 3,
+        "head": 0
+      },
+      "Urmahlullu the Weakened": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1197,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Wereboar": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 721,
+        "head": 0
+      },
+      "Grand Master Oberon": {
+        "addons": 3,
+        "feet": 105,
+        "type": 1072,
+        "auxType": 0,
+        "legs": 38,
+        "body": 132,
+        "mount": 0,
+        "head": 38
+      },
+      "Shadowpelt": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1040,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Sorcerer Familiar": {
+        "addons": 0,
+        "feet": 0,
+        "mount": 0,
+        "auxType": 0,
+        "type": 1367,
+        "body": 0,
+        "legs": 0,
+        "head": 0
+      },
+      "Mr Diesel": {
+        "addons": 3,
+        "feet": 83,
+        "type": 760,
+        "auxType": 0,
+        "legs": 81,
+        "body": 81,
+        "mount": 0,
+        "head": 82
+      },
+      "Werebear": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 720,
+        "head": 0
+      },
+      "Werebadger": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 729,
+        "head": 0
+      },
+      "Sergio Healer": {
+        "addons": 3,
+        "feet": 114,
+        "type": 970,
+        "auxType": 0,
+        "legs": 114,
+        "body": 114,
+        "mount": 738,
+        "head": 0
+      },
+      "Snake": {
+        "addons": 0,
+        "feet": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 28,
+        "auxType": 0,
+        "legs": 0,
+        "head": 0
+      },
+      "Wildness of Urmahlullu": {
+        "addons": 0,
+        "feet": 0,
+        "type": 570,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Ravenous Hunger": {
+        "addons": 0,
+        "feet": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 556,
+        "auxType": 0,
+        "legs": 0,
+        "head": 0
+      },
+      "Wine Cask": {
+        "addons": 0,
+        "feet": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 128,
+        "auxType": 2521,
+        "legs": 0,
+        "head": 0
+      },
+      "Sharpclaw": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1031,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Fox": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1029,
+        "body": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Versperoth": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 295,
+        "head": 0
+      },
+      "Grand Chaplain Gaunder": {
+        "addons": 3,
+        "feet": 105,
+        "type": 1071,
+        "auxType": 0,
+        "legs": 38,
+        "body": 132,
+        "mount": 0,
+        "head": 38
+      },
+      "Gnomevil": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 504,
+        "head": 0
+      },
+      "Werefox": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 1030,
+        "head": 0
+      },
+      "Medusa": {
+        "legs": 0,
+        "feet": 0,
+        "addons": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 330,
+        "head": 0
+      },
+      "Pixie": {
+        "addons": 0,
+        "feet": 0,
+        "type": 982,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Abyssador": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 495,
+        "head": 0
+      },
+      "Bear": {
+        "addons": 0,
+        "feet": 0,
+        "type": 16,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Pandora": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 1600,
+        "head": 0
+      },
+      "Guginhovd": {
+        "addons": 0,
+        "feet": 0,
+        "legs": 78,
+        "auxType": 0,
+        "mount": 0,
+        "body": 114,
+        "type": 129,
+        "head": 0
+      },
+      "Urmahlullu the Immaculate": {
+        "addons": 0,
+        "feet": 0,
+        "type": 1197,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Many Faces": {
+        "addons": 0,
+        "feet": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 1296,
+        "auxType": 0,
+        "legs": 0,
+        "head": 0
+      },
+      "Falcon Paladin": {
+        "addons": 2,
+        "feet": 105,
+        "type": 1072,
+        "auxType": 0,
+        "legs": 38,
+        "body": 96,
+        "mount": 0,
+        "head": 38
+      },
+      "Dark Faun": {
+        "addons": 0,
+        "feet": 94,
+        "type": 980,
+        "auxType": 0,
+        "legs": 0,
+        "body": 95,
+        "mount": 0,
+        "head": 94
+      },
+      "Behemoth": {
+        "legs": 0,
+        "feet": 0,
+        "addons": 0,
+        "auxType": 0,
+        "mount": 0,
+        "body": 0,
+        "type": 55,
+        "head": 0
+      },
+      "Nymph": {
+        "addons": 0,
+        "feet": 0,
+        "type": 989,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      },
+      "Darkfang": {
+        "addons": 0,
+        "feet": 0,
+        "type": 308,
+        "auxType": 0,
+        "legs": 0,
+        "body": 0,
+        "mount": 0,
+        "head": 0
+      }
+    },
+    "rarityFrames": true
+  },
+  "cavebotSell": [
+    {
+      "id": 23544,
+      "count": 1
+    },
+    {
+      "id": 3081,
+      "count": 1
+    },
+    {
+      "id": 25699,
+      "count": 1
+    }
+  ],
+  "bestHit": 2200,
+  "EquipperPanel": {
+    "bosses": [
+
+    ],
+    "enabled": false,
+    "rules": [
+
+    ]
+  },
+  "_configs": {
+    "cavebot_configs": {
+      "enabled": false,
+      "selected": "[330+] Banuta -6"
+    },
+    "targetbot_configs": {
+      "enabled": false,
+      "selected": "ms_banuta"
+    }
+  },
+  "checkVersion": 1704642298,
+  "autoEquip": [
+    {
+      "item1": 3098,
+      "title": "Auto Equip",
+      "item2": 3100,
+      "on": true,
+      "slot": 9
+    },
+    {
+      "item1": 0,
+      "title": "Auto Equip",
+      "item2": 0,
+      "on": false,
+      "slot": 0
+    }
+  ],
+  "BOTserver": {
+    "manaInfo": true,
+    "mwallInfo": true,
+    "mwalls": [
+
+    ],
+    "outfit": false,
+    "broadcasts": true,
+    "vocation": true
+  },
+  "renameContainers": {
+    "sort": true,
+    "list": [
+      {
+        "items": [
+          {
+            "id": 3081,
+            "count": 1
+          },
+          {
+            "id": 3048,
+            "count": 1
+          }
+        ],
+        "value": "Main Backpack",
+        "item": 9601,
+        "min": false,
+        "enabled": false
+      },
+      {
+        "items": [
+          {
+            "id": 3031,
+            "count": 1
+          },
+          {
+            "id": 3035,
+            "count": 1
+          },
+          {
+            "id": 3043,
+            "count": 1
+          }
+        ],
+        "value": "Money",
+        "item": 2871,
+        "min": true,
+        "enabled": false
+      },
+      {
+        "items": [
+          {
+            "count": 80,
+            "id": 23373
+          }
+        ],
+        "value": "Purse",
+        "item": 23396,
+        "min": true,
+        "enabled": false
+      },
+      {
+        "items": [
+          {
+            "id": 3191,
+            "count": 100
+          },
+          {
+            "id": 3155,
+            "count": 100
+          },
+          {
+            "id": 3161,
+            "count": 53
+          }
+        ],
+        "value": "Runes",
+        "item": 2869,
+        "enabled": true,
+        "min": false,
+        "openNext": false
+      },
+      {
+        "items": [
+          {
+            "count": 80,
+            "id": 23373
+          }
+        ],
+        "value": "Potions",
+        "enabled": true,
+        "min": false,
+        "item": 2865
+      }
+    ],
+    "purse": true,
+    "enabled": true,
+    "height": 170
+  },
+  "pushmax": {
+    "pushMaxRuneId": 3188,
+    "mwallBlockId": 2128,
+    "pushDelay": 1060,
+    "enabled": false,
+    "pushMaxKey": "PageUp"
+  },
+  "_macros": {
+    "": false,
+    "Hold Target": true,
+    "Exchange money": true,
+    "Eat Food": true,
+    "utamo / exana": false,
+    "AntiRS & Msg": true
+  },
+  "alarms": {
+    "privateMsg": [
+
+    ],
+    "customMessage": {
+      "value": ""
+    },
+    "flashClient": [
+
+    ],
+    "lowMana": {
+      "value": 20
+    },
+    "creatureDetected": [
+
+    ],
+    "damageTaken": [
+
+    ],
+    "playerAttack": [
+
+    ],
+    "ignoreFriends": [
+
+    ],
+    "defaultMsg": [
+
+    ],
+    "playerDetected": [
+
+    ],
+    "lowHealth": {
+      "value": 20
+    },
+    "creatureName": {
+      "value": ""
+    }
+  },
+  "moneyItems": [
+    {
+      "id": 3031,
+      "count": 1
+    },
+    {
+      "id": 3035,
+      "count": 1
+    }
+  ],
+  "playerList": {
+    "enemyList": [
+
+    ],
+    "autoAdd": true,
+    "outfits": false,
+    "friendList": [
+
+    ],
+    "groupMembers": true,
+    "highlight": false,
+    "blackList": [
+      "El Negro",
+      "Aba Badr",
+      "Bene"
+    ],
+    "marks": false
+  },
+  "newHealer": {
+    "vocations": [
+
+    ],
+    "priorities": [
+      {
+        "custom": true,
+        "enabled": false,
+        "name": "Custom Spell"
+      },
+      {
+        "strong": true,
+        "enabled": true,
+        "name": "Exura Gran Sio"
+      },
+      {
+        "normal": true,
+        "enabled": true,
+        "name": "Exura Sio"
+      },
+      {
+        "enabled": true,
+        "name": "Exura Gran Mas Res",
+        "area": true
+      },
+      {
+        "health": true,
+        "enabled": true,
+        "name": "Health Item"
+      },
+      {
+        "enabled": true,
+        "name": "Mana Item",
+        "mana": true
+      }
+    ],
+    "enabled": false,
+    "groups": [
+
+    ],
+    "customPlayers": [
+
+    ],
+    "conditions": {
+      "druids": false,
+      "knights": true,
+      "friends": false,
+      "botserver": false,
+      "paladins": true,
+      "sorcerers": false,
+      "party": true,
+      "guild": false
+    },
+    "settings": [
+      {
+        "type": "HealItem",
+        "text": "Mana Item ",
+        "value": 268
+      },
+      {
+        "type": "HealScroll",
+        "text": "Item Range: ",
+        "value": 6
+      },
+      {
+        "type": "HealItem",
+        "text": "Health Item ",
+        "value": 3160
+      },
+      {
+        "type": "HealScroll",
+        "text": "Mas Res Players: ",
+        "value": 2
+      },
+      {
+        "type": "HealScroll",
+        "text": "Heal Friend at: ",
+        "value": 80
+      },
+      {
+        "type": "HealScroll",
+        "text": "Use Gran Sio at: ",
+        "value": 80
+      },
+      {
+        "type": "HealScroll",
+        "text": "Min Player HP%: ",
+        "value": 80
+      },
+      {
+        "type": "HealScroll",
+        "text": "Min Player MP%: ",
+        "value": 50
+      }
+    ]
+  },
+  "autoTradeMessage": "I'm using OTClientV8!",
+  "foodItems": [
+    {
+      "id": 3582,
+      "count": 1
+    },
+    {
+      "id": 3577,
+      "count": 1
+    },
+    {
+      "id": 3725,
+      "count": 95
+    },
+    {
+      "count": 1,
+      "id": 3607
+    },
+    {
+      "count": 1,
+      "id": 3585
+    },
+    {
+      "count": 1,
+      "id": 3592
+    },
+    {
+      "count": 1,
+      "id": 3600
+    },
+    {
+      "count": 1,
+      "id": 3601
+    }
+  ],
+  "caveBotTasker": {
+    "max": 0,
+    "monster": "",
+    "inProgress": false,
+    "count": 0,
+    "taskName": ""
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 1,
+        "id": 14086
+      },
+      {
+        "count": 1,
+        "id": 14078
+      },
+      {
+        "count": 1,
+        "id": 14083
+      },
+      {
+        "count": 1,
+        "id": 14081
+      },
+      {
+        "count": 2,
+        "id": 3030
+      },
+      {
+        "count": 2,
+        "id": 3033
+      },
+      {
+        "count": 1,
+        "id": 3027
+      },
+      {
+        "count": 1,
+        "id": 14080
+      },
+      {
+        "count": 1,
+        "id": 14077
+      },
+      {
+        "count": 1,
+        "id": 282
+      },
+      {
+        "count": 1,
+        "id": 14082
+      },
+      {
+        "count": 1,
+        "id": 14087
+      },
+      {
+        "count": 1,
+        "id": 3098
+      },
+      {
+        "count": 1,
+        "id": 14249
+      },
+      {
+        "count": 1,
+        "id": 14088
+      },
+      {
+        "count": 1,
+        "id": 14089
+      },
+      {
+        "count": 23,
+        "id": 9058
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 23721
+      },
+      {
+        "count": 1,
+        "id": 23525
+      },
+      {
+        "count": 1,
+        "id": 5801
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 2,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 1,
+      "groupRuneAttackDelay": 5000,
+      "priority": 9,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "lure": false,
+      "keepDistance": false,
+      "attackSpellDelay": 2500,
+      "chase": true,
+      "name": "Hive Overseer",
+      "regex": "^hive overseer$"
+    }
+  ]
+}

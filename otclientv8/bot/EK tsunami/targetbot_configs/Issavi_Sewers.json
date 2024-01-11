@@ -1,0 +1,132 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 2,
+        "id": 3036
+      },
+      {
+        "count": 4,
+        "id": 677
+      },
+      {
+        "count": 5,
+        "id": 22194
+      },
+      {
+        "count": 6,
+        "id": 31331
+      },
+      {
+        "count": 21,
+        "id": 31443
+      },
+      {
+        "count": 9,
+        "id": 16119
+      },
+      {
+        "count": 1,
+        "id": 818
+      },
+      {
+        "count": 1,
+        "id": 817
+      },
+      {
+        "count": 1,
+        "id": 3342
+      },
+      {
+        "count": 1,
+        "id": 7383
+      },
+      {
+        "count": 1,
+        "id": 822
+      },
+      {
+        "count": 1,
+        "id": 828
+      },
+      {
+        "count": 1,
+        "id": 8082
+      },
+      {
+        "count": 1,
+        "id": 816
+      },
+      {
+        "count": 1,
+        "id": 16115
+      },
+      {
+        "count": 1,
+        "id": 10438
+      },
+      {
+        "count": 1,
+        "id": 31323
+      },
+      {
+        "count": 1,
+        "id": 8094
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 5801
+      },
+      {
+        "count": 1,
+        "id": 21411
+      },
+      {
+        "count": 1,
+        "id": 2869
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 1,
+      "groupRuneAttackDelay": 5000,
+      "priority": 5,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "lure": false,
+      "keepDistance": false,
+      "attackSpellDelay": 2500,
+      "chase": true,
+      "name": "Burning Gladiator, Priestess of the Wild Sun, Black Sphinx Acolyte",
+      "regex": "^burning gladiator$|^priestess of the wild sun$|^black sphinx acolyte$"
+    }
+  ]
+}

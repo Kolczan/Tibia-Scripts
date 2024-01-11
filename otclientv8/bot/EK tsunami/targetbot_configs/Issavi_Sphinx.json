@@ -1,0 +1,144 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 8,
+        "id": 3041
+      },
+      {
+        "count": 8,
+        "id": 3038
+      },
+      {
+        "count": 2,
+        "id": 3039
+      },
+      {
+        "count": 1,
+        "id": 16120
+      },
+      {
+        "count": 2,
+        "id": 16127
+      },
+      {
+        "count": 1,
+        "id": 16119
+      },
+      {
+        "count": 9,
+        "id": 16125
+      },
+      {
+        "count": 12,
+        "id": 3033
+      },
+      {
+        "count": 2,
+        "id": 3026
+      },
+      {
+        "count": 3,
+        "id": 9058
+      },
+      {
+        "count": 6,
+        "id": 31438
+      },
+      {
+        "count": 9,
+        "id": 31441
+      },
+      {
+        "count": 21,
+        "id": 31442
+      },
+      {
+        "count": 5,
+        "id": 31437
+      },
+      {
+        "count": 1,
+        "id": 830
+      },
+      {
+        "count": 1,
+        "id": 827
+      },
+      {
+        "count": 1,
+        "id": 817
+      },
+      {
+        "count": 1,
+        "id": 821
+      },
+      {
+        "count": 1,
+        "id": 814
+      },
+      {
+        "count": 1,
+        "id": 828
+      },
+      {
+        "count": 1,
+        "id": 8092
+      },
+      {
+        "count": 1,
+        "id": 16096
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 5801
+      },
+      {
+        "count": 1,
+        "id": 23721
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 2,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 1,
+      "groupRuneAttackDelay": 5000,
+      "priority": 6,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "lure": false,
+      "keepDistance": false,
+      "attackSpellDelay": 2500,
+      "chase": true,
+      "name": "Crypt Warden, Lamassu, Sphinx, *",
+      "regex": "^crypt warden$|^lamassu$|^sphinx$|^.*$"
+    }
+  ]
+}

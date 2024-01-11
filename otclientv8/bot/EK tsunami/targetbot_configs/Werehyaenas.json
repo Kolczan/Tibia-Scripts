@@ -1,0 +1,120 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 13,
+        "id": 3039
+      },
+      {
+        "count": 25,
+        "id": 3037
+      },
+      {
+        "count": 27,
+        "id": 33943
+      },
+      {
+        "count": 3,
+        "id": 33944
+      },
+      {
+        "count": 3,
+        "id": 677
+      },
+      {
+        "count": 8,
+        "id": 3033
+      },
+      {
+        "count": 2,
+        "id": 16123
+      },
+      {
+        "count": 5,
+        "id": 16122
+      },
+      {
+        "count": 8,
+        "id": 16127
+      },
+      {
+        "count": 25,
+        "id": 16126
+      },
+      {
+        "count": 1,
+        "id": 8094
+      },
+      {
+        "count": 1,
+        "id": 8092
+      },
+      {
+        "count": 1,
+        "id": 3067
+      },
+      {
+        "count": 1,
+        "id": 34219
+      },
+      {
+        "count": 81,
+        "id": 3035
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 5801
+      },
+      {
+        "count": 1,
+        "id": 21411
+      },
+      {
+        "count": 1,
+        "id": 23721
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 1,
+      "groupRuneAttackDelay": 5000,
+      "priority": 7,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "lure": false,
+      "keepDistance": false,
+      "attackSpellDelay": 2500,
+      "chase": false,
+      "name": "Werehyaena, Werehyaena Shaman",
+      "regex": "^werehyaena$|^werehyaena shaman$"
+    }
+  ]
+}

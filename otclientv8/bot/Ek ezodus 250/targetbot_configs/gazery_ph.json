@@ -1,0 +1,182 @@
+{
+  "looting": {
+    "items": [
+      {
+        "count": 15,
+        "id": 16126
+      },
+      {
+        "count": 4,
+        "id": 3029
+      },
+      {
+        "count": 7,
+        "id": 3028
+      },
+      {
+        "count": 6,
+        "id": 16123
+      },
+      {
+        "count": 37,
+        "id": 3035
+      },
+      {
+        "count": 1,
+        "id": 3071
+      },
+      {
+        "count": 1,
+        "id": 30180
+      },
+      {
+        "count": 1,
+        "id": 830
+      },
+      {
+        "count": 1,
+        "id": 813
+      },
+      {
+        "count": 1,
+        "id": 16096
+      },
+      {
+        "count": 26,
+        "id": 3039
+      },
+      {
+        "count": 1,
+        "id": 826
+      },
+      {
+        "count": 1,
+        "id": 22193
+      }
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 23721
+      },
+      {
+        "count": 1,
+        "id": 23525
+      },
+      {
+        "count": 1,
+        "id": 2869
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "attackSpellDelay": 2500,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": true,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 3,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "chase": true,
+      "priority": 1,
+      "keepDistanceRange": 1,
+      "keepDistance": false,
+      "groupAttackTargets": 2,
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "groupRuneAttackDelay": 5000,
+      "lure": false,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "name": "Gazer Spectre",
+      "regex": "^gazer spectre$"
+    },
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "groupAttackTargets": 2,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 2,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 1,
+      "groupRuneAttackDelay": 5000,
+      "priority": 6,
+      "attackRune": 0,
+      "groupAttackDelay": 5000,
+      "minManaGroup": 1500,
+      "lure": false,
+      "keepDistance": false,
+      "attackSpellDelay": 2500,
+      "chase": true,
+      "name": "Thanatursus",
+      "regex": "^thanatursus$"
+    },
+    {
+      "useSpellAttack": false,
+      "useRuneAttack": false,
+      "minMana": 200,
+      "avoidAttacks": false,
+      "minManaGroup": 1500,
+      "groupAttackSpell": "",
+      "danger": 1,
+      "runeAttackDelay": 2000,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "useGroupAttackRune": false,
+      "groupRuneAttackRadius": 1,
+      "groupAttackIgnorePlayers": false,
+      "maxDistance": 10,
+      "groupAttackIgnoreParty": false,
+      "lureCount": 1,
+      "useGroupAttack": false,
+      "groupRuneAttackTargets": 2,
+      "attackSpell": "",
+      "groupAttackRune": 0,
+      "groupAttackRadius": 1,
+      "keepDistanceRange": 1,
+      "groupAttackDelay": 5000,
+      "attackRune": 0,
+      "chase": true,
+      "priority": 1,
+      "keepDistance": false,
+      "lure": false,
+      "groupAttackTargets": 2,
+      "groupRuneAttackDelay": 5000,
+      "attackSpellDelay": 2500,
+      "name": "*",
+      "regex": "^.*$"
+    }
+  ]
+}

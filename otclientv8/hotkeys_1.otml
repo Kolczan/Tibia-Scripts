@@ -1,0 +1,66 @@
+hotkeys:
+  F4:
+    useType: 1
+    autoSend: false
+    itemId: 237
+  F9:
+    autoSend: true
+    value: utani tempo hur
+  Shift+F9:
+    autoSend: true
+    value: exeta amp res
+  Shift+F1:
+    autoSend: true
+    value: exani hur "up
+  F5:
+    useType: 1
+    autoSend: false
+    itemId: 23375
+  F11:
+    autoSend: true
+    value: exori gran
+  Shift+F3:
+    autoSend: true
+    value: exori gran ico
+  F7:
+    autoSend: true
+    value: exori min
+  Shift+F12:
+    autoSend: true
+    value: exeta res
+  Shift+F2:
+    autoSend: true
+    value: exani hur "down
+  Ctrl+F3:
+    autoSend: true
+    value: exori amp kor
+  F6:
+    autoSend: true
+    value: utito tempo
+  F12:
+    autoSend: true
+    value: exeta amp res
+  F10:
+    autoSend: true
+    value: exori mas
+  Shift+F6:
+    autoSend: true
+    value: utamo tempo
+  F2:
+    autoSend: true
+    value: exeta res
+  Shift+F5:
+    useType: 1
+    autoSend: false
+    itemId: 7643
+  F8:
+    autoSend: true
+    value: utani hur
+  F3:
+    autoSend: true
+    value: exori
+  F1:
+    autoSend: true
+    value: exura med ico
+  Shift+F4:
+    autoSend: false

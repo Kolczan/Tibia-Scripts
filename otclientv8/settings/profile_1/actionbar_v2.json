@@ -1,0 +1,501 @@
+{
+  "1.31": {
+    "hotkey": ""
+  },
+  "2.20": {
+    "type": 2,
+    "spellData": {
+      "mana": 120,
+      "words": "exevo gran flam hur",
+      "source": "/images/game/spells/defaultspells",
+      "id": 163,
+      "cd": 4,
+      "clip": "96 352 32 32",
+      "name": "Great Fire Wave",
+      "group": [
+        1
+      ]
+    }
+  },
+  "3.32": {
+    "type": 2,
+    "spellData": {
+      "mana": 30,
+      "words": "exana pox",
+      "source": "/images/game/spells/defaultspells",
+      "id": 29,
+      "cd": 6,
+      "clip": "288 0 32 32",
+      "name": "Cure Poison",
+      "group": [
+        2
+      ]
+    }
+  },
+  "2.18": {
+    "sayText": "rings",
+    "type": 1,
+    "autoSay": true
+  },
+  "1.33": {
+    "type": 3,
+    "action": 2,
+    "itemId": 3725
+  },
+  "2.26": {
+    "sayText": "gray island",
+    "autoSay": true,
+    "type": 1
+  },
+  "2.9": {
+    "hotkey": ""
+  },
+  "3.24": {
+    "sayText": "yes",
+    "type": 1,
+    "autoSay": true
+  },
+  "2.23": {
+    "hotkey": "",
+    "type": 2,
+    "spellData": {
+      "group": [
+        1
+      ],
+      "mana": 100,
+      "source": "/images/game/spells/defaultspells",
+      "id": 155,
+      "clip": "192 64 32 32",
+      "cd": 30,
+      "name": "Ultimate Energy Strike",
+      "words": "exori max vis"
+    }
+  },
+  "2.22": {
+    "type": 2,
+    "spellData": {
+      "group": [
+        1
+      ],
+      "mana": 100,
+      "source": "/images/game/spells/defaultspells",
+      "id": 154,
+      "clip": "96 64 32 32",
+      "cd": 30,
+      "name": "Ultimate Flame Strike",
+      "words": "exori max flam"
+    }
+  },
+  "2.12": {
+    "hotkey": "",
+    "type": 2,
+    "spellData": {
+      "words": "exori",
+      "mana": 115,
+      "source": "/images/game/spells/defaultspells",
+      "id": 80,
+      "cd": 4,
+      "clip": "256 32 32 32",
+      "name": "Berserk",
+      "group": [
+        1
+      ]
+    }
+  },
+  "1.23": {
+    "sayText": "isle of the kings",
+    "type": 1,
+    "autoSay": true
+  },
+  "3.11": {
+    "type": 2,
+    "hotkey": "",
+    "spellData": {
+      "mana": 290,
+      "words": "utito tempo",
+      "source": "/images/game/spells/defaultspells",
+      "id": 133,
+      "cd": 2,
+      "clip": "352 224 32 32",
+      "name": "Blood Rage",
+      "group": [
+        3
+      ]
+    }
+  },
+  "3.22": {
+    "type": 2,
+    "spellData": {
+      "group": [
+        4,
+        1
+      ],
+      "mana": 60,
+      "source": "/images/game/spells/defaultspells",
+      "id": 150,
+      "clip": "64 64 32 32",
+      "cd": 8,
+      "name": "Strong Flame Strike",
+      "words": "exori gran flam"
+    }
+  },
+  "3.12": {
+    "type": 2,
+    "hotkey": "",
+    "spellData": {
+      "mana": 200,
+      "words": "utamo tempo",
+      "source": "/images/game/spells/defaultspells",
+      "id": 132,
+      "cd": 2,
+      "clip": "32 320 32 32",
+      "name": "Protector",
+      "group": [
+        3,
+        1
+      ]
+    }
+  },
+  "2.5": {
+    "type": 3,
+    "action": 5,
+    "itemId": 3161
+  },
+  "1.27": {
+    "sayText": "ankrahmun",
+    "autoSay": true,
+    "type": 1
+  },
+  "3.21": {
+    "sayText": "exana vita",
+    "type": 1,
+    "autoSay": true
+  },
+  "3.14": {
+    "type": 2,
+    "hotkey": "",
+    "spellData": {
+      "mana": 80,
+      "words": "exeta amp res",
+      "source": "/images/game/spells/defaultspells",
+      "id": 101,
+      "cd": 2,
+      "clip": "320 320 32 32",
+      "name": "Chivalrous Challenge",
+      "group": [
+        3
+      ]
+    }
+  },
+  "3.7": {
+    "type": 3,
+    "action": 3,
+    "itemId": 238
+  },
+  "1.19": {
+    "sayText": "utevo gran res ven",
+    "hotkey": "",
+    "autoSay": true,
+    "type": 1
+  },
+  "3.6": {
+    "type": 3,
+    "action": 3,
+    "itemId": 237
+  },
+  "1.24": {
+    "sayText": "hi",
+    "type": 1,
+    "autoSay": true,
+    "hotkey": ""
+  },
+  "1.25": {
+    "sayText": "svargrond",
+    "autoSay": true,
+    "type": 1
+  },
+  "2.6": {
+    "type": 3,
+    "action": 4,
+    "itemId": 3191
+  },
+  "2.24": {
+    "sayText": "thais",
+    "type": 1,
+    "autoSay": true
+  },
+  "3.25": {
+    "sayText": "port hope",
+    "autoSay": true,
+    "type": 1
+  },
+  "2.14": {
+    "type": 2,
+    "spellData": {
+      "words": "exori mas",
+      "mana": 160,
+      "source": "/images/game/spells/defaultspells",
+      "id": 106,
+      "cd": 8,
+      "clip": "0 64 32 32",
+      "name": "Groundshaker",
+      "group": [
+        1
+      ]
+    }
+  },
+  "1.15": {
+    "type": 2,
+    "hotkey": "",
+    "spellData": {
+      "group": [
+        3
+      ],
+      "mana": 1000,
+      "source": "/images/game/spells/defaultspells",
+      "id": 170,
+      "clip": "224 320 32 32",
+      "cd": 1800,
+      "name": "Summon Knight Familiar",
+      "words": "utevo gran res eq"
+    }
+  },
+  "2.34": {
+    "type": 3,
+    "action": 5,
+    "itemId": 9596
+  },
+  "3.13": {
+    "type": 2,
+    "hotkey": "",
+    "spellData": {
+      "mana": 30,
+      "words": "exeta res",
+      "source": "/images/game/spells/defaultspells",
+      "id": 93,
+      "cd": 2,
+      "clip": "0 256 32 32",
+      "name": "Challenge",
+      "group": [
+        3
+      ]
+    }
+  },
+  "1.26": {
+    "sayText": "darashia",
+    "autoSay": true,
+    "type": 1
+  },
+  "2.17": {
+    "hotkey": "",
+    "sayText": "hi trade",
+    "type": 1,
+    "autoSay": true
+  },
+  "1.34": {
+    "type": 2,
+    "spellData": {
+      "group": [
+        3
+      ],
+      "words": "exani tera",
+      "source": "/images/game/spells/defaultspells",
+      "id": 76,
+      "clip": "256 256 32 32",
+      "cd": 2,
+      "name": "Magic Rope",
+      "mana": 20
+    }
+  },
+  "3.26": {
+    "sayText": "issavi",
+    "type": 1,
+    "autoSay": true
+  },
+  "2.27": {
+    "sayText": "edron",
+    "autoSay": true,
+    "type": 1
+  },
+  "1.20": {
+    "type": 2,
+    "spellData": {
+      "mana": 1100,
+      "words": "exevo gran mas flam",
+      "source": "/images/game/spells/defaultspells",
+      "id": 24,
+      "cd": 40,
+      "clip": "0 128 32 32",
+      "name": "Hells Core",
+      "group": [
+        1
+      ]
+    }
+  },
+  "1.21": {
+    "type": 2,
+    "spellData": {
+      "mana": 600,
+      "words": "exevo gran mas vis",
+      "source": "/images/game/spells/defaultspells",
+      "id": 119,
+      "cd": 40,
+      "clip": "96 128 32 32",
+      "name": "Rage of the Skies",
+      "group": [
+        1
+      ]
+    }
+  },
+  "2.7": {
+    "type": 3,
+    "action": 3,
+    "hotkey": "",
+    "itemId": 7643
+  },
+  "3.20": {
+    "type": 2,
+    "spellData": {
+      "words": "utamo vita",
+      "mana": 50,
+      "source": "/images/game/spells/defaultspells",
+      "id": 44,
+      "cd": 2,
+      "clip": "96 320 32 32",
+      "name": "Magic Shield",
+      "group": [
+        3
+      ]
+    }
+  },
+  "2.21": {
+    "type": 2,
+    "spellData": {
+      "group": [
+        1
+      ],
+      "mana": 170,
+      "source": "/images/game/spells/defaultspells",
+      "id": 13,
+      "clip": "192 96 32 32",
+      "cd": 8,
+      "name": "Energy Wave",
+      "words": "exevo vis hur"
+    }
+  },
+  "1.7": {
+    "type": 3,
+    "action": 5,
+    "itemId": 3180
+  },
+  "1.11": {
+    "sayText": "exori amp kor",
+    "type": 1,
+    "autoSay": true,
+    "hotkey": ""
+  },
+  "1.13": {
+    "type": 2,
+    "spellData": {
+      "group": [
+        1
+      ],
+      "words": "exori ico",
+      "source": "/images/game/spells/defaultspells",
+      "id": 61,
+      "clip": "320 32 32 32",
+      "cd": 6,
+      "name": "Brutal Strike",
+      "mana": 30
+    }
+  },
+  "2.13": {
+    "type": 2,
+    "spellData": {
+      "words": "exori min",
+      "mana": 200,
+      "source": "/images/game/spells/defaultspells",
+      "id": 59,
+      "cd": 6,
+      "clip": "224 32 32 32",
+      "name": "Front Sweep",
+      "group": [
+        1
+      ]
+    }
+  },
+  "2.11": {
+    "hotkey": "",
+    "type": 2,
+    "spellData": {
+      "mana": 340,
+      "words": "exori gran",
+      "source": "/images/game/spells/defaultspells",
+      "id": 105,
+      "cd": 6,
+      "clip": "288 32 32 32",
+      "name": "Fierce Berserk",
+      "group": [
+        1
+      ]
+    }
+  },
+  "1.12": {
+    "type": 2,
+    "hotkey": "",
+    "spellData": {
+      "mana": 300,
+      "words": "exori gran ico",
+      "source": "/images/game/spells/defaultspells",
+      "id": 62,
+      "cd": 30,
+      "clip": "352 32 32 32",
+      "name": "Annihilation",
+      "group": [
+        1
+      ]
+    }
+  },
+  "1.30": {
+    "hotkey": ""
+  },
+  "2.10": {
+    "hotkey": ""
+  },
+  "3.23": {
+    "type": 2,
+    "spellData": {
+      "group": [
+        4,
+        1
+      ],
+      "mana": 60,
+      "source": "/images/game/spells/defaultspells",
+      "id": 151,
+      "clip": "160 64 32 32",
+      "cd": 8,
+      "name": "Strong Energy Strike",
+      "words": "exori gran vis"
+    }
+  },
+  "2.25": {
+    "sayText": "venore",
+    "type": 1,
+    "autoSay": true
+  },
+  "1.14": {
+    "type": 2,
+    "spellData": {
+      "group": [
+        1
+      ],
+      "words": "exori hur",
+      "source": "/images/game/spells/defaultspells",
+      "id": 107,
+      "clip": "192 32 32 32",
+      "cd": 6,
+      "name": "Whirlwind Throw",
+      "mana": 40
+    }
+  }
+}

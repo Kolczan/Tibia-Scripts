@@ -13,30 +13,48 @@ VipList:
 BattleList:
   hidingFilters: true
 autoReconnect: true
+actionBar2: true
+actionBar1: true
+hotkeys:
+  Ariea_1100: 2
+  Kolczan_1100: 1
+  Tsunami_1100: 1
+  Anna_1100: 2
 bot:
   Lorq_1100:
     enabled: true
     config: EK tsunami
   Kolczan_1100:
     enabled: true
-    config: EK tsunami
+    config: Ek ezodus 250
   Tsunami_1100:
-    config: MS
+    config: EK tsunami
     enabled: true
   Imbier_1100:
     config: EK tsunami
     enabled: true
-  Pozar'w Serwerowni_1100:
-    config: EK tsunami
+  Ariea_1100:
     enabled: true
-hotkeys:
-  Tsunami_1100: 2
-  Kolczan_1100: 1
+    config: MS
+  Anna_1100:
+    config: MS new
+    enabled: true
+  Pozar'w Serwerowni_1100:
+    config: EK PozarSword
+    enabled: true
 locale: en
 enableAudio: true
 floorFading: 500
-backgroundFrameRate: 47
-displayMana: true
+actionbarLock: false
+antialiasing: true
+actionbar8: false
+backgroundFrameRate: 50
+displayMana: false
+actionbar9: false
+profile: 1
+showPrivateMessagesInConsole: true
+showHealthManaCircle: true
+actionbar4: true
 enableMusicSound: false
 hidePlayerBars: true
 showLevelsInConsole: true
@@ -44,15 +62,18 @@ ambientLight: 100
 crosshair: 2
 showEventMessagesInConsole: true
 botSoundVolume: 100
+fullscreen: false
+vsync: true
 showStatusMessagesInConsole: true
-actionBar2: true
+actionbar2: true
+actionbar6: false
 dash: false
-walkFirstStepDelay: 200
+walkFirstStepDelay: 150
 walkTurnDelay: 100
 showPrivateMessagesOnScreen: true
-actionBar1: true
+cacheMap: true
 showFps: true
-displayHealthOnTop: false
+displayHealthOnTop: true
 showPing: true
 walkCtrlTurnDelay: 150
 highlightThingsUnderCursor: true
@@ -63,19 +84,19 @@ displayText: true
 walkStairsDelay: 50
 wsadWalking: false
 leftPanels: 2
-showHealthManaCircle: true
-walkTeleportDelay: 200
+actionbar1: true
+walkTeleportDelay: 150
 classicControl: true
-displayHealth: true
+displayHealth: false
 smartWalk: false
 autoChaseOverride: true
 classicView: true
 showInfoMessagesInConsole: true
-fullscreen: false
+actionbar5: false
 showTimestampsInConsole: true
-cacheMap: true
+topBar: true
 layout: retro
-vsync: true
+actionbar3: true
 optimizationLevel: 1
 rightPanels: 2
 topHealtManaBar: true
@@ -83,117 +104,117 @@ enableLights: false
 containerPanel: 6
 displayNames: true
 musicSoundVolume: 100
-showPrivateMessagesInConsole: true
+actionbar7: true
 extras_limitedPolling: true
-host: gunZodus.net
+host: login.gunzodus.net
 server: Another
-client-version: 1100
+client-version: 1000
 things:
-  data: 1100/Tibia.dat
-  sprites: 1100/Tibia.spr
+  data: 1000/Tibia.dat
+  sprites: 1000/Tibia.spr
 account: kJEf3i2hLuksoSjo
 password: mZIc0G7nebhs9A==
-last-used-character: Tsunami
+last-used-character: Ariea
 last-used-world: Gunzodus
 MiniWindows:
   widget13704:
     closed: false
     parentId: leftPanel1
     index: 3
-  widget26493:
-    parentId: widget256
-    index: 13
-  widget3338:
-    index: 9
-    parentId: widget256
+  widget168918:
+    parentId: widget281
+    index: 29
+  widget169820:
+    closed: false
+    index: 4
+    parentId: leftPanel1
   widget3315:
     parentId: widget256
     index: 9
-  widget1876002:
-    closed: false
-    parentId: leftPanel1
-    index: 5
-  widget3621:
-    index: 10
+  widget4438:
+    index: 11
+    parentId: widget281
+  widget3731:
     parentId: widget256
-  widget3511:
-    closed: true
-    parentId: leftPanel1
-    index: 3
-  widget3563:
-    index: 8
-    parentId: widget256
+    index: 11
+  widget6055:
+    index: 17
+    parentId: widget281
+  widget165647:
+    index: 24
+    parentId: widget281
   widget3555:
     parentId: widget256
     index: 9
-  widget1869478:
-    parentId: widget256
-    index: 20
+  widget503823:
+    index: 3
+    closed: true
+    height: 59.5
+    parentId: leftPanel1
   widget32771:
     parentId: widget256
     index: 37
+  widget175091:
+    parentId: widget281
+    index: 18
   widget286616:
     parentId: widget256
     index: 24
   widget3543:
     index: 10
     parentId: widget256
-  widget795462:
-    index: 28
-    parentId: widget256
-  widget5325:
+  widget153763:
+    parentId: widget281
     index: 14
+  widget562733:
+    index: 30
+    parentId: widget281
+  widget507076:
     parentId: widget256
-  widget8985:
-    parentId: widget256
-    index: 19
-  widget189309:
-    index: 32
-    parentId: widget256
-  widget71397:
-    parentId: widget256
-    index: 17
+    index: 18
   widget3538:
     index: 9
     parentId: widget256
+  widget491594:
+    index: 20
+    parentId: widget281
   widget3155:
     closed: true
     parentId: leftPanel1
     index: 3
-  widget48675:
-    parentId: widget256
-    index: 17
+  widget4978:
+    parentId: widget281
+    index: 9
+  widget4662:
+    index: 14
+    parentId: widget281
   widget52478:
     parentId: widget256
     index: 14
-  widget36562:
-    index: 16
-    parentId: widget256
   widget3665:
     parentId: widget256
     index: 13
-  widget560173:
-    index: 12
+  widget341309:
+    index: 16
+    parentId: widget281
+  widget231412:
+    index: 25
+    parentId: widget281
+  widget68233:
     parentId: widget256
-  widget98303:
-    index: 22
-    parentId: widget256
-  widget6215:
-    index: 15
-    parentId: widget256
-  widget202822:
-    parentId: widget256
-    index: 12
-  widget3551:
-    parentId: widget256
+    index: 21
+  widget118042:
+    parentId: widget281
+    index: 18
+  widget5035:
+    parentId: widget281
+    index: 19
+  widget830866:
+    index: 19
+    parentId: widget281
+  widget4638:
+    parentId: widget281
     index: 11
-  widget4935:
-    parentId: widget256
-    index: 13
-  widget4891:
-    closed: false
-    parentId: leftPanel1
-    index: 2
   widget560129:
     closed: false
     index: 2
@@ -201,71 +222,57 @@ MiniWindows:
   widget379191:
     index: 33
     parentId: widget256
-  widget3686:
-    index: 9
-    parentId: widget256
-  widget3278:
-    parentId: widget256
-    index: 10
+  widget4987:
+    index: 13
+    parentId: widget281
   widget5161:
     index: 15
     parentId: widget256
-  widget263532:
-    index: 20
-    parentId: widget256
-  widget169864:
-    index: 14
-    parentId: widget256
-  widget45578:
-    parentId: widget256
+  widget53468:
     index: 13
-  widget8909:
-    index: 18
     parentId: widget256
-  widget3445:
+  widget327672:
+    index: 47
+    parentId: widget281
+  widget4578:
     index: 10
+    parentId: widget281
+  widget168563:
+    index: 26
     parentId: widget256
-  widget3258:
-    index: 11
+  widget169896:
     parentId: widget256
-  widget3494:
-    closed: false
-    index: 10
+    index: 15
+  widget559259:
+    index: 26
+    parentId: widget281
+  widget3596:
     parentId: widget256
-  widget71269:
-    index: 23
-    parentId: widget256
+    index: 9
   widget171411:
     index: 23
     parentId: widget256
   widget508312:
     index: 13
     parentId: widget256
-  widget68201:
+  widget9094:
+    index: 14
     parentId: widget256
-    index: 19
   widget3482:
     parentId: widget256
     index: 9
-  widget9980:
-    closed: true
-    parentId: leftPanel1
-    index: 2
-  widget196912:
-    index: 13
-    parentId: widget256
   widget1987597:
     index: 38
     parentId: widget256
-  widget3690:
-    index: 11
-    parentId: widget256
-  widget48648:
-    parentId: widget256
-    index: 16
-  widget29131:
-    index: 18
-    parentId: widget256
+  widget203066:
+    parentId: widget281
+    index: 26
+  widget11401:
+    parentId: widget281
+    index: 15
+  widget910937:
+    index: 23
+    parentId: widget281
   widget8695:
     index: 14
     parentId: widget256
@@ -275,187 +282,233 @@ MiniWindows:
   widget541436:
     index: 21
     parentId: widget256
-  widget791191:
-    index: 20
-    parentId: widget256
-  widget196971:
+  widget93789:
+    parentId: widget281
     index: 16
-    parentId: widget256
+  widget231884:
+    parentId: widget281
+    index: 16
+  widget26398:
+    index: 14
+    parentId: widget281
+  widget25253:
+    parentId: widget281
+    index: 15
+  widget204979:
+    parentId: widget281
+    index: 28
   widget541463:
     parentId: widget256
     index: 22
-  minimapWindow:
-    index: 1
+  widget3441:
+    index: 12
     parentId: widget256
   widget1840513:
     parentId: widget256
     index: 11
-  widget161419:
-    index: 18
+  widget3490:
+    index: 11
     parentId: widget256
-  widget3558:
+  widget4715:
+    parentId: widget281
     index: 10
-    parentId: widget256
+  widget4873:
+    index: 2
+    closed: false
+    height: 220
+    parentId: leftPanel1
   widget342318:
     index: 18
     parentId: widget256
+  widget411238:
+    index: 36
+    parentId: widget281
   widget512502:
     parentId: widget256
     index: 22
-  widget5878:
-    parentId: widget256
-    index: 14
-  widget19611:
-    parentId: widget256
-    index: 12
-  widget3094:
-    index: 9
-    parentId: widget256
-  widget696479:
-    parentId: widget256
-    index: 23
-  widget3086:
-    index: 9
-    parentId: widget256
+  widget526763:
+    parentId: widget281
+    index: 15
+  widget213161:
+    index: 31
+    parentId: widget281
   widget83318:
     index: 18
     parentId: widget256
-  widget560205:
-    parentId: widget256
-    index: 13
-  widget83242:
-    index: 16
-    parentId: widget256
+  widget90388:
+    closed: false
+    parentId: leftPanel1
+    index: 3
+  widget457420:
+    closed: false
+    parentId: leftPanel1
+    index: 5
+  widget11111:
+    closed: true
+    parentId: leftPanel1
+    index: 3
   widget1986275:
     index: 32
     parentId: widget256
-  widget3432:
-    parentId: widget256
-    index: 11
-  widget36518:
-    closed: true
-    index: 4
-    parentId: leftPanel1
-  widget4853:
+  widget8095:
     index: 15
-    parentId: widget256
+    parentId: widget281
+  widget4613:
+    parentId: widget281
+    index: 9
   widget4821:
-    index: 14
-    parentId: widget256
-  vipWindow:
+    index: 11
+    parentId: widget281
+  widget14374:
     closed: true
-    parentId: widget256
-    index: 6
-  widget5858:
-    closed: false
+    index: 3
     parentId: leftPanel1
+  widget118010:
+    index: 17
+    parentId: widget281
+  widget33814:
+    index: 18
+    parentId: widget281
+  widget99834:
+    parentId: widget281
+    index: 15
+  widget4421:
     index: 2
+    closed: true
+    height: 161
+    parentId: leftPanel1
   widget29575:
     parentId: widget256
     index: 18
+  widget4589:
+    closed: true
+    parentId: widget281
+    index: 9
+  widget341265:
+    index: 3
+    closed: false
+    height: 192
+    parentId: leftPanel1
   widget3212:
     index: 10
     parentId: widget256
+  widget4917:
+    index: 9
+    parentId: widget281
+  widget158400:
+    index: 22
+    parentId: widget281
   widget3526:
     index: 11
     parentId: widget256
   widget34018:
     parentId: widget256
     index: 39
-  widget13807:
-    index: 18
-    parentId: widget256
-  widget3698:
-    index: 10
-    parentId: widget256
+  widget626575:
+    parentId: widget281
+    index: 45
+  widget135441:
+    index: 17
+    parentId: widget281
   widget23216:
     parentId: widget256
     index: 32
   widget399345:
     parentId: widget256
     index: 17
-  widget3204:
-    parentId: widget256
-    index: 11
+  widget98359:
+    index: 13
+    parentId: widget281
+  widget51867:
+    index: 23
+    parentId: widget281
+  widget80231:
+    parentId: widget281
+    index: 17
   container14:
-    height: 109
-  widget1174594:
-    parentId: widget256
-    index: 30
-  widget3714:
-    parentId: widget256
+    height: 75
+  widget4733:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget4555:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget4433:
     index: 12
+    parentId: widget281
   widget2252735:
     parentId: widget256
     index: 27
-  widget694173:
-    parentId: widget256
-    index: 17
+  widget6157:
+    closed: true
+    parentId: leftPanel1
+    index: 1
   widget29175:
     parentId: widget256
     index: 17
-  widget3256:
-    parentId: widget256
+  widget153736:
+    parentId: widget281
+    index: 13
+  widget4533:
     index: 9
-  widget36517:
-    index: 15
-    parentId: widget256
-  widget3499:
-    index: 9
+    parentId: widget281
+  widget76853:
+    index: 16
     parentId: widget256
   widget1864943:
     parentId: widget256
     index: 14
-  widget499356:
-    parentId: widget256
-    index: 23
   widget3252:
     parentId: widget256
     closed: false
     height: 143
     index: 9
-  widget3624:
+  widget6158:
+    parentId: widget281
     index: 10
-    closed: false
-    height: 141
-    parentId: widget256
   widget3514:
     index: 11
     parentId: widget256
-  container0:
-    height: 55
-  widget507017:
-    parentId: widget256
-    index: 16
+  widget203039:
+    parentId: widget281
+    index: 25
+  widget93793:
+    index: 19
+    parentId: widget281
+  widget171652:
+    index: 20
+    parentId: widget281
+  widget497210:
+    parentId: widget281
+    index: 12
   widget3722:
     index: 19
     parentId: widget256
-  widget286557:
-    parentId: widget256
-    index: 22
-  widget45637:
-    parentId: widget256
-    index: 17
-  widget499297:
-    index: 20
-    parentId: widget256
-  skillWindow:
-    index: 1
+  widget4941:
+    parentId: widget281
+    index: 13
+  widget133861:
+    parentId: widget281
+    index: 23
+  widget216747:
+    parentId: leftPanel1
     closed: true
-    height: 148
-    parentId: rightPanel2
-  widget3130:
-    parentId: widget256
+    height: 208
+    index: 4
+  widget4973:
+    index: 18
+    parentId: widget281
+  widget4665:
+    parentId: widget281
     index: 10
-  widget1678745:
-    index: 20
-    parentId: widget256
   widget14518:
     index: 30
     parentId: widget256
-  widget8663:
-    index: 13
-    parentId: widget256
+  widget1193360:
+    index: 30
+    parentId: widget281
   widget5058:
     index: 2
     closed: false
@@ -464,331 +517,446 @@ MiniWindows:
   widget120912:
     index: 19
     parentId: widget256
-  widget71456:
+  widget3589:
+    index: 11
     parentId: widget256
-    index: 20
   widget694141:
     index: 16
     parentId: widget256
-  widget3106:
+  widget331800:
+    index: 53
+    parentId: widget281
+  widget17870:
+    closed: true
+    index: 3
+    parentId: leftPanel1
+  widget602141:
+    parentId: widget256
+    index: 23
+  widget5010:
+    parentId: widget281
+    index: 11
+  widget243928:
+    index: 34
+    parentId: widget281
+  widget4601:
     index: 9
-    parentId: widget256
-  widget3199:
-    parentId: widget256
-    index: 9
-  widget98244:
-    index: 18
-    parentId: widget256
-  widget6822:
-    parentId: widget256
-    index: 13
-  widget315389:
-    index: 26
-    parentId: widget256
-  widget3510:
-    parentId: widget256
-    index: 9
+    parentId: widget281
+  widget203271:
+    index: 30
+    parentId: widget281
+  widget327775:
+    index: 49
+    parentId: widget281
   widget3400:
     index: 10
     parentId: widget256
-  widget315421:
+  widget4617:
+    parentId: widget281
+    index: 11
+  widget11657:
     parentId: widget256
-    index: 27
-  widget132766:
-    index: 12
+    index: 24
+  widget3554:
     parentId: widget256
-  widget53527:
-    index: 15
+    index: 10
+  widget334925:
+    parentId: widget281
+    index: 34
+  widget3189:
     parentId: widget256
+    index: 13
   container4:
-    height: 55
-  inventoryWindow:
-    index: 3
-    parentId: widget256
+    index: 15
+    parentId: widget281
+  widget4573:
+    parentId: widget281
+    index: 9
+  widget4541:
+    index: 9
+    parentId: widget281
   widget59702:
     index: 13
     parentId: widget256
   widget3542:
     index: 12
     parentId: widget256
-  widget3672:
-    parentId: widget256
-    index: 9
-  widget379164:
-    parentId: widget256
-    index: 32
-  widget507049:
+  widget175064:
+    parentId: widget281
     index: 17
-    parentId: widget256
-  widget3162:
-    parentId: widget256
-    index: 11
+  widget4557:
+    index: 2
+    closed: false
+    height: 64.5
+    parentId: leftPanel1
+  widget20344:
+    parentId: widget281
+    index: 13
+  widget135544:
+    index: 22
+    parentId: widget281
+  widget236782:
+    parentId: widget281
+    index: 25
+  widget5006:
+    parentId: widget281
+    index: 12
+  widget124208:
+    index: 20
+    parentId: widget281
+  widget7137:
+    parentId: widget281
+    index: 14
+  widget63199:
+    index: 16
+    parentId: widget281
+  widget309259:
+    closed: false
+    parentId: leftPanel1
+    index: 3
   widget3154:
     index: 9
     parentId: widget256
-  widget1986378:
+  widget3652:
     parentId: widget256
-    index: 35
-  widget3146:
-    parentId: widget256
-    index: 10
-  widget6042:
-    parentId: widget256
-    index: 17
+    index: 12
+  widget28728:
+    index: 4
+    closed: true
+    height: 82.5
+    parentId: leftPanel1
   widget115546:
     parentId: widget256
     index: 44
-  widget3310:
-    parentId: widget256
-    index: 11
-  widget9012:
-    index: 20
-    parentId: widget256
-  widget617380:
-    index: 26
-    parentId: widget256
-  widget36621:
-    parentId: widget256
+  widget143556:
+    parentId: widget281
     index: 18
+  widget313680:
+    parentId: widget281
+    index: 36
+  widget56140:
+    parentId: leftPanel1
+    closed: true
+    height: 175
+    index: 2
+  widget559215:
+    parentId: widget281
+    index: 25
+  widget4949:
+    parentId: widget281
+    index: 10
+  widget555587:
+    index: 22
+    parentId: widget281
   widget6242:
     index: 16
     parentId: widget256
-  widget696523:
-    index: 22
-    parentId: widget256
+  widget4329:
+    parentId: widget281
+    index: 9
   widget3170:
     index: 11
     parentId: widget256
-  widget19508:
-    closed: true
-    index: 11
-    parentId: widget256
+  widget250803:
+    index: 25
+    parentId: widget281
+  widget4624:
+    closed: false
+    parentId: leftPanel1
+    index: 2
   widget3138:
     parentId: widget256
     index: 10
-  widget98276:
-    index: 20
+  widget9126:
     parentId: widget256
-  widget3718:
-    parentId: widget256
-    index: 10
-  widget68157:
-    index: 20
-    parentId: widget256
+    index: 15
+  widget28653:
+    parentId: widget281
+    index: 15
   widget59734:
     index: 15
     parentId: widget256
-  widget286513:
-    index: 21
-    parentId: widget256
+  widget4657:
+    index: 11
+    parentId: widget281
+  widget243825:
+    parentId: widget281
+    index: 31
   widget5944:
     parentId: widget256
     index: 14
-  container8:
-    height: 55
-    closed: true
-  widget3370:
-    index: 10
+  widget1811744:
     parentId: widget256
+    index: 29
   widget315345:
     parentId: widget256
     index: 25
+  widget337588:
+    closed: false
+    index: 5
+    parentId: leftPanel1
+  widget65210:
+    index: 18
+    parentId: widget281
   widget1678642:
     parentId: leftPanel1
     closed: true
     height: 133
     index: 4
-  widget11155:
-    parentId: widget256
-    index: 13
-  widget36490:
-    parentId: widget256
-    index: 14
-  widget3628:
-    parentId: widget256
-    index: 12
-  widget617277:
+  widget231353:
     index: 23
-    parentId: widget256
-  widget6010:
-    parentId: widget256
-    index: 16
-  widget13780:
-    parentId: widget256
-    index: 17
-  widget3709:
-    parentId: widget256
-    index: 10
-  widget48572:
-    closed: true
-    parentId: leftPanel1
-    index: 2
-  widget1987494:
-    parentId: leftPanel1
-    closed: false
-    height: 145
-    index: 5
-  widget3493:
-    parentId: widget256
+    parentId: widget281
+  widget5062:
+    index: 20
+    parentId: widget281
+  widget4609:
     index: 9
-  widget3269:
-    parentId: widget256
-    index: 10
+    parentId: widget281
+  widget12141:
+    parentId: widget281
+    index: 14
+  widget77784:
+    index: 13
+    parentId: widget281
+  widget4464:
+    parentId: widget281
+    index: 12
+  widget224060:
+    parentId: widget281
+    index: 33
+  widget87805:
+    index: 12
+    parentId: widget281
+  widget151278:
+    parentId: widget281
+    index: 25
+  widget797188:
+    index: 40
+    parentId: widget281
+  widget105770:
+    parentId: widget281
+    index: 23
+  widget1439607:
+    index: 36
+    parentId: widget281
+  widget178780:
+    parentId: widget281
+    index: 31
+  widget3729:
+    index: 12
+    parentId: widget281
   widget3509:
     parentId: widget256
     index: 12
-  widget3595:
-    index: 10
-    parentId: widget256
-  widget3587:
-    parentId: widget256
-    index: 10
-  widget1810518:
-    index: 26
-    parentId: widget256
-  widget1840469:
-    closed: true
+  widget10791:
     parentId: leftPanel1
+    closed: false
+    height: 168
     index: 2
-  widget10437:
-    index: 17
+  widget115514:
+    index: 43
     parentId: widget256
+  widget163436:
+    index: 27
+    parentId: widget281
+  widget4361:
+    index: 9
+    parentId: widget281
+  widget93980:
+    parentId: widget281
+    index: 24
   widget399372:
     index: 18
     parentId: widget256
+  widget8478:
+    parentId: widget281
+    index: 16
+  widget4914:
+    parentId: widget281
+    index: 11
+  widget254774:
+    parentId: widget281
+    index: 39
+  widget207275:
+    index: 4
+    closed: true
+    height: 152
+    parentId: leftPanel1
   widget3608:
     parentId: widget256
     index: 12
-  widget168607:
-    parentId: widget256
-    index: 27
-  widget34094:
-    parentId: widget256
-    index: 41
-  widget10481:
-    parentId: widget256
-    index: 18
+  widget256664:
+    index: 43
+    parentId: widget281
+  widget4664:
+    index: 11
+    parentId: widget281
+  widget331741:
+    parentId: widget281
+    index: 50
   widget11214:
     index: 15
     parentId: widget256
-  buttons:
-    index: 4
-    height: 48
-    parentId: widget256
+  widget4436:
+    index: 10
+    parentId: widget281
+  widget457523:
+    index: 26
+    parentId: widget281
   widget3337:
     index: 12
     parentId: widget256
-  widget3395:
-    index: 12
-    parentId: widget256
-  widget10417:
-    index: 18
-    parentId: widget256
-  widget3591:
-    parentId: widget256
-    index: 10
-  widget9008:
-    index: 13
-    parentId: widget256
-  widget6854:
-    parentId: widget256
-    index: 17
-  widget791267:
-    parentId: widget256
-    index: 21
-  widget19552:
-    index: 9
-    parentId: widget256
-  widget3668:
-    index: 9
-    parentId: widget256
-  widget68260:
-    index: 22
-    parentId: widget256
-  widget9040:
+  widget284388:
+    parentId: leftPanel1
+    closed: true
+    height: 220
+    index: 7
+  widget342215:
+    closed: false
+    index: 3
+    parentId: leftPanel1
+  widget17593:
     index: 14
     parentId: widget256
+  widget209513:
+    index: 15
+    parentId: widget281
+  widget3549:
+    index: 10
+    parentId: widget256
+  widget207319:
+    parentId: widget281
+    index: 27
+  widget4988:
+    parentId: widget281
+    index: 11
+  widget161522:
+    parentId: widget256
+    index: 20
+  widget477337:
+    parentId: widget281
+    index: 19
+  widget4732:
+    parentId: widget281
+    index: 10
+  widget565687:
+    parentId: widget281
+    index: 19
+  widget4432:
+    parentId: widget281
+    index: 12
   widget268780:
     index: 19
     parentId: widget256
-  widget3758:
-    index: 12
+  widget506973:
+    index: 15
     parentId: widget256
   widget3648:
     parentId: widget256
     index: 11
-  widget11410:
-    index: 24
-    parentId: widget256
+  widget250758:
+    parentId: widget281
+    index: 37
+  widget780823:
+    index: 32
+    parentId: widget281
+  widget331753:
+    index: 27
+    parentId: widget281
+  widget4688:
+    closed: false
+    parentId: leftPanel1
+    index: 2
   widget3423:
     closed: true
     parentId: leftPanel1
     index: 2
-  widget3231:
-    index: 12
-    parentId: widget256
-  widget3391:
-    parentId: widget256
-    index: 11
-  widget6233:
-    parentId: widget256
-    index: 13
+  widget10867:
+    parentId: widget281
+    index: 14
+  widget4954:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget4820:
+    parentId: widget281
+    index: 10
+  widget133834:
+    index: 22
+    parentId: widget281
+  widget13092:
+    parentId: widget281
+    index: 23
   widget6116:
     index: 14
     parentId: widget256
-  widget1678686:
+  widget61413:
+    parentId: widget281
+    index: 15
+  widget26552:
+    index: 17
     parentId: widget256
-    index: 18
-  widget5409:
-    index: 16
-    parentId: widget256
-  widget268807:
-    index: 20
-    parentId: widget256
-  widget3749:
-    parentId: widget256
-    index: 20
   widget51514:
     parentId: widget256
     index: 18
-  widget3525:
-    parentId: widget256
+  widget4972:
+    parentId: widget281
     index: 11
+  widget165706:
+    index: 26
+    parentId: widget281
   widget791294:
     index: 22
     parentId: widget256
   widget3449:
     index: 10
     parentId: widget256
-  widget11366:
+  widget321784:
+    parentId: widget281
+    index: 18
+  widget26425:
+    index: 15
+    parentId: widget281
+  widget185896:
     parentId: widget256
-    index: 23
-  widget51470:
-    parentId: widget256
-    index: 17
+    index: 32
+  widget305853:
+    parentId: leftPanel1
+    closed: true
+    height: 189
+    index: 5
+  widget14317:
+    index: 18
+    parentId: widget281
   widget3988:
     index: 11
     parentId: widget256
   widget23275:
     parentId: widget256
     index: 34
-  widget3635:
+  widget7436:
+    index: 2
+    closed: false
+    height: 216
+    parentId: leftPanel1
+  widget94083:
+    index: 27
+    parentId: widget281
+  widget213220:
+    index: 33
+    parentId: widget281
+  widget80280:
     index: 13
-    parentId: widget256
-  widget2252708:
-    index: 26
-    parentId: widget256
-  widget3517:
-    parentId: widget256
-    index: 12
-  widget3598:
+    parentId: widget281
+  widget998372:
+    parentId: widget281
+    index: 28
+  widget358120:
+    index: 21
+    parentId: widget281
+  widget4382:
+    parentId: widget281
     index: 9
-    parentId: widget256
-  container1:
-    height: 55
-  widget6201:
-    parentId: widget256
-    index: 12
   widget511671:
     parentId: widget256
     index: 17
@@ -796,17 +964,21 @@ MiniWindows:
     closed: false
     parentId: leftPanel1
     index: 2
-  widget4700:
-    parentId: leftPanel1
-    closed: false
-    height: 176
-    index: 2
-  widget3513:
+  widget3623:
     parentId: widget256
-    index: 9
+    index: 11
+  widget14845:
+    index: 19
+    parentId: widget281
+  widget139082:
+    index: 27
+    parentId: widget281
   widget171470:
     index: 26
     parentId: widget256
+  widget4693:
+    parentId: widget281
+    index: 11
   widget315448:
     parentId: widget256
     index: 28
@@ -816,51 +988,61 @@ MiniWindows:
   widget3588:
     index: 10
     parentId: widget256
-  widget11554:
+  widget4995:
+    index: 10
+    parentId: widget281
+  widget18231:
     index: 21
-    parentId: widget256
+    parentId: widget281
+  widget435269:
+    parentId: leftPanel1
+    closed: false
+    height: 209
+    index: 4
   widget71301:
     parentId: widget256
     index: 24
-  widget3725:
-    parentId: widget256
-    index: 11
-  widget3505:
-    index: 2
-    closed: false
-    height: 158.5
-    parentId: leftPanel1
-  widget3475:
-    closed: false
-    parentId: widget256
-    index: 9
+  widget253768:
+    parentId: widget281
+    index: 13
+  widget106876:
+    index: 28
+    parentId: widget281
+  widget13714:
+    index: 12
+    parentId: widget281
   widget10341:
     closed: false
     index: 2
     parentId: leftPanel1
-  widget1174567:
-    index: 29
-    parentId: widget256
-  widget10513:
-    index: 19
-    parentId: widget256
-  widget5951:
-    parentId: widget256
-    index: 14
-  widget71353:
+  widget8964:
+    closed: true
+    index: 2
     parentId: leftPanel1
-    closed: false
-    height: 174
-    index: 3
-  widget7136:
+  widget73388:
+    parentId: widget281
+    index: 13
+  widget83286:
     parentId: widget256
+    index: 17
+  widget133758:
+    index: 20
+    parentId: widget281
+  widget4940:
+    index: 9
+    parentId: widget281
+  widget12116:
+    parentId: widget281
     index: 15
-  widget6175:
-    index: 16
-    parentId: widget256
-  widget3615:
-    parentId: widget256
-    index: 11
+  widget47644:
+    parentId: widget281
+    index: 20
+  widget998340:
+    index: 27
+    parentId: widget281
+  widget105846:
+    index: 24
+    parentId: widget281
   widget3345:
     parentId: widget256
     index: 11
@@ -868,98 +1050,175 @@ MiniWindows:
     index: 9
     parentId: widget256
   container5:
-    height: 55
-  widget7104:
+    index: 2
+    parentId: rightPanel2
+  widget99731:
+    closed: true
+    index: 2
+    parentId: leftPanel1
+  widget10894:
+    index: 15
+    parentId: widget281
+  widget395868:
+    index: 35
+    parentId: widget281
+  widget4460:
+    parentId: widget281
     index: 13
-    parentId: widget256
-  widget1865046:
-    parentId: widget256
-    index: 17
-  widget3553:
+  widget4360:
+    closed: true
+    parentId: leftPanel1
+    index: 1
+  widget4595:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget5996:
+    index: 15
+    parentId: widget281
+  widget4672:
+    index: 15
+    parentId: widget281
+  widget6903:
+    index: 2
+    closed: false
+    height: 209
+    parentId: leftPanel1
+  widget3328:
     parentId: widget256
     index: 11
-  widget3173:
-    parentId: widget256
-    index: 11
+  widget7776:
+    parentId: widget281
+    index: 13
   widget4656:
-    parentId: widget256
+    parentId: widget281
+    index: 13
+  widget228884:
+    parentId: widget281
+    index: 35
+  widget9607:
+    parentId: widget281
+    index: 16
+  widget105814:
+    index: 22
+    parentId: widget281
+  widget331709:
+    index: 5
+    closed: false
+    height: 85.5
+    parentId: leftPanel1
+  widget7164:
     index: 15
-  widget83345:
+    parentId: widget281
+  widget4540:
+    parentId: widget281
+    index: 9
+  widget3165:
+    index: 11
     parentId: widget256
-    index: 20
-  widget189233:
-    parentId: widget256
-    index: 30
-  widget120885:
-    parentId: widget256
-    index: 18
-  widget399269:
-    parentId: widget256
-    index: 15
   widget3611:
     parentId: widget256
     index: 10
-  widget5907:
-    index: 13
-    parentId: widget256
-  widget6139:
-    index: 2
-    closed: false
-    position: 108 536
+  widget132852:
+    index: 16
+    parentId: widget281
+  widget61445:
+    index: 16
+    parentId: widget281
+  botWindow:
+    index: 1
+    closed: true
+    height: 506.5
     parentId: leftPanel1
-  widget3655:
-    index: 9
-    parentId: widget256
+  widget6409:
+    parentId: widget281
+    index: 17
   widget14545:
     parentId: widget256
     index: 31
-  widget1678718:
+  widget8193:
+    index: 15
+    parentId: widget281
+  widget194902:
+    index: 15
+    parentId: widget281
+  widget1193333:
+    parentId: widget281
+    index: 29
+  widget3692:
     parentId: widget256
-    index: 19
-  widget4408:
     index: 14
-    parentId: widget256
-  widget4968:
-    closed: false
-    index: 2
-    parentId: leftPanel1
-  widget7060:
-    parentId: widget256
-    index: 14
-  widget51546:
-    index: 19
-    parentId: widget256
-  widget59761:
-    parentId: widget256
-    index: 16
-  container9:
-    height: 55
-  widget3455:
-    index: 3
-    closed: true
-    height: 208
-    parentId: leftPanel1
+  widget172304:
+    parentId: widget281
+    index: 33
+  widget159126:
+    index: 12
+    parentId: widget281
+  widget331739:
+    index: 17
+    parentId: widget281
+  widget178056:
+    parentId: widget281
+    index: 31
+  widget108684:
+    index: 18
+    parentId: widget281
   widget5775:
     parentId: widget256
     index: 17
-  widget185793:
+  widget122653:
+    index: 16
+    parentId: widget281
+  widget34121:
+    index: 42
     parentId: widget256
-    index: 29
-  widget161495:
+  widget15073:
+    index: 9
+    parentId: widget281
+  widget3745:
+    index: 11
     parentId: widget256
-    index: 19
-  widget3786:
-    index: 12
-    parentId: widget256
-  widget9153:
-    parentId: widget256
+  widget231385:
+    parentId: widget281
+    index: 24
+  widget175391:
+    parentId: widget281
+    index: 37
+  widget4948:
+    index: 11
+    parentId: widget281
+  widget10586:
     index: 17
+    parentId: widget281
+  widget39421:
+    index: 12
+    parentId: widget281
+  widget567251:
+    parentId: widget281
+    index: 38
+  widget124025:
+    index: 15
+    parentId: widget281
   widget3651:
     index: 11
     parentId: widget256
-  widget128872:
+  widget4497:
+    parentId: widget281
+    index: 11
+  widget4581:
+    index: 9
+    parentId: widget281
+  widget90432:
+    parentId: widget281
+    index: 12
+  widget165873:
     index: 26
-    parentId: widget256
+    parentId: widget281
+  widget16896:
+    parentId: leftPanel1
+    closed: true
+    height: 208
+    index: 2
   widget1986351:
     index: 34
     parentId: widget256
@@ -969,332 +1228,384 @@ MiniWindows:
   widget189277:
     index: 31
     parentId: widget256
-  widget3586:
-    parentId: widget256
-    index: 12
-  widget4435:
-    parentId: widget256
-    index: 15
-  widget17490:
-    closed: false
-    index: 3
+  widget79867:
+    index: 16
+    parentId: widget281
+  widget4608:
+    closed: true
     parentId: leftPanel1
+    index: 2
   widget52581:
     index: 17
     parentId: widget256
-  widget3296:
-    parentId: widget256
-    index: 10
-  widget4803:
-    parentId: widget256
-    index: 15
-  widget9067:
-    parentId: widget256
-    index: 15
-  widget11187:
-    index: 14
-    parentId: widget256
-  widget3741:
-    index: 11
-    parentId: widget256
+  widget5017:
+    parentId: widget281
+    index: 13
   widget1986319:
     parentId: widget256
     index: 33
-  widget23248:
-    index: 33
-    parentId: widget256
-  widget56216:
-    parentId: widget256
-    index: 12
+  widget207351:
+    parentId: widget281
+    index: 28
   widget17534:
     index: 12
     parentId: widget256
-  widget3568:
-    parentId: widget256
-    index: 12
-  widget168639:
-    index: 28
-    parentId: widget256
-  widget3234:
+  widget1202015:
+    index: 4
     closed: false
+    height: 99
     parentId: leftPanel1
-    index: 2
-  widget10024:
-    parentId: widget256
-    index: 13
+  widget352302:
+    parentId: widget281
+    index: 67
+  widget149382:
+    parentId: leftPanel1
+    closed: true
+    height: 209
+    index: 5
+  widget206949:
+    index: 20
+    parentId: widget281
   widget171443:
     parentId: widget256
     index: 24
-  widget14761:
-    closed: false
-    parentId: leftPanel1
+  widget619700:
+    parentId: widget281
+    index: 39
+  widget171755:
+    index: 22
+    parentId: widget281
+  widget44873:
+    closed: true
     index: 3
-  widget3590:
-    index: 11
-    parentId: widget256
-  widget29234:
-    index: 20
-    parentId: widget256
-  widget3548:
-    closed: false
-    index: 2
     parentId: leftPanel1
-  widget3382:
+  widget4015:
     parentId: widget256
-    index: 10
+    index: 12
+  widget795494:
+    index: 32
+    parentId: widget256
+  widget158324:
+    parentId: widget281
+    index: 21
+  widget200594:
+    parentId: widget281
+    index: 23
+  widget19396:
+    parentId: widget281
+    index: 16
   widget26449:
     index: 12
     parentId: widget256
-  widget499329:
-    index: 22
-    parentId: widget256
-  widget5868:
-    closed: true
-    index: 2
+  widget108882:
+    closed: false
     parentId: leftPanel1
+    index: 6
+  widget5057:
+    parentId: widget281
+    index: 11
+  widget4911:
+    parentId: widget281
+    index: 11
+  widget380002:
+    index: 29
+    parentId: widget281
   widget617321:
     parentId: widget256
     index: 24
-  widget23172:
-    closed: true
-    parentId: leftPanel1
-    index: 3
+  widget435313:
+    parentId: widget281
+    index: 15
+  widget3465:
+    index: 9
+    parentId: widget256
+  widget4738:
+    parentId: widget281
+    index: 13
+  widget15117:
+    parentId: widget281
+    index: 10
   widget3368:
     parentId: widget256
     index: 11
   widget263429:
     index: 17
     parentId: widget256
-  widget466050:
-    parentId: widget256
-    index: 13
+  widget200653:
+    index: 26
+    parentId: widget281
   widget3659:
     index: 9
     parentId: widget256
-  widget3532:
+  widget306102:
+    parentId: widget281
+    index: 17
+  widget562765:
+    index: 31
+    parentId: widget281
+  widget3613:
     parentId: widget256
-    index: 9
+    index: 13
+  widget24504:
+    index: 16
+    parentId: widget281
   widget5384:
     index: 16
     parentId: widget256
   widget19584:
     parentId: widget256
     index: 10
-  widget508388:
+  widget313653:
+    parentId: widget281
+    index: 35
+  widget5028:
+    index: 11
+    parentId: widget281
+  widget499297:
+    index: 20
     parentId: widget256
-    index: 14
-  widget1840545:
-    index: 12
+  widget11563:
+    index: 15
+    parentId: widget281
+  widget4577:
+    parentId: widget281
+    index: 11
+  widget5760:
+    index: 13
     parentId: widget256
+  widget1810545:
+    parentId: widget256
+    index: 27
   widget202881:
     index: 14
     parentId: widget256
-  healthInfoWindow:
-    index: 2
-    height: 38
-    parentId: widget256
-  widget5910:
-    parentId: widget256
-    index: 15
-  widget3716:
-    index: 8
-    parentId: widget256
-  widget10056:
-    index: 14
-    parentId: widget256
-  widget379132:
-    parentId: widget256
-    index: 31
-  widget56184:
-    parentId: widget256
+  widget4645:
     index: 11
-  widget602217:
-    index: 25
+    parentId: widget281
+  widget65420:
+    parentId: widget281
+    index: 17
+  widget4711:
+    index: 12
+    parentId: widget281
+  widget4587:
+    index: 2
+    closed: true
+    height: 208
+    parentId: leftPanel1
+  widget5961:
     parentId: widget256
-  widget5071:
+    index: 10
+  widget306058:
     index: 16
-    parentId: widget256
-  widget169896:
-    parentId: widget256
+    parentId: widget281
+  widget4996:
+    index: 9
+    parentId: widget281
+  widget7852:
+    parentId: widget281
     index: 15
-  widget1876105:
-    index: 23
+  widget3355:
+    index: 12
     parentId: widget256
-  widget1810442:
-    parentId: widget256
-    index: 25
-  widget5436:
-    index: 18
-    parentId: widget256
-  widget32798:
-    index: 38
-    parentId: widget256
+  widget294195:
+    parentId: widget281
+    index: 19
+  widget331842:
+    index: 20
+    parentId: widget281
+  widget4565:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget313621:
+    parentId: widget281
+    index: 34
+  widget910905:
+    parentId: widget281
+    index: 22
+  widget196363:
+    parentId: widget281
+    index: 20
+  widget11357:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  container7:
+    index: 4
+    parentId: rightPanel2
+  container0:
+    index: 6
+    parentId: rightPanel2
   widget132825:
     index: 14
     parentId: widget256
-  widget189336:
-    index: 34
+  widget221451:
+    index: 15
+    parentId: widget281
+  widget450668:
+    parentId: widget281
+    index: 15
+  widget175467:
+    index: 38
+    parentId: widget281
+  widget1678745:
+    index: 20
     parentId: widget256
-  widget45610:
-    index: 16
+  widget51573:
+    index: 20
     parentId: widget256
-  widget3613:
-    parentId: widget256
-    index: 13
-  widget2252676:
-    index: 25
-    parentId: widget256
-  widget507076:
-    parentId: widget256
-    index: 18
   widget3414:
     index: 9
     parentId: widget256
   widget754557:
     parentId: widget256
     index: 28
-  widget68233:
-    parentId: widget256
-    index: 21
-  widget3406:
-    index: 9
-    parentId: widget256
-  widget3552:
-    closed: false
-    parentId: widget256
-    index: 12
+  widget5030:
+    index: 10
+    parentId: widget281
+  widget334957:
+    parentId: widget281
+    index: 36
+  widget108581:
+    index: 15
+    parentId: widget281
   widget274255:
     parentId: widget256
     index: 14
-  widget1865019:
-    index: 16
-    parentId: widget256
-  widget379088:
-    parentId: widget256
-    index: 30
-  widget6778:
+  widget4606:
+    index: 10
+    parentId: widget281
+  widget149485:
+    index: 24
+    parentId: widget281
+  widget4903:
+    parentId: widget281
+    index: 10
+  widget4675:
+    parentId: widget281
     index: 14
-    parentId: widget256
-  widget3622:
-    index: 3
-    closed: true
-    height: 86
-    parentId: leftPanel1
   widget3512:
     index: 8
     parentId: widget256
-  widget128769:
-    closed: false
-    parentId: leftPanel1
-    index: 3
-  widget3580:
-    parentId: widget256
-    index: 12
-  widget5934:
-    index: 9
-    parentId: widget256
-  widget29607:
-    index: 25
-    parentId: widget256
-  widget5961:
-    parentId: widget256
-    index: 10
-  container2:
-    height: 55
-  widget754589:
-    index: 29
-    parentId: widget256
-  widget5824:
-    index: 16
-    parentId: widget256
-  widget3128:
-    index: 9
-    parentId: widget256
-  widget3318:
-    parentId: widget256
-    index: 10
-  widget3956:
-    index: 9
-    parentId: widget256
-  widget4967:
-    parentId: widget256
-    index: 14
-  widget31435:
-    index: 21
-    parentId: widget256
-  widget3441:
-    index: 12
-    parentId: widget256
-  widget13748:
-    parentId: widget256
-    index: 16
-  widget5834:
-    index: 13
-    parentId: widget256
-  widget3242:
+  widget4807:
     closed: false
     parentId: leftPanel1
     index: 2
-  widget6148:
-    parentId: widget256
+  widget10068:
     index: 15
-  widget3504:
+    parentId: widget281
+  widget153660:
+    closed: false
+    parentId: leftPanel1
+    index: 3
+  widget29607:
+    index: 25
     parentId: widget256
+  widget17118:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget221419:
+    parentId: widget281
     index: 13
+  widget754589:
+    index: 29
+    parentId: widget256
+  widget486988:
+    index: 41
+    parentId: widget281
+  widget163463:
+    parentId: widget281
+    index: 28
+  widget786786:
+    parentId: widget281
+    index: 34
+  widget163360:
+    parentId: widget281
+    index: 25
+  widget4967:
+    parentId: widget256
+    index: 14
+  widget168977:
+    parentId: widget281
+    index: 31
+  widget14418:
+    index: 12
+    parentId: widget281
+  widget153460:
+    parentId: widget281
+    index: 18
+  widget503926:
+    parentId: widget281
+    index: 18
+  widget1869375:
+    closed: true
+    parentId: leftPanel1
+    index: 4
+  widget177953:
+    index: 28
+    parentId: widget281
+  widget204301:
+    parentId: widget281
+    index: 28
   widget5902:
     parentId: widget256
     index: 8
   widget169923:
     index: 16
     parentId: widget256
-  widget791235:
-    parentId: widget256
-    index: 19
-  widget263473:
-    parentId: widget256
-    index: 16
-  widget268704:
-    index: 17
-    parentId: widget256
-  widget76853:
-    index: 16
-    parentId: widget256
-  widget3114:
-    index: 9
-    parentId: widget256
-  widget3198:
-    parentId: widget256
+  widget3576:
     index: 10
-  widget3630:
-    index: 13
     parentId: widget256
-  widget8953:
-    parentId: widget256
+  widget121064:
+    index: 20
+    parentId: widget281
+  widget123922:
+    parentId: widget281
+    index: 12
+  widget202963:
+    parentId: widget281
+    index: 23
+  widget4611:
+    index: 10
+    parentId: widget281
+  widget14805:
     index: 17
+    parentId: widget256
+  widget3625:
+    parentId: widget256
+    index: 11
+  widget132722:
+    index: 2
+    closed: false
+    height: 192
+    parentId: leftPanel1
   widget1811803:
     parentId: widget256
     index: 31
-  widget5912:
+  widget7710:
+    parentId: widget281
+    index: 15
+  widget4575:
+    parentId: widget281
+    index: 9
+  widget36518:
+    closed: true
+    index: 4
+    parentId: leftPanel1
+  widget8351:
     index: 13
-    parentId: widget256
-  widget3616:
+    parentId: widget281
+  widget36414:
     index: 12
     parentId: widget256
-  widget128845:
-    parentId: widget256
-    index: 25
-  widget3614:
-    index: 11
-    parentId: widget256
-  widget754616:
-    parentId: widget256
-    index: 30
-  widget3556:
-    parentId: widget256
-    index: 9
-  widget3589:
-    index: 11
-    parentId: widget256
+  widget10835:
+    index: 13
+    parentId: widget281
+  widget64090:
+    parentId: widget281
+    index: 15
   widget5804:
     parentId: widget256
     index: 14
@@ -1303,246 +1614,247 @@ MiniWindows:
     closed: false
     height: 175
     index: 8
-  widget13213:
-    parentId: widget256
-    index: 26
-  widget274211:
+  widget4503:
     closed: false
     parentId: leftPanel1
-    index: 3
-  widget13245:
-    index: 27
-    parentId: widget256
-  widget754513:
-    closed: false
     index: 2
+  widget4551:
+    index: 2
+    closed: true
+    height: 178.5
     parentId: leftPanel1
-  widget466006:
-    index: 14
-    parentId: widget256
-  widget120809:
-    parentId: widget256
-    index: 16
-  widget3515:
+  widget178029:
+    index: 30
+    parentId: widget281
+  widget3525:
     parentId: widget256
     index: 11
-  cooldownWindow:
-    closed: true
-    parentId: widget256
-    index: 5
-  widget132722:
-    index: 2
+  widget3552:
     closed: false
-    height: 192
-    parentId: leftPanel1
-  widget602141:
-    parentId: widget256
-    index: 23
-  widget3652:
     parentId: widget256
     index: 12
-  widget120853:
+  widget4994:
+    index: 15
+    parentId: widget256
+  widget17162:
+    parentId: widget281
+    index: 15
+  widget5055:
+    parentId: widget281
+    index: 12
+  widget6454:
+    parentId: widget281
     index: 17
-    parentId: widget256
-  widget1987570:
-    parentId: widget256
-    index: 37
-  widget36414:
-    index: 12
-    parentId: widget256
-  widget6260:
-    parentId: widget256
-    index: 14
-  widget8619:
-    closed: true
-    index: 2
-    parentId: leftPanel1
-  widget5012:
-    parentId: widget256
-    index: 13
-  widget263505:
-    parentId: widget256
-    index: 18
-  widget11657:
-    parentId: widget256
-    index: 24
-  widget696555:
-    index: 24
-    parentId: widget256
-  widget795521:
-    index: 34
-    parentId: widget256
-  widget127492:
-    parentId: widget256
-    index: 23
-  widget4624:
-    index: 13
-    parentId: widget256
-  widget3438:
+  widget82469:
+    parentId: widget281
+    index: 22
+  widget4745:
+    parentId: widget281
     index: 10
+  widget342673:
+    index: 59
+    parentId: widget281
+  widget3094:
+    index: 9
     parentId: widget256
+  widget4653:
+    parentId: widget281
+    index: 12
+  widget4567:
+    parentId: widget281
+    index: 14
+  widget4524:
+    parentId: widget281
+    index: 12
+  widget175494:
+    parentId: widget281
+    index: 39
+  widget327748:
+    parentId: widget281
+    index: 48
+  widget61369:
+    index: 14
+    parentId: widget281
+  widget4962:
+    parentId: widget281
+    index: 11
+  widget8375:
+    parentId: widget281
+    index: 14
+  widget16940:
+    index: 12
+    parentId: widget281
+  widget341341:
+    index: 18
+    parentId: widget281
+  widget250744:
+    parentId: widget281
+    index: 23
   widget10444:
     parentId: widget256
     index: 20
-  container6:
-    height: 177
-  widget3372:
-    parentId: widget256
-    index: 12
-  widget3666:
+  widget4549:
+    parentId: widget281
     index: 8
-    parentId: widget256
-  widget1987538:
-    index: 36
-    parentId: widget256
-  widget3697:
-    parentId: widget256
-    index: 11
-  widget9126:
-    parentId: widget256
+  widget250776:
+    parentId: widget281
+    index: 24
+  widget450744:
+    parentId: widget281
+    index: 17
+  widget4362:
+    index: 9
+    parentId: widget281
+  widget73447:
     index: 15
-  widget5748:
-    parentId: widget256
-    index: 15
-  widget98200:
-    parentId: widget256
+    parentId: widget281
+  widget63302:
     index: 19
+    parentId: widget281
+  widget795521:
+    index: 34
+    parentId: widget256
+  widget7651:
+    index: 13
+    parentId: widget281
   widget3439:
     parentId: widget256
     index: 9
-  widget10540:
+  widget3592:
+    index: 9
     parentId: widget256
-    index: 20
   widget511774:
     parentId: widget256
     index: 21
-  widget76794:
+  widget4584:
+    parentId: widget281
+    index: 10
+  widget367303:
+    parentId: widget281
+    index: 26
+  widget4618:
+    index: 10
+    parentId: widget281
+  widget4959:
+    parentId: widget281
     index: 13
-    parentId: widget256
-  widget56140:
-    parentId: leftPanel1
-    closed: true
-    height: 175
-    index: 2
-  widget499253:
-    parentId: widget256
-    index: 21
-  widget1811700:
-    index: 28
-    parentId: widget256
-  widget71328:
-    index: 25
-    parentId: widget256
+  widget4704:
+    index: 10
+    parentId: widget281
   widget3646:
     parentId: widget256
     index: 12
-  widget3570:
-    index: 12
-    parentId: widget256
-  widget5134:
-    parentId: widget256
-    index: 14
-  widget3172:
-    parentId: widget256
+  widget279195:
+    parentId: widget281
+    index: 28
+  widget4537:
+    parentId: widget281
+    index: 9
+  widget4946:
     index: 10
+    parentId: widget281
   widget196868:
     parentId: widget256
     index: 12
-  widget1864987:
-    index: 15
-    parentId: widget256
+  widget13291:
+    parentId: widget281
+    index: 19
   widget3062:
     closed: false
     index: 2
     parentId: leftPanel1
-  widget5716:
-    index: 14
+  widget26366:
+    parentId: widget281
+    index: 12
+  widget3541:
+    index: 12
     parentId: widget256
-  widget3642:
-    index: 2
-    closed: false
-    height: 178.5
-    parentId: leftPanel1
-  widget1876078:
-    parentId: widget256
-    index: 22
-  widget3602:
-    parentId: widget256
-    index: 13
-  widget5760:
-    index: 13
-    parentId: widget256
-  widget3700:
-    index: 10
-    parentId: widget256
-  container10:
-    height: 55
-  widget36594:
-    index: 17
-    parentId: widget256
-  widget617353:
-    parentId: widget256
-    index: 25
-  widget52522:
-    index: 13
-    parentId: widget256
-  widget541360:
-    parentId: widget256
+  widget93717:
+    closed: true
+    index: 18
+    parentId: widget281
+  widget9012:
     index: 20
-  widget3292:
-    index: 10
     parentId: widget256
-  widget10385:
-    index: 17
+  widget331783:
+    parentId: widget281
+    index: 16
+  widget4634:
+    parentId: widget281
+    index: 11
+  widget20268:
+    closed: true
+    index: 3
+    parentId: leftPanel1
+  widget331815:
+    parentId: widget281
+    index: 18
+  widget13065:
+    index: 14
+    parentId: widget281
+  widget73344:
+    closed: false
+    parentId: leftPanel1
+    index: 3
+  widget76750:
     parentId: widget256
+    index: 14
+  widget13409:
+    parentId: widget281
+    index: 14
+  widget5102:
+    parentId: widget256
+    index: 13
   widget466109:
     index: 17
     parentId: widget256
-  widget6157:
-    closed: true
-    parentId: leftPanel1
-    index: 1
-  widget3401:
-    parentId: widget256
-    index: 9
-  widget4776:
-    index: 14
-    parentId: widget256
-  widget3294:
+  widget3494:
     closed: false
-    index: 7
-    parentId: rightPanel2
-  widget6881:
-    index: 18
+    index: 10
     parentId: widget256
-  widget3547:
-    closed: false
+  widget44949:
+    index: 13
+    parentId: widget281
+  widget549065:
+    index: 25
+    parentId: widget281
+  widget346782:
     parentId: leftPanel1
-    index: 2
-  widget52554:
-    index: 15
-    parentId: widget256
+    closed: false
+    height: 64.5
+    index: 3
+  widget4619:
+    parentId: widget281
+    index: 10
+  widget4597:
+    parentId: widget281
+    index: 10
+  widget28804:
+    parentId: widget281
+    index: 20
   widget5672:
     parentId: widget256
     index: 13
-  widget171367:
-    parentId: widget256
+  widget605190:
+    parentId: widget281
     index: 22
-  widget1810545:
+  widget53424:
     parentId: widget256
-    index: 27
-  widget3230:
-    parentId: widget256
-    index: 11
-  widget541404:
-    index: 19
-    parentId: widget256
-  widget161522:
-    parentId: widget256
-    index: 20
-  widget127389:
-    index: 20
-    parentId: widget256
+    index: 12
+  widget201141:
+    parentId: widget281
+    index: 18
+  widget4586:
+    index: 9
+    parentId: widget281
+  widget172260:
+    index: 32
+    parentId: widget281
+  battleWindow:
+    index: 6
+    closed: false
+    height: 237.5
+    parentId: widget281
   widget3070:
     closed: true
     index: 2
@@ -1553,580 +1865,3846 @@ MiniWindows:
   widget5983:
     index: 13
     parentId: widget256
-  widget3687:
-    index: 11
+  widget256723:
+    index: 45
+    parentId: widget281
+  widget77816:
+    parentId: widget281
+    index: 15
+  widget1876046:
     parentId: widget256
-  widget3748:
+    index: 21
+  widget526795:
+    parentId: widget281
+    index: 16
+  widget172336:
+    index: 34
+    parentId: widget281
+  widget19879:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget300319:
+    index: 24
+    parentId: widget281
+  widget499329:
+    index: 22
+    parentId: widget256
+  widget171728:
+    parentId: widget281
+    index: 21
+  widget4406:
+    parentId: widget281
     index: 10
-    parentId: widget256
-  widget34062:
-    index: 40
-    parentId: widget256
+  widget121020:
+    closed: true
+    index: 3
+    parentId: leftPanel1
+  widget371915:
+    index: 16
+    parentId: widget281
   widget512475:
     index: 21
     parentId: widget256
-  widget17593:
-    index: 14
-    parentId: widget256
-  widget168563:
-    index: 26
-    parentId: widget256
-  widget5333:
-    parentId: widget256
-    index: 13
-  widget59658:
-    parentId: widget256
-    index: 14
-  widget3683:
-    parentId: widget256
-    index: 10
-  widget53468:
-    index: 13
-    parentId: widget256
-  widget3581:
-    parentId: widget256
-    index: 11
-  botWindow:
-    parentId: leftPanel1
-    index: 1
-  widget32739:
-    index: 36
-    parentId: widget256
-  widget3336:
-    parentId: widget256
-    index: 9
+  widget371883:
+    parentId: widget281
+    index: 15
   widget3519:
     parentId: widget256
     index: 10
-  widget76750:
-    parentId: widget256
-    index: 14
-  widget3596:
-    parentId: widget256
-    index: 9
-  widget506973:
+  widget4897:
+    index: 12
+    parentId: widget281
+  widget4594:
     index: 15
-    parentId: widget256
-  widget3731:
-    parentId: widget256
-    index: 11
-  widget3450:
-    parentId: widget256
-    index: 10
-  widget3657:
+    parentId: widget281
+  widget104408:
     index: 14
+    parentId: widget281
+  widget7136:
     parentId: widget256
+    index: 15
+  widget4610:
+    index: 11
+    parentId: widget281
+  widget352334:
+    parentId: widget281
+    index: 69
   widget14442:
     parentId: leftPanel1
     closed: true
     height: 195
     index: 1
-  widget3549:
+  widget124176:
+    index: 19
+    parentId: widget281
+  widget3595:
     index: 10
     parentId: widget256
-  widget5836:
-    index: 15
-    parentId: widget256
-  widget4880:
-    parentId: widget256
-    index: 16
-  widget11630:
-    index: 23
-    parentId: widget256
-  widget795494:
-    index: 32
-    parentId: widget256
+  widget4900:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget7512:
+    parentId: widget281
+    index: 19
+  widget165900:
+    parentId: widget281
+    index: 27
   widget3593:
     parentId: widget256
     index: 9
-  widget3483:
+  widget4976:
+    parentId: widget281
     index: 10
-    parentId: widget256
-  widget508415:
-    index: 15
-    parentId: widget256
-  widget3359:
-    index: 10
-    parentId: widget256
-  widget1869375:
-    closed: true
-    parentId: leftPanel1
-    index: 4
-  widget26552:
-    index: 17
-    parentId: widget256
-  widget14837:
-    parentId: widget256
-    index: 18
-  widget342291:
-    index: 17
-    parentId: widget256
-  widget5797:
-    parentId: widget256
-    index: 15
-  widget3356:
-    parentId: widget256
-    index: 9
-  widget3691:
-    index: 11
-    parentId: widget256
-  widget185869:
-    index: 31
-    parentId: widget256
-  widget4580:
-    closed: false
-    index: 2
-    parentId: leftPanel1
-  widget268748:
-    index: 18
-    parentId: widget256
-  widget4777:
-    closed: false
-    index: 2
-    parentId: leftPanel1
-  widget45534:
-    index: 14
-    parentId: widget256
-  widget3197:
-    parentId: widget256
-    index: 12
-  widget286589:
-    index: 23
-    parentId: widget256
-  widget5939:
-    parentId: widget256
-    index: 12
-  widget3545:
-    closed: true
-    index: 3
-    parentId: leftPanel1
-  widget127433:
-    parentId: widget256
-    index: 21
-  widget5377:
-    index: 14
-    parentId: widget256
-  widget3692:
-    parentId: widget256
-    index: 14
-  widget2252632:
-    index: 24
-    parentId: widget256
-  widget3467:
-    parentId: widget256
-    index: 9
-  widget3557:
-    index: 10
-    parentId: widget256
-  widget8964:
-    closed: true
-    index: 2
-    parentId: leftPanel1
-  widget29634:
-    index: 27
-    parentId: widget256
-  widget3397:
-    parentId: widget256
-    index: 11
-  widget1869451:
-    parentId: widget256
-    index: 19
-  widget3288:
-    parentId: widget256
-    index: 11
-  widget696582:
-    parentId: widget256
-    index: 27
-  widget5044:
-    parentId: widget256
-    index: 15
-  widget602244:
-    parentId: widget256
-    index: 26
-  widget127465:
-    index: 22
-    parentId: widget256
-  widget9050:
-    parentId: widget256
-    index: 13
-  widget1810486:
-    index: 24
-    parentId: widget256
-  widget511715:
-    index: 16
-    parentId: widget256
-  widget11598:
-    parentId: widget256
-    index: 22
-  widget3328:
-    parentId: widget256
-    index: 11
-  widget115573:
-    index: 45
-    parentId: widget256
-  widget13169:
-    index: 25
-    parentId: widget256
-  widget31391:
-    parentId: widget256
-    index: 22
-  widget185837:
-    parentId: widget256
-    index: 30
-  widget512399:
-    parentId: widget256
-    index: 20
-  widget83286:
-    parentId: widget256
-    index: 17
-  widget5357:
-    parentId: widget256
-    index: 15
-  widget560232:
-    parentId: widget256
-    index: 14
-  widget10083:
-    index: 15
-    parentId: widget256
-  widget17566:
-    parentId: widget256
-    index: 13
-  widget3521:
-    parentId: widget256
-    index: 9
-  widget694097:
-    parentId: widget256
-    index: 15
-  widget36458:
-    parentId: widget256
-    index: 13
-  widget1174491:
-    index: 27
-    parentId: widget256
-  widget3623:
-    parentId: widget256
-    index: 11
-  widget1174535:
-    index: 28
-    parentId: widget256
-  widget185896:
-    parentId: widget256
-    index: 32
-  widget71225:
-    closed: false
-    parentId: leftPanel1
-    index: 2
-  widget4744:
-    parentId: widget256
-    index: 13
-  widget8722:
-    parentId: widget256
-    index: 15
-  widget3576:
-    index: 10
-    parentId: widget256
-  widget342215:
-    closed: false
-    index: 3
-    parentId: leftPanel1
-  widget694200:
-    index: 18
-    parentId: widget256
-  widget602185:
-    parentId: widget256
-    index: 24
-  widget5765:
-    index: 14
-    parentId: widget256
   widget3768:
     parentId: widget256
     index: 12
-  widget3165:
+  widget3359:
+    index: 10
+    parentId: widget256
+  widget93757:
+    index: 15
+    parentId: widget281
+  widget395765:
+    index: 33
+    parentId: widget281
+  widget157600:
+    index: 16
+    parentId: widget281
+  widget118069:
+    index: 19
+    parentId: widget281
+  widget98386:
+    parentId: widget281
+    index: 14
+  widget479198:
+    index: 22
+    parentId: widget281
+  widget3691:
     index: 11
     parentId: widget256
+  widget18290:
+    index: 23
+    parentId: widget281
+  widget4580:
+    closed: false
+    index: 8
+    parentId: widget281
+  widget13394:
+    index: 22
+    parentId: widget281
+  widget153428:
+    parentId: widget281
+    index: 17
+  widget44917:
+    index: 12
+    parentId: widget281
+  widget125638:
+    parentId: widget281
+    index: 21
+  widget559924:
+    parentId: widget281
+    index: 26
+  widget5939:
+    parentId: widget256
+    index: 12
+  widget7480:
+    index: 18
+    parentId: widget281
+  widget130946:
+    parentId: widget281
+    index: 27
+  widget466082:
+    index: 16
+    parentId: widget256
+  widget13377:
+    index: 13
+    parentId: widget281
+  widget14450:
+    index: 13
+    parentId: widget281
+  widget139843:
+    index: 15
+    parentId: widget281
+  widget64058:
+    index: 14
+    parentId: widget281
+  widget213396:
+    index: 19
+    parentId: widget281
+  widget201082:
+    parentId: widget281
+    index: 16
+  widget12084:
+    index: 14
+    parentId: widget281
+  widget6175:
+    index: 16
+    parentId: widget256
+  widget151310:
+    index: 26
+    parentId: widget281
+  widget696582:
+    parentId: widget256
+    index: 27
+  widget458390:
+    index: 39
+    parentId: widget281
+  widget3114:
+    index: 9
+    parentId: widget256
+  widget910964:
+    index: 24
+    parentId: widget281
+  widget63275:
+    parentId: widget281
+    index: 18
+  widget4625:
+    index: 10
+    parentId: widget281
+  widget7807:
+    index: 12
+    parentId: widget281
+  widget694097:
+    parentId: widget256
+    index: 15
+  widget124132:
+    closed: false
+    index: 5
+    parentId: leftPanel1
+  widget115573:
+    index: 45
+    parentId: widget256
+  widget3477:
+    parentId: widget256
+    index: 10
+  widget619624:
+    parentId: widget281
+    index: 38
+  widget508356:
+    parentId: widget256
+    index: 12
+  widget313577:
+    parentId: widget281
+    index: 32
+  widget122756:
+    parentId: widget281
+    index: 19
+  widget5834:
+    index: 13
+    parentId: widget256
+  widget82366:
+    closed: true
+    index: 5
+    parentId: leftPanel1
+  widget10083:
+    index: 15
+    parentId: widget256
+  widget17221:
+    parentId: widget281
+    index: 17
+  widget3438:
+    index: 10
+    parentId: widget256
+  cooldownWindow:
+    closed: true
+    parentId: widget281
+    index: 5
+  widget6854:
+    parentId: widget256
+    index: 17
+  widget1174491:
+    index: 27
+    parentId: widget256
+  widget347563:
+    index: 65
+    parentId: widget281
+  widget19337:
+    parentId: widget281
+    index: 14
+  widget13033:
+    parentId: widget281
+    index: 21
+  widget4654:
+    parentId: widget281
+    index: 11
+  widget4744:
+    parentId: widget281
+    index: 9
+  widget3581:
+    parentId: widget256
+    index: 11
+  widget411179:
+    index: 34
+    parentId: widget281
+  widget6126:
+    index: 9
+    parentId: widget281
+  widget565746:
+    parentId: widget281
+    index: 21
+  widget4696:
+    index: 9
+    parentId: widget281
+  widget9050:
+    parentId: widget256
+    index: 13
+  widget998296:
+    index: 6
+    closed: false
+    position: 100 775
+    parentId: leftPanel1
+  widget108657:
+    parentId: widget281
+    index: 17
   widget342259:
     index: 16
     parentId: widget256
-  widget511747:
-    index: 18
-    parentId: widget256
-  widget466082:
+  widget10127:
+    index: 17
+    parentId: widget281
+  widget196971:
     index: 16
     parentId: widget256
   widget6183:
     index: 14
     parentId: widget256
-  widget3458:
-    parentId: widget256
-    index: 10
-  widget795418:
-    index: 26
-    parentId: widget256
-  widget3592:
-    index: 9
-    parentId: widget256
-  widget3490:
+  widget4964:
     index: 11
+    parentId: widget281
+  widget294227:
+    parentId: widget281
+    index: 21
+  widget65286:
+    parentId: widget281
+    index: 19
+  widget6881:
+    index: 18
     parentId: widget256
   widget3759:
     parentId: widget256
     index: 11
-  widget31494:
-    parentId: widget256
-    index: 24
+  widget3548:
+    closed: false
+    index: 2
+    parentId: leftPanel1
   container12:
-    height: 75
-    closed: true
+    height: 55
   widget56243:
     index: 13
     parentId: widget256
-  widget11469:
-    index: 30
+  widget3397:
     parentId: widget256
-  widget76826:
+    index: 11
+  widget193300:
+    parentId: widget281
     index: 15
-    parentId: widget256
-  widget3459:
-    index: 12
-    parentId: widget256
+  widget7879:
+    index: 16
+    parentId: widget281
   widget202854:
     parentId: widget256
     index: 13
-  widget3286:
-    parentId: widget256
-    index: 9
-  widget3912:
-    parentId: widget256
-    index: 10
-  widget5281:
-    parentId: widget256
-    index: 13
-  widget1876046:
-    parentId: widget256
+  widget5868:
+    closed: true
+    index: 2
+    parentId: leftPanel1
+  widget143583:
+    parentId: widget281
+    index: 19
+  widget9548:
+    parentId: widget281
+    index: 14
+  widget206993:
+    parentId: widget281
     index: 21
-  widget32695:
-    parentId: widget256
-    index: 35
+  widget4635:
+    closed: true
+    parentId: widget281
+    index: 11
+  widget171696:
+    parentId: widget281
+    index: 19
+  widget491491:
+    parentId: leftPanel1
+    closed: false
+    height: 84.5
+    index: 5
+  widget4956:
+    index: 9
+    parentId: widget281
   widget399313:
     index: 16
     parentId: widget256
-  widget3699:
-    parentId: widget256
-    index: 9
-  widget53424:
-    parentId: widget256
-    index: 12
-  widget3418:
-    parentId: widget256
-    index: 13
-  widget1869419:
-    parentId: widget256
-    index: 18
+  widget82442:
+    index: 21
+    parentId: widget281
   widget161463:
     parentId: widget256
     index: 17
-  container3:
-    height: 55
-  widget115514:
-    index: 43
+  widget52522:
+    index: 13
     parentId: widget256
-  widget26525:
-    parentId: widget256
-    index: 16
+  widget6395:
+    parentId: widget281
+    index: 15
+  widget685640:
+    index: 22
+    parentId: widget281
   widget202778:
     closed: true
     parentId: leftPanel1
     index: 4
-  widget4994:
-    index: 15
-    parentId: widget256
+  widget12143:
+    parentId: widget281
+    index: 17
+  widget66295:
+    closed: true
+    index: 3
+    parentId: leftPanel1
+  widget28685:
+    index: 16
+    parentId: widget281
+  widget47568:
+    index: 19
+    parentId: widget281
+  widget279163:
+    index: 27
+    parentId: widget281
   widget3597:
     parentId: widget256
     index: 13
-  widget3541:
-    index: 12
-    parentId: widget256
-  widget3745:
-    index: 11
-    parentId: widget256
-  widget5721:
-    parentId: widget256
-    index: 13
-  widget3554:
-    parentId: widget256
-    index: 10
   widget3633:
     index: 9
     parentId: widget256
-  widget4376:
+  widget243869:
+    index: 32
+    parentId: widget281
+  widget3912:
     parentId: widget256
-    index: 13
-  widget508356:
-    parentId: widget256
-    index: 12
-  widget128813:
-    parentId: widget256
-    index: 24
-  widget3650:
-    parentId: widget256
-    index: 12
-  battleWindow:
+    index: 10
+  widget250726:
+    parentId: widget281
+    index: 35
+  widget3624:
+    index: 10
     closed: false
-    index: 6
-    parentId: rightPanel2
-  widget1811744:
+    height: 141
     parentId: widget256
-    index: 29
-  widget512443:
-    index: 19
-    parentId: widget256
-  widget5863:
-    parentId: widget256
+  container2:
+    parentId: widget281
     index: 16
-  widget274287:
-    index: 15
+  widget11124:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget342291:
+    index: 17
     parentId: widget256
+  widget203168:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget135485:
+    parentId: widget281
+    index: 18
   widget3257:
     parentId: widget256
     index: 12
-  widget7163:
-    parentId: widget256
-    index: 16
-  widget3189:
-    parentId: widget256
-    index: 13
-  widget132798:
-    index: 13
-    parentId: widget256
-  widget3531:
-    index: 9
-    parentId: widget256
-  container13:
-    height: 75
-  widget34121:
-    index: 42
-    parentId: widget256
-  widget6015:
-    parentId: widget256
-    index: 14
-  widget48616:
-    index: 15
-    parentId: widget256
-  widget3625:
-    parentId: widget256
-    index: 11
-  widget14805:
-    index: 17
-    parentId: widget256
-  widget3727:
-    parentId: widget256
-    index: 9
-  widget71429:
-    parentId: widget256
-    index: 19
-  widget14864:
-    index: 19
-    parentId: widget256
-  widget3477:
-    parentId: widget256
-    index: 10
-  widget3724:
-    index: 12
-    parentId: widget256
-  widget53500:
-    parentId: widget256
-    index: 14
-  widget1811776:
-    index: 30
-    parentId: widget256
-  widget5102:
-    parentId: widget256
-    index: 13
-  widget51573:
-    index: 20
-    parentId: widget256
-  widget3775:
-    parentId: widget256
-    index: 11
-  widget168666:
-    parentId: widget256
-    index: 29
-  widget4015:
-    parentId: widget256
-    index: 12
-  container7:
-    index: 3
-    height: 177
-    parentId: rightPanel2
-  widget11111:
+  widget250785:
+    index: 38
+    parentId: widget281
+  widget11460:
     closed: true
+    index: 17
+    parentId: widget281
+  widget8619:
+    closed: true
+    index: 2
     parentId: leftPanel1
-    index: 3
-  widget4683:
-    index: 16
-    parentId: widget256
-  widget3355:
+  widget7992:
+    closed: true
+    index: 2
+    parentId: leftPanel1
+  container13:
+    height: 55
+  widget139616:
+    parentId: widget281
+    index: 17
+  widget141327:
+    parentId: widget281
+    index: 25
+  widget8419:
+    index: 13
+    parentId: widget281
+  widget85934:
+    index: 19
+    parentId: widget281
+  widget4747:
+    parentId: widget281
     index: 12
+  widget786813:
+    index: 35
+    parentId: widget281
+  widget371942:
+    parentId: widget281
+    index: 17
+  widget201038:
+    index: 2
+    closed: true
+    height: 208
+    parentId: leftPanel1
+  widget754616:
     parentId: widget256
+    index: 30
+  widget5281:
+    parentId: widget256
+    index: 13
+  widget3650:
+    parentId: widget256
+    index: 12
+  widget76794:
+    index: 13
+    parentId: widget256
+  widget4859:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget39524:
+    index: 15
+    parentId: widget281
+  widget259743:
+    parentId: widget281
+    index: 25
+  widget4862:
+    index: 11
+    parentId: widget281
+  widget47671:
+    index: 21
+    parentId: widget281
+  widget82410:
+    parentId: widget281
+    index: 20
+  widget216850:
+    parentId: widget281
+    index: 21
+  widget617353:
+    parentId: widget256
+    index: 25
+  widget8134:
+    index: 13
+    parentId: widget281
   widget274314:
     parentId: widget256
     index: 16
   widget3617:
     index: 12
     parentId: widget256
-  widget14486:
+  widget205038:
+    index: 30
+    parentId: widget281
+  widget141268:
+    index: 22
+    parentId: widget281
+  widget305956:
+    index: 32
+    parentId: widget281
+  widget4759:
+    closed: true
+    index: 1
+    parentId: leftPanel1
+  unjustifiedPointsWindow:
+    closed: true
+    parentId: widget281
+    index: 8
+  widget125579:
+    parentId: widget281
+    index: 13
+  widget13272:
     parentId: widget256
-    index: 29
-  widget9094:
+    index: 28
+  widget17973:
+    parentId: widget281
+    index: 13
+  widget66371:
+    index: 22
+    parentId: widget281
+  widget213193:
+    parentId: widget281
+    index: 32
+  widget602217:
+    index: 25
+    parentId: widget256
+  widget3575:
+    parentId: widget256
+    index: 12
+  widget491567:
+    parentId: widget281
+    index: 19
+  widget4880:
+    parentId: widget256
+    index: 16
+  widget4602:
+    index: 9
+    parentId: widget281
+  widget26493:
+    parentId: widget256
+    index: 13
+  widget4916:
+    index: 10
+    parentId: widget281
+  widget387450:
+    parentId: widget281
+    index: 13
+  widget3269:
+    parentId: widget256
+    index: 10
+  widget1876002:
+    closed: false
+    parentId: leftPanel1
+    index: 5
+  widget3621:
+    index: 10
+    parentId: widget256
+  widget602185:
+    parentId: widget256
+    index: 24
+  widget3563:
+    index: 8
+    parentId: widget256
+  widget31435:
+    index: 21
+    parentId: widget256
+  widget4689:
+    parentId: widget281
+    index: 15
+  widget4936:
+    index: 9
+    parentId: widget281
+  widget4639:
+    parentId: widget281
+    index: 10
+  widget4666:
+    index: 10
+    parentId: widget281
+  widget66339:
+    parentId: widget281
+    index: 21
+  widget4542:
+    index: 2
+    closed: false
+    height: 162
+    parentId: leftPanel1
+  widget165797:
+    index: 24
+    parentId: widget281
+  widget19369:
+    parentId: widget281
+    index: 15
+  widget259711:
+    index: 24
+    parentId: widget281
+  widget196407:
+    index: 19
+    parentId: widget281
+  widget4550:
+    parentId: widget281
+    index: 10
+  widget223957:
+    parentId: widget281
+    index: 31
+  widget127433:
+    parentId: widget256
+    index: 21
+  widget306134:
+    parentId: widget281
+    index: 20
+  widget795462:
+    index: 28
+    parentId: widget256
+  widget5325:
     index: 14
     parentId: widget256
-  widget115470:
-    closed: false
-    index: 4
+  widget8985:
+    parentId: widget256
+    index: 19
+  widget93816:
+    parentId: widget281
+    index: 17
+  widget68260:
+    index: 22
+    parentId: widget256
+  widget71397:
+    parentId: widget256
+    index: 17
+  widget185793:
+    parentId: widget256
+    index: 29
+  widget479139:
+    index: 20
+    parentId: widget281
+  widget491535:
+    parentId: widget281
+    index: 18
+  widget32739:
+    index: 36
+    parentId: widget256
+  widget254833:
+    index: 42
+    parentId: widget281
+  widget7163:
+    parentId: widget256
+    index: 16
+  widget4847:
+    closed: true
+    index: 2
     parentId: leftPanel1
+  widget154210:
+    parentId: widget281
+    index: 21
+  widget48675:
+    parentId: widget256
+    index: 17
+  widget24445:
+    parentId: widget281
+    index: 14
+  widget5357:
+    parentId: widget256
+    index: 15
+  widget367925:
+    parentId: widget281
+    index: 14
+  widget130919:
+    parentId: widget281
+    index: 26
+  widget8722:
+    parentId: widget256
+    index: 15
+  widget98303:
+    index: 22
+    parentId: widget256
+  widget124235:
+    parentId: widget281
+    index: 21
+  widget8166:
+    parentId: widget281
+    index: 14
+  widget14241:
+    index: 2
+    closed: true
+    height: 208
+    parentId: leftPanel1
+  widget90491:
+    parentId: widget281
+    index: 15
+  widget3406:
+    index: 9
+    parentId: widget256
+  widget7006:
+    parentId: widget281
+    index: 11
+  widget3551:
+    parentId: widget256
+    index: 11
+  widget797220:
+    parentId: widget281
+    index: 43
+  widget4935:
+    parentId: widget281
+    index: 10
+  widget458287:
+    index: 37
+    parentId: widget281
+  widget435345:
+    index: 16
+    parentId: widget281
+  widget228960:
+    parentId: widget281
+    index: 36
+  widget4647:
+    parentId: widget281
+    index: 11
+  widget4958:
+    parentId: widget281
+    index: 10
+  widget337664:
+    index: 19
+    parentId: widget281
+  widget213352:
+    parentId: widget281
+    index: 20
   widget29531:
     index: 2
     closed: false
     height: 123.5
     parentId: rightPanel2
-  unjustifiedPointsWindow:
+  widget3686:
+    index: 9
+    parentId: widget256
+  widget204225:
+    closed: false
+    parentId: leftPanel1
+    index: 4
+  widget3278:
+    parentId: widget256
+    index: 10
+  widget4845:
+    parentId: leftPanel1
     closed: true
+    height: 57.5
+    index: 2
+  widget52791:
+    index: 12
+    parentId: widget281
+  widget213455:
+    index: 22
+    parentId: widget281
+  widget4627:
+    parentId: widget281
+    index: 10
+  widget169864:
+    index: 14
     parentId: widget256
-    index: 7
-  widget11442:
+  widget34062:
+    index: 40
     parentId: widget256
+  widget32695:
+    parentId: widget256
+    index: 35
+  widget77740:
+    closed: false
+    index: 3
+    parentId: leftPanel1
+  widget20554:
+    parentId: leftPanel1
+    closed: false
+    height: 79.5
+    index: 3
+  widget4919:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget139055:
+    parentId: widget281
+    index: 26
+  widget3445:
+    index: 10
+    parentId: widget256
+  widget4674:
+    parentId: widget281
+    index: 12
+  widget5765:
+    index: 14
+    parentId: widget256
+  widget367330:
+    index: 27
+    parentId: widget281
+  widget358164:
+    parentId: widget281
+    index: 20
+  widget71269:
+    index: 23
+    parentId: widget256
+  widget188625:
+    parentId: widget281
+    index: 37
+  widget3234:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget6427:
+    index: 16
+    parentId: widget281
+  widget780720:
     index: 29
-  widget13272:
+    parentId: widget281
+  widget165603:
+    closed: false
+    parentId: leftPanel1
+    index: 3
+  widget3418:
     parentId: widget256
-    index: 28
-  widget196944:
+    index: 13
+  widget20598:
+    parentId: widget281
+    index: 12
+  widget68201:
+    parentId: widget256
+    index: 19
+  widget5015:
+    index: 12
+    parentId: widget281
+  widget65479:
+    parentId: widget281
+    index: 19
+  widget6260:
     parentId: widget256
     index: 14
-  widget5937:
+  widget196912:
+    index: 13
+    parentId: widget256
+  widget193197:
+    parentId: widget281
+    index: 12
+  widget605293:
+    index: 25
+    parentId: widget281
+  widget6790:
+    parentId: widget281
+    index: 13
+  widget308345:
+    parentId: widget281
+    index: 27
+  widget466006:
+    index: 14
+    parentId: widget256
+  widget3690:
+    index: 11
+    parentId: widget256
+  widget370068:
+    index: 21
+    parentId: widget281
+  widget29131:
+    index: 18
+    parentId: widget256
+  widget11168:
+    index: 13
+    parentId: widget281
+  widget4535:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget309303:
+    parentId: widget281
+    index: 12
+  widget8451:
+    parentId: widget281
+    index: 15
+  widget254806:
+    parentId: widget281
+    index: 41
+  widget153433:
+    parentId: widget281
+    index: 17
+  widget4692:
+    index: 11
+    parentId: widget281
+  widget4999:
+    index: 12
+    parentId: widget281
+  widget308448:
+    index: 30
+    parentId: widget281
+  widget4474:
+    closed: true
+    index: 2
+    parentId: leftPanel1
+  widget3318:
+    parentId: widget256
+    index: 10
+  widget4927:
+    index: 12
+    parentId: widget281
+  widget8307:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget5333:
+    parentId: widget256
+    index: 13
+  minimapWindow:
+    index: 1
+    parentId: widget281
+  widget457464:
+    index: 22
+    parentId: widget281
+  widget3286:
+    parentId: widget256
+    index: 9
+  widget161419:
+    index: 18
+    parentId: widget256
+  widget3558:
+    index: 10
+    parentId: widget256
+  widget4633:
+    parentId: widget281
+    index: 8
+  widget387418:
+    index: 12
+    parentId: widget281
+  widget17946:
+    parentId: widget281
+    index: 12
+  widget477364:
+    index: 20
+    parentId: widget281
+  widget4921:
+    index: 10
+    parentId: widget281
+  widget1864987:
+    index: 15
+    parentId: widget256
+  widget76826:
+    index: 15
+    parentId: widget256
+  widget334881:
+    closed: false
+    parentId: leftPanel1
+    index: 9
+  widget28712:
+    parentId: widget281
+    index: 17
+  widget4937:
+    parentId: widget281
+    index: 10
+  widget39497:
+    index: 14
+    parentId: widget281
+  widget4579:
+    index: 9
+    parentId: widget281
+  widget5878:
+    parentId: widget256
+    index: 14
+  widget19611:
+    parentId: widget256
+    index: 12
+  widget4899:
+    index: 14
+    parentId: widget281
+  widget696479:
+    parentId: widget256
+    index: 23
+  widget1193257:
+    closed: true
+    parentId: leftPanel1
+    index: 3
+  widget6778:
+    index: 14
+    parentId: widget256
+  widget4357:
+    index: 10
+    parentId: widget281
+  widget52850:
+    index: 15
+    parentId: widget281
+  widget709371:
+    index: 27
+    parentId: widget281
+  widget4405:
+    parentId: widget281
+    index: 11
+  widget450712:
+    index: 16
+    parentId: widget281
+  widget207378:
+    index: 29
+    parentId: widget281
+  widget560205:
+    parentId: widget256
+    index: 13
+  widget83242:
     index: 16
     parentId: widget256
-  widget169820:
+  widget4663:
+    parentId: widget281
+    index: 10
+  widget3580:
+    parentId: widget256
+    index: 12
+  widget541404:
+    index: 19
+    parentId: widget256
+  widget4889:
+    parentId: widget281
+    index: 9
+  widget4853:
+    index: 15
+    parentId: widget256
+  widget13097:
+    index: 17
+    parentId: widget281
+  widget4789:
+    index: 9
+    parentId: widget281
+  widget352361:
+    index: 70
+    parentId: widget281
+  widget3699:
+    parentId: widget256
+    index: 9
+  widget3292:
+    index: 10
+    parentId: widget256
+  widget66398:
+    parentId: widget281
+    index: 23
+  widget5134:
+    parentId: widget256
+    index: 14
+  widget104305:
+    parentId: leftPanel1
+    closed: false
+    height: 82.5
+    index: 4
+  widget4626:
+    parentId: widget281
+    index: 11
+  widget71328:
+    index: 25
+    parentId: widget256
+  widget26525:
+    parentId: widget256
+    index: 16
+  widget130887:
+    parentId: widget281
+    index: 25
+  widget305517:
+    parentId: widget281
+    index: 45
+  widget4616:
+    parentId: widget281
+    index: 11
+  widget122729:
+    index: 18
+    parentId: widget281
+  widget4547:
+    parentId: widget281
+    index: 8
+  widget4791:
+    parentId: widget281
+    index: 14
+  widget458331:
+    parentId: widget281
+    index: 36
+  widget12217:
+    parentId: widget281
+    index: 16
+  widget3547:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget380034:
+    parentId: widget281
+    index: 30
+  widget65313:
+    index: 20
+    parentId: widget281
+  widget4437:
+    parentId: widget281
+    index: 11
+  widget6350:
+    index: 14
+    parentId: widget281
+  widget174988:
+    closed: true
+    parentId: leftPanel1
+    index: 3
+  widget367866:
+    parentId: widget281
+    index: 12
+  widget3698:
+    index: 10
+    parentId: widget256
+  widget263532:
+    index: 20
+    parentId: widget256
+  widget153384:
+    parentId: leftPanel1
+    closed: false
+    position: 112 737
+    index: 3
+  widget47612:
+    parentId: widget281
+    index: 18
+  widget80339:
+    index: 15
+    parentId: widget281
+  widget221375:
+    parentId: leftPanel1
+    closed: false
+    height: 76
+    index: 3
+  widget4735:
+    parentId: widget281
+    index: 11
+  widget130843:
+    parentId: leftPanel1
+    closed: true
+    height: 58.5
+    index: 5
+  widget3204:
+    parentId: widget256
+    index: 11
+  widget797144:
+    index: 38
+    parentId: widget281
+  widget3513:
+    parentId: widget256
+    index: 9
+  widget31988:
+    parentId: widget281
+    index: 19
+  container6:
+    parentId: rightPanel2
+    index: 3
+  widget559951:
+    index: 27
+    parentId: widget281
+  widget387374:
+    closed: true
+    index: 3
+    parentId: leftPanel1
+  widget4605:
+    index: 9
+    parentId: widget281
+  widget73420:
+    parentId: widget281
+    index: 14
+  widget5019:
+    parentId: widget281
+    index: 12
+  widget106773:
+    closed: false
+    parentId: leftPanel1
+    index: 3
+  widget13335:
+    index: 20
+    parentId: widget281
+  widget127492:
+    parentId: widget256
+    index: 23
+  widget4401:
+    parentId: widget281
+    index: 11
+  container3:
+    parentId: rightPanel2
+    index: 5
+  widget4876:
+    index: 10
+    parentId: widget281
+  widget626548:
+    index: 44
+    parentId: widget281
+  widget3256:
+    parentId: widget256
+    index: 9
+  widget3702:
+    index: 11
+    parentId: widget281
+  widget36517:
+    index: 15
+    parentId: widget256
+  widget79823:
+    parentId: widget281
+    index: 17
+  widget231808:
+    parentId: leftPanel1
+    closed: false
+    height: 82.5
+    index: 4
+  widget4979:
+    index: 11
+    parentId: widget281
+  widget19982:
+    index: 16
+    parentId: widget281
+  widget499356:
+    parentId: widget256
+    index: 23
+  widget305414:
     closed: false
     index: 4
     parentId: leftPanel1
+  container10:
+    height: 55
+  widget203007:
+    index: 24
+    parentId: widget281
+  widget1439710:
+    index: 42
+    parentId: widget281
+  widget6382:
+    parentId: widget281
+    index: 15
+  widget3727:
+    parentId: widget256
+    index: 9
+  widget151234:
+    index: 24
+    parentId: widget281
+  widget194858:
+    closed: true
+    index: 4
+    parentId: leftPanel1
+  widget5716:
+    index: 14
+    parentId: widget256
+  widget507017:
+    parentId: widget256
+    index: 16
+  widget10100:
+    parentId: widget281
+    index: 16
+  widget5912:
+    index: 13
+    parentId: widget256
+  widget13807:
+    index: 18
+    parentId: widget256
+  widget286557:
+    parentId: widget256
+    index: 22
+  widget4637:
+    index: 12
+    parentId: widget281
+  widget1174594:
+    parentId: widget256
+    index: 30
+  widget14864:
+    index: 19
+    parentId: widget256
+  widget294151:
+    index: 20
+    parentId: widget281
+  widget172363:
+    parentId: widget281
+    index: 35
+  skillWindow:
+    closed: false
+    position: 1424 365
+    minimized: false
+    index: 1
+    height: 245.5
+    locked: true
+    parentId: rightPanel2
+  widget3616:
+    index: 12
+    parentId: widget256
+  widget14872:
+    parentId: widget281
+    index: 20
+  widget367271:
+    index: 25
+    parentId: widget281
+  widget8663:
+    index: 13
+    parentId: widget256
+  widget626516:
+    parentId: widget281
+    index: 42
+  widget4630:
+    parentId: widget281
+    index: 11
+  widget85902:
+    index: 18
+    parentId: widget281
+  widget3775:
+    parentId: widget256
+    index: 11
+  widget4950:
+    index: 10
+    parentId: widget281
+  widget3106:
+    index: 9
+    parentId: widget256
+  widget5000:
+    parentId: widget281
+    index: 19
+  widget31961:
+    parentId: widget281
+    index: 18
+  widget4561:
+    parentId: leftPanel1
+    closed: true
+    height: 220
+    index: 2
+  widget153704:
+    parentId: widget281
+    index: 12
+  widget178677:
+    closed: true
+    parentId: leftPanel1
+    index: 6
+  widget3199:
+    parentId: widget256
+    index: 9
+  widget4529:
+    parentId: leftPanel1
+    closed: false
+    height: 212.5
+    index: 2
+  widget309335:
+    index: 14
+    parentId: widget281
+  widget4534:
+    parentId: widget281
+    index: 9
+  widget4777:
+    closed: false
+    index: 9
+    parentId: widget281
+  widget259770:
+    index: 26
+    parentId: widget281
+  widget36458:
+    parentId: widget256
+    index: 13
+  widget3510:
+    parentId: widget256
+    index: 9
+  widget87761:
+    closed: true
+    index: 3
+    parentId: leftPanel1
+  widget274211:
+    closed: false
+    parentId: leftPanel1
+    index: 3
+  widget315421:
+    parentId: widget256
+    index: 27
+  widget45534:
+    index: 14
+    parentId: widget256
+  widget4441:
+    index: 11
+    parentId: widget281
+  widget5022:
+    parentId: widget281
+    index: 11
+  widget159202:
+    parentId: widget281
+    index: 16
+  widget53527:
+    index: 15
+    parentId: widget256
+  widget3556:
+    parentId: widget256
+    index: 9
+  widget335660:
+    index: 57
+    parentId: widget281
+  widget4947:
+    parentId: widget281
+    index: 9
+  widget104349:
+    parentId: widget281
+    index: 12
+  inventoryWindow:
+    parentId: widget281
+    index: 3
+    height: 178
+    minimized: false
+  widget205011:
+    parentId: widget281
+    index: 29
+  widget196944:
+    parentId: widget256
+    index: 14
+  widget3672:
+    parentId: widget256
+    index: 9
+  widget7061:
+    parentId: leftPanel1
+    closed: true
+    position: 58 668
+    index: 2
+  widget4838:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget347536:
+    parentId: widget281
+    index: 64
+  widget123998:
+    parentId: widget281
+    index: 14
+  widget4558:
+    closed: false
+    index: 10
+    parentId: widget281
+  widget507049:
+    index: 17
+    parentId: widget256
+  widget9580:
+    index: 15
+    parentId: widget281
+  widget4655:
+    parentId: widget281
+    index: 12
+  widget3162:
+    parentId: widget256
+    index: 11
+  widget13748:
+    parentId: widget256
+    index: 16
+  widget3198:
+    parentId: widget256
+    index: 10
+  widget158368:
+    index: 20
+    parentId: widget281
+  widget177997:
+    parentId: widget281
+    index: 29
+  widget1986378:
+    parentId: widget256
+    index: 35
+  widget331697:
+    index: 51
+    parentId: widget281
+  widget6042:
+    parentId: widget256
+    index: 17
+  widget4553:
+    index: 11
+    parentId: widget281
+  widget709339:
+    parentId: widget281
+    index: 26
+  widget4661:
+    parentId: widget281
+    index: 12
+  widget3310:
+    parentId: widget256
+    index: 11
+  widget79926:
+    parentId: widget281
+    index: 19
+  widget284491:
+    index: 34
+    parentId: widget281
+  widget4629:
+    index: 12
+    parentId: widget281
+  widget132884:
+    index: 17
+    parentId: widget281
+  widget617380:
+    index: 26
+    parentId: widget256
+  widget4796:
+    parentId: leftPanel1
+    closed: false
+    height: 153
+    index: 2
+  widget15176:
+    index: 12
+    parentId: widget281
+  widget94056:
+    parentId: widget281
+    index: 26
+  widget791235:
+    parentId: widget256
+    index: 19
+  widget17194:
+    index: 16
+    parentId: widget281
+  widget231911:
+    index: 17
+    parentId: widget281
+  widget13213:
+    parentId: widget256
+    index: 26
+  widget305458:
+    index: 43
+    parentId: widget281
+  widget526822:
+    index: 17
+    parentId: widget281
+  widget36621:
+    parentId: widget256
+    index: 18
+  widget242549:
+    closed: false
+    index: 5
+    parentId: leftPanel1
+  widget4982:
+    parentId: widget281
+    index: 13
+  widget4596:
+    index: 11
+    parentId: widget281
+  widget3724:
+    index: 12
+    parentId: widget256
+  widget19508:
+    closed: true
+    index: 11
+    parentId: widget256
+  widget4990:
+    index: 12
+    parentId: widget281
+  widget98276:
+    index: 20
+    parentId: widget256
+  widget3718:
+    parentId: widget256
+    index: 10
+  widget68157:
+    index: 20
+    parentId: widget256
+  widget159229:
+    parentId: widget281
+    index: 17
+  widget123966:
+    index: 13
+    parentId: widget281
+  widget284432:
+    parentId: widget281
+    index: 32
+  widget6185:
+    index: 11
+    parentId: widget281
+  widget284464:
+    index: 33
+    parentId: widget281
+  widget3956:
+    index: 9
+    parentId: widget256
+  widget36490:
+    parentId: widget256
+    index: 14
+  widget201114:
+    index: 17
+    parentId: widget281
+  widget5824:
+    index: 16
+    parentId: widget256
+  widget4569:
+    index: 10
+    parentId: widget281
+  widget1811700:
+    index: 28
+    parentId: widget256
+  widget98200:
+    parentId: widget256
+    index: 19
+  widget11155:
+    parentId: widget256
+    index: 13
+  widget559848:
+    parentId: widget281
+    index: 24
+  widget685684:
+    parentId: widget281
+    index: 23
+  widget149458:
+    index: 23
+    parentId: widget281
+  widget4690:
+    parentId: widget281
+    index: 11
+  widget3628:
+    parentId: widget256
+    index: 12
+  widget300351:
+    parentId: widget281
+    index: 25
+  widget617277:
+    index: 23
+    parentId: widget256
+  widget6010:
+    parentId: widget256
+    index: 16
+  widget13780:
+    parentId: widget256
+    index: 17
+  widget236755:
+    parentId: widget281
+    index: 24
+  widget3709:
+    parentId: widget256
+    index: 10
+  widget48572:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget256696:
+    parentId: widget281
+    index: 44
+  widget1987494:
+    parentId: leftPanel1
+    closed: false
+    height: 145
+    index: 5
+  widget3493:
+    parentId: widget256
+    index: 9
+  widget503867:
+    index: 16
+    parentId: widget281
+  widget128769:
+    closed: false
+    parentId: leftPanel1
+    index: 3
+  widget163404:
+    index: 26
+    parentId: widget281
+  widget243901:
+    parentId: widget281
+    index: 33
+  widget5952:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget830910:
+    parentId: widget281
+    index: 18
+  widget300378:
+    index: 26
+    parentId: widget281
+  widget154286:
+    index: 22
+    parentId: widget281
+  widget562689:
+    index: 29
+    parentId: widget281
+  widget497166:
+    index: 13
+    parentId: widget281
+  widget4590:
+    parentId: leftPanel1
+    closed: true
+    height: 181
+    index: 1
+  widget4631:
+    index: 10
+    parentId: widget281
+  widget6746:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget694173:
+    parentId: widget256
+    index: 17
+  widget560173:
+    index: 12
+    parentId: widget256
   widget31467:
     index: 23
     parentId: widget256
-  widget3575:
+  widget268704:
+    index: 17
     parentId: widget256
+  widget121123:
+    parentId: widget281
+    index: 22
+  widget7105:
+    index: 13
+    parentId: widget281
+  widget45578:
+    parentId: widget256
+    index: 13
+  widget3587:
+    parentId: widget256
+    index: 10
+  widget1810518:
+    index: 26
+    parentId: widget256
+  widget47938:
+    parentId: widget281
+    index: 15
+  widget1840469:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget1869419:
+    parentId: widget256
+    index: 18
+  widget4518:
+    index: 9
+    parentId: widget281
+  widget4669:
+    parentId: widget281
+    index: 8
+  widget47906:
+    index: 14
+    parentId: widget281
+  widget20312:
     index: 12
-  widget3465:
+    parentId: widget281
+  widget497242:
+    index: 14
+    parentId: widget281
+  widget567327:
+    parentId: widget281
+    index: 40
+  widget411211:
+    parentId: widget281
+    index: 35
+  widget61424:
+    index: 12
+    parentId: widget281
+  widget567295:
+    index: 37
+    parentId: widget281
+  widget143524:
+    parentId: widget281
+    index: 16
+  widget3338:
     index: 9
     parentId: widget256
+  widget168607:
+    parentId: widget256
+    index: 27
+  widget36594:
+    index: 17
+    parentId: widget256
+  widget139875:
+    index: 17
+    parentId: widget281
+  widget380061:
+    index: 31
+    parentId: widget281
+  widget189309:
+    index: 32
+    parentId: widget256
+  widget334984:
+    index: 37
+    parentId: widget281
+  widget153487:
+    index: 19
+    parentId: widget281
+  widget10481:
+    parentId: widget256
+    index: 18
+  widget98283:
+    parentId: leftPanel1
+    closed: true
+    height: 221
+    index: 3
+  widget228928:
+    index: 34
+    parentId: widget281
+  widget7866:
+    parentId: widget281
+    index: 14
+  widget3714:
+    parentId: widget256
+    index: 12
+  buttons:
+    index: 4
+    height: 48
+    parentId: widget281
+  widget178552:
+    parentId: widget281
+    index: 45
+  widget253724:
+    index: 12
+    parentId: widget281
+  widget4998:
+    parentId: widget281
+    index: 9
+  widget4615:
+    parentId: widget281
+    index: 10
+  widget5377:
+    index: 14
+    parentId: widget256
+  widget10417:
+    index: 18
+    parentId: widget256
+  widget20630:
+    index: 13
+    parentId: widget281
+  widget204935:
+    index: 6
+    closed: true
+    height: 216
+    parentId: leftPanel1
+  widget3591:
+    parentId: widget256
+    index: 10
+  widget321811:
+    index: 19
+    parentId: widget281
+  widget196466:
+    index: 22
+    parentId: widget281
+  widget4644:
+    parentId: widget281
+    index: 12
+  widget7820:
+    index: 14
+    parentId: widget281
+  widget305897:
+    parentId: widget281
+    index: 30
+  widget65254:
+    parentId: widget281
+    index: 17
+  widget19552:
+    index: 9
+    parentId: widget256
+  widget795418:
+    index: 26
+    parentId: widget256
+  widget5071:
+    index: 16
+    parentId: widget256
+  widget2252632:
+    index: 24
+    parentId: widget256
+  widget4912:
+    parentId: widget281
+    index: 10
+  widget3626:
+    index: 10
+    parentId: widget281
+  widget3511:
+    closed: true
+    parentId: leftPanel1
+    index: 3
+  widget4698:
+    index: 12
+    parentId: widget281
+  widget45637:
+    parentId: widget256
+    index: 17
+  widget3242:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget15149:
+    index: 11
+    parentId: widget281
+  widget3460:
+    parentId: widget281
+    index: 12
+  widget5937:
+    index: 16
+    parentId: widget256
+  widget998399:
+    index: 29
+    parentId: widget281
+  widget3758:
+    index: 12
+    parentId: widget256
+  widget4684:
+    index: 12
+    parentId: widget281
+  widget213428:
+    index: 21
+    parentId: widget281
+  widget11433:
+    index: 16
+    parentId: widget281
+  widget8410:
+    parentId: widget281
+    index: 15
+  widget236723:
+    index: 23
+    parentId: widget281
+  widget694200:
+    index: 18
+    parentId: widget256
+  widget188549:
+    parentId: widget281
+    index: 35
+  widget4646:
+    parentId: widget281
+    index: 11
+  widget11410:
+    index: 24
+    parentId: widget256
+  widget242652:
+    parentId: widget281
+    index: 40
+  widget61527:
+    parentId: widget281
+    index: 15
+  widget335601:
+    parentId: widget281
+    index: 54
+  widget85858:
+    index: 4
+    closed: true
+    height: 209
+    parentId: leftPanel1
+  widget3231:
+    index: 12
+    parentId: widget256
+  widget188593:
+    index: 34
+    parentId: widget281
+  widget3614:
+    index: 11
+    parentId: widget256
+  widget108958:
+    index: 24
+    parentId: widget281
+  widget93820:
+    index: 20
+    parentId: widget281
+  widget216791:
+    parentId: widget281
+    index: 19
+  widget1678686:
+    parentId: widget256
+    index: 18
+  widget5409:
+    index: 16
+    parentId: widget256
+  widget4636:
+    parentId: widget281
+    index: 12
+  widget268807:
+    index: 20
+    parentId: widget256
+  widget3391:
+    parentId: widget256
+    index: 11
+  widget5797:
+    parentId: widget256
+    index: 15
+  widget25297:
+    index: 16
+    parentId: widget281
+  widget910861:
+    parentId: leftPanel1
+    closed: false
+    height: 65.5
+    index: 5
+  widget253800:
+    parentId: widget281
+    index: 14
+  widget65376:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget335557:
+    index: 55
+    parentId: widget281
+  widget626472:
+    index: 6
+    closed: false
+    height: 183
+    parentId: leftPanel1
+  widget549021:
+    parentId: widget281
+    index: 24
+  widget11366:
+    parentId: widget256
+    index: 23
+  widget51470:
+    parentId: widget256
+    index: 17
+  widget231309:
+    closed: true
+    index: 4
+    parentId: leftPanel1
+  widget221478:
+    index: 16
+    parentId: widget281
+  widget25329:
+    parentId: widget281
+    index: 17
+  widget209410:
+    closed: false
+    index: 3
+    parentId: leftPanel1
+  widget87864:
+    parentId: widget281
+    index: 14
+  widget216823:
+    index: 20
+    parentId: widget281
+  widget479095:
+    parentId: widget281
+    index: 19
+  container11:
+    height: 55
+  widget77843:
+    parentId: widget281
+    index: 16
+  widget117966:
+    index: 16
+    parentId: widget281
+  widget4952:
+    parentId: widget281
+    index: 10
+  widget2252708:
+    index: 26
+    parentId: widget256
+  widget797247:
+    index: 44
+    parentId: widget281
+  widget3598:
+    index: 9
+    parentId: widget256
+  container1:
+    parentId: widget281
+    index: 18
+  widget203244:
+    parentId: widget281
+    index: 29
+  widget6201:
+    parentId: widget256
+    index: 12
+  widget4835:
+    parentId: widget281
+    index: 10
+  widget4800:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget4700:
+    parentId: widget281
+    closed: false
+    height: 176
+    index: 12
+  widget331773:
+    parentId: widget281
+    index: 52
+  widget4891:
+    closed: false
+    parentId: widget281
+    index: 8
+  widget477305:
+    index: 18
+    parentId: widget281
+  widget178721:
+    parentId: widget281
+    index: 29
+  widget12244:
+    index: 17
+    parentId: widget281
+  widget5009:
+    index: 14
+    parentId: widget281
+  widget559318:
+    index: 28
+    parentId: widget281
+  vipWindow:
+    closed: true
+    parentId: widget281
+    index: 7
+  widget4960:
+    parentId: widget281
+    index: 9
+  widget11554:
+    index: 21
+    parentId: widget256
+  widget213117:
+    closed: true
+    index: 7
+    parentId: leftPanel1
+  widget4668:
+    parentId: widget281
+    index: 12
+  widget24477:
+    parentId: widget281
+    index: 15
+  widget3521:
+    parentId: widget256
+    index: 9
+  widget3357:
+    parentId: widget281
+    index: 10
+  widget3725:
+    parentId: widget256
+    index: 11
+  widget6028:
+    parentId: widget281
+    index: 16
+  widget24401:
+    index: 13
+    parentId: widget281
+  widget33858:
+    parentId: widget281
+    index: 17
+  widget3505:
+    index: 2
+    closed: false
+    height: 158.5
+    parentId: leftPanel1
+  widget3475:
+    closed: false
+    parentId: widget256
+    index: 9
+  widget4852:
+    index: 9
+    parentId: widget281
+  widget4612:
+    index: 10
+    parentId: widget281
+  widget3467:
+    parentId: widget256
+    index: 9
+  widget1174567:
+    index: 29
+    parentId: widget256
+  widget10513:
+    index: 19
+    parentId: widget256
+  widget327716:
+    parentId: widget281
+    index: 46
+  widget4676:
+    index: 9
+    parentId: widget281
+  widget99775:
+    index: 13
+    parentId: widget281
+  widget5951:
+    parentId: widget256
+    index: 14
+  widget3288:
+    parentId: widget256
+    index: 11
+  widget3615:
+    parentId: widget256
+    index: 11
+  widget12040:
+    parentId: widget281
+    index: 13
+  widget549124:
+    parentId: widget281
+    index: 27
+  widget18263:
+    index: 22
+    parentId: widget281
+  widget619727:
+    index: 40
+    parentId: widget281
+  widget3557:
+    index: 10
+    parentId: widget256
+  widget4552:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget263473:
+    parentId: widget256
+    index: 16
+  widget1869451:
+    parentId: widget256
+    index: 19
+  widget122697:
+    parentId: widget281
+    index: 17
+  widget294254:
+    index: 22
+    parentId: widget281
+  widget200626:
+    parentId: widget281
+    index: 25
+  widget28772:
+    index: 19
+    parentId: widget281
+  widget115470:
+    closed: false
+    index: 4
+    parentId: leftPanel1
+  widget512399:
+    parentId: widget256
+    index: 20
+  widget3570:
+    index: 12
+    parentId: widget256
+  widget194934:
+    index: 16
+    parentId: widget281
+  widget6082:
+    index: 2
+    closed: true
+    parentId: leftPanel1
+    minimized: true
+  widget565643:
+    index: 4
+    closed: true
+    height: 81.5
+    parentId: leftPanel1
+  widget7104:
+    index: 13
+    parentId: widget256
+  widget487032:
+    parentId: widget281
+    index: 40
+  widget203212:
+    parentId: widget281
+    index: 28
+  widget254730:
+    index: 40
+    parentId: widget281
+  widget3173:
+    parentId: widget256
+    index: 11
+  widget347504:
+    parentId: widget281
+    index: 62
+  widget204328:
+    index: 29
+    parentId: widget281
+  widget13670:
+    index: 3
+    closed: true
+    height: 188
+    parentId: leftPanel1
+  widget193273:
+    index: 14
+    parentId: widget281
+  widget83345:
+    parentId: widget256
+    index: 20
+  widget23248:
+    index: 33
+    parentId: widget256
+  widget709295:
+    index: 5
+    closed: true
+    height: 214
+    parentId: leftPanel1
+  widget151337:
+    parentId: widget281
+    index: 27
+  widget189233:
+    parentId: widget256
+    index: 30
+  widget4840:
+    parentId: widget281
+    index: 9
+  widget602244:
+    parentId: widget256
+    index: 26
+  widget47965:
+    index: 16
+    parentId: widget281
+  widget120885:
+    parentId: widget256
+    index: 18
+  widget10645:
+    parentId: widget281
+    index: 20
+  widget3749:
+    parentId: widget256
+    index: 20
+  widget6979:
+    parentId: widget281
+    index: 10
+  widget17914:
+    index: 11
+    parentId: widget281
+  widget9067:
+    parentId: widget256
+    index: 15
+  widget399269:
+    parentId: widget256
+    index: 15
+  widget125611:
+    index: 18
+    parentId: widget281
+  widget3545:
+    closed: true
+    index: 3
+    parentId: leftPanel1
+  widget5907:
+    index: 13
+    parentId: widget256
+  widget4808:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget3655:
+    index: 9
+    parentId: widget256
+  widget4708:
+    parentId: widget281
+    index: 10
+  widget4905:
+    parentId: widget281
+    index: 9
+  widget286589:
+    index: 23
+    parentId: widget256
+  widget4652:
+    index: 9
+    parentId: widget281
+  widget79899:
+    index: 18
+    parentId: widget281
+  widget786710:
+    closed: false
+    index: 6
+    parentId: leftPanel1
+  widget5934:
+    index: 9
+    parentId: widget256
+  widget4408:
+    index: 14
+    parentId: widget256
+  widget337691:
+    parentId: widget281
+    index: 21
+  widget4968:
+    closed: false
+    index: 10
+    parentId: widget281
+  widget7060:
+    parentId: widget256
+    index: 14
+  widget51546:
+    index: 19
+    parentId: widget256
+  widget367822:
+    parentId: leftPanel1
+    closed: true
+    height: 209
+    index: 3
+  widget59761:
+    parentId: widget256
+    index: 16
+  widget17490:
+    closed: false
+    index: 3
+    parentId: leftPanel1
+  widget4731:
+    parentId: widget281
+    index: 11
+  widget4660:
+    parentId: widget281
+    index: 11
+  widget157573:
+    index: 15
+    parentId: widget281
+  widget256620:
+    index: 42
+    parentId: widget281
+  widget308389:
+    index: 28
+    parentId: widget281
+  widget193241:
+    index: 13
+    parentId: widget281
+  widget31494:
+    parentId: widget256
+    index: 24
+  widget5037:
+    index: 12
+    parentId: widget281
+  widget1193301:
+    index: 28
+    parentId: widget281
+  widget1810486:
+    index: 24
+    parentId: widget256
+  widget178493:
+    parentId: widget281
+    index: 40
+  widget207052:
+    parentId: widget281
+    index: 23
+  widget13746:
+    parentId: widget281
+    index: 13
+  widget161495:
+    parentId: widget256
+    index: 19
+  widget308421:
+    parentId: widget281
+    index: 29
+  widget4435:
+    parentId: widget256
+    index: 15
+  widget3700:
+    index: 10
+    parentId: widget256
+  widget379088:
+    parentId: widget256
+    index: 30
+  widget56216:
+    parentId: widget256
+    index: 12
+  widget791191:
+    index: 20
+    parentId: widget256
+  widget9153:
+    parentId: widget256
+    index: 17
+  widget33890:
+    parentId: widget281
+    index: 19
+  widget194961:
+    parentId: widget281
+    index: 17
+  widget559892:
+    parentId: widget281
+    index: 25
+  widget11442:
+    parentId: widget256
+    index: 29
+  widget4848:
+    parentId: widget281
+    index: 12
+  widget14769:
+    parentId: widget281
+    index: 18
+  widget51791:
+    index: 4
+    closed: true
+    height: 64.5
+    parentId: leftPanel1
+  widget133802:
+    parentId: widget281
+    index: 21
+  widget128872:
+    index: 26
+    parentId: widget256
+  widget236679:
+    closed: false
+    parentId: leftPanel1
+    index: 5
+  widget457496:
+    parentId: widget281
+    index: 23
+  widget64117:
+    index: 16
+    parentId: widget281
+  widget8383:
+    index: 14
+    parentId: widget281
+  widget1174535:
+    index: 28
+    parentId: widget256
+  widget555543:
+    parentId: widget281
+    index: 21
+  widget96549:
+    parentId: widget281
+    index: 22
+  widget28609:
+    closed: true
+    parentId: leftPanel1
+    index: 3
+  widget4628:
+    closed: true
+    index: 11
+    parentId: widget281
+  widget3586:
+    parentId: widget256
+    index: 12
+  widget369965:
+    closed: true
+    parentId: leftPanel1
+    index: 4
+  widget19923:
+    index: 13
+    parentId: widget281
+  widget352258:
+    index: 68
+    parentId: widget281
+  widget224001:
+    index: 30
+    parentId: widget281
+  widget6139:
+    index: 2
+    closed: false
+    position: 108 536
+    parentId: leftPanel1
+  widget8909:
+    index: 18
+    parentId: widget256
+  widget3296:
+    parentId: widget256
+    index: 10
+  widget780796:
+    index: 31
+    parentId: widget281
+  widget411135:
+    parentId: widget281
+    index: 33
+  widget4803:
+    parentId: widget281
+    index: 9
+  widget157541:
+    parentId: widget281
+    index: 14
+  widget4493:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget11187:
+    index: 14
+    parentId: widget256
+  widget3741:
+    index: 11
+    parentId: widget256
+  widget1869478:
+    parentId: widget256
+    index: 20
+  widget20657:
+    parentId: widget281
+    index: 14
+  widget321708:
+    index: 17
+    parentId: widget281
+  widget4593:
+    index: 2
+    closed: true
+    height: 136
+    parentId: leftPanel1
+  widget159170:
+    parentId: widget281
+    index: 13
+  widget185869:
+    index: 31
+    parentId: widget256
+  widget178753:
+    index: 30
+    parentId: widget281
+  widget153357:
+    parentId: leftPanel1
+    closed: true
+    height: 208
+    index: 3
+  widget45610:
+    index: 16
+    parentId: widget256
+  widget1202091:
+    index: 32
+    parentId: widget281
+  widget3568:
+    parentId: widget256
+    index: 12
+  widget12989:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget14486:
+    parentId: widget256
+    index: 29
+  widget168639:
+    index: 28
+    parentId: widget256
+  widget4465:
+    index: 12
+    parentId: widget281
+  widget71353:
+    parentId: leftPanel1
+    closed: false
+    height: 174
+    index: 3
+  widget10024:
+    index: 3
+    closed: true
+    height: 246.5
+    parentId: leftPanel1
+  widget4478:
+    index: 10
+    parentId: widget281
+  widget104381:
+    index: 13
+    parentId: widget281
+  widget20371:
+    index: 14
+    parentId: widget281
+  widget14761:
+    closed: false
+    parentId: leftPanel1
+    index: 3
+  widget786754:
+    index: 33
+    parentId: widget281
+  widget3590:
+    index: 11
+    parentId: widget256
+  widget29234:
+    index: 20
+    parentId: widget256
+  widget6947:
+    index: 9
+    parentId: widget281
+  widget268748:
+    index: 18
+    parentId: widget256
+  widget4928:
+    index: 9
+    parentId: widget281
+  widget165841:
+    parentId: widget281
+    index: 25
+  widget279222:
+    index: 29
+    parentId: widget281
+  widget3382:
+    parentId: widget256
+    index: 10
+  widget108926:
+    parentId: widget281
+    index: 23
+  widget90464:
+    parentId: widget281
+    index: 14
+  widget12185:
+    index: 15
+    parentId: widget281
+  widget3517:
+    parentId: widget256
+    index: 12
+  widget331785:
+    index: 28
+    parentId: widget281
+  widget8036:
+    index: 13
+    parentId: widget281
+  widget341368:
+    parentId: widget281
+    index: 19
+  widget4505:
+    index: 9
+    parentId: widget281
+  widget80199:
+    parentId: widget281
+    index: 16
+  widget5836:
+    index: 15
+    parentId: widget256
+  widget4585:
+    parentId: widget281
+    index: 10
+  widget549097:
+    index: 26
+    parentId: widget281
+  widget6351:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget347460:
+    index: 63
+    parentId: widget281
+  widget3258:
+    index: 11
+    parentId: widget256
+  widget435372:
+    parentId: widget281
+    index: 17
+  widget1202059:
+    parentId: widget281
+    index: 31
+  widget3370:
+    index: 10
+    parentId: widget256
+  widget466050:
+    parentId: widget256
+    index: 13
+  widget4531:
+    closed: false
+    position: 172 726
+    index: 2
+    height: 79.5
+    parentId: leftPanel1
+  widget780764:
+    index: 30
+    parentId: widget281
+  widget135517:
+    parentId: widget281
+    index: 20
+  widget3532:
+    parentId: widget256
+    index: 9
+  widget4896:
+    parentId: widget281
+    index: 10
+  widget3230:
+    parentId: widget256
+    index: 11
+  widget31885:
+    parentId: widget281
+    index: 16
+  widget4884:
+    parentId: widget281
+    index: 10
+  widget3356:
+    parentId: widget256
+    index: 9
+  widget4923:
+    parentId: widget281
+    index: 9
+  widget9040:
+    index: 14
+    parentId: widget256
+  widget508388:
+    parentId: widget256
+    index: 14
+  widget791267:
+    parentId: widget256
+    index: 21
+  widget16972:
+    parentId: widget281
+    index: 13
+  widget3668:
+    index: 9
+    parentId: widget256
+  widget9008:
+    index: 13
+    parentId: widget256
+  widget14813:
+    index: 17
+    parentId: widget281
+  healthInfoWindow:
+    index: 2
+    height: 38
+    parentId: widget281
+  widget5910:
+    parentId: widget256
+    index: 15
+  widget342776:
+    index: 61
+    parentId: widget281
+  widget6215:
+    index: 15
+    parentId: widget256
+  widget3716:
+    index: 8
+    parentId: widget256
+  widget10056:
+    index: 14
+    parentId: widget256
+  widget34094:
+    parentId: widget256
+    index: 41
+  widget511747:
+    index: 18
+    parentId: widget256
+  widget56184:
+    parentId: widget256
+    index: 11
+  widget94024:
+    index: 25
+    parentId: widget281
+  widget231852:
+    parentId: widget281
+    index: 15
+  widget52554:
+    index: 15
+    parentId: widget256
+  widget1876105:
+    index: 23
+    parentId: widget256
+  widget2252676:
+    index: 25
+    parentId: widget256
+  widget5436:
+    index: 18
+    parentId: widget256
+  widget32798:
+    index: 38
+    parentId: widget256
+  widget3401:
+    parentId: widget281
+    index: 9
+  widget25356:
+    index: 18
+    parentId: widget281
+  widget80312:
+    parentId: widget281
+    index: 14
+  widget4934:
+    index: 10
+    parentId: widget281
+  widget178449:
+    parentId: widget281
+    index: 43
+  widget175032:
+    parentId: widget281
+    index: 16
+  widget14344:
+    parentId: widget281
+    index: 19
+  widget13333:
+    index: 2
+    closed: true
+    height: 141
+    parentId: leftPanel1
+  widget605266:
+    parentId: widget281
+    index: 24
+  widget3657:
+    index: 14
+    parentId: widget256
+  widget305929:
+    parentId: widget281
+    index: 31
+  widget4844:
+    index: 9
+    parentId: widget281
+  widget1865019:
+    index: 16
+    parentId: widget256
+  widget139902:
+    parentId: widget281
+    index: 18
+  widget492267:
+    parentId: widget281
+    index: 47
+  widget138979:
+    index: 24
+    parentId: widget281
+  widget51835:
+    parentId: widget281
+    index: 22
+  widget10618:
+    index: 19
+    parentId: widget281
+  widget188652:
+    parentId: widget281
+    index: 39
+  widget253827:
+    parentId: widget281
+    index: 15
+  widget175435:
+    index: 36
+    parentId: widget281
+  widget16999:
+    index: 14
+    parentId: widget281
+  widget8090:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget61500:
+    index: 14
+    parentId: widget281
+  widget171367:
+    parentId: widget256
+    index: 22
+  widget202822:
+    parentId: widget256
+    index: 12
+  widget3697:
+    parentId: widget256
+    index: 11
+  widget4571:
+    index: 9
+    parentId: widget281
+  widget4774:
+    index: 13
+    parentId: widget281
+  widget36562:
+    index: 16
+    parentId: widget256
+  widget305490:
+    index: 44
+    parentId: widget281
+  widget158427:
+    index: 23
+    parentId: widget281
+  widget4404:
+    parentId: widget281
+    index: 9
+  widget4643:
+    parentId: widget281
+    index: 10
+  widget6148:
+    parentId: widget256
+    index: 15
+  widget3504:
+    parentId: widget256
+    index: 13
+  widget346858:
+    index: 13
+    parentId: widget281
+  widget4816:
+    parentId: widget281
+    index: 9
+  widget358196:
+    parentId: widget281
+    index: 22
+  widget346885:
+    index: 14
+    parentId: widget281
+  widget274287:
+    index: 15
+    parentId: widget256
+  widget168874:
+    index: 28
+    parentId: widget281
+  widget106849:
+    parentId: widget281
+    index: 27
+  widget541360:
+    parentId: widget256
+    index: 20
+  widget3630:
+    index: 13
+    parentId: widget256
+  widget4727:
+    parentId: widget281
+    index: 13
+  widget17566:
+    parentId: widget256
+    index: 13
+  widget479171:
+    parentId: widget281
+    index: 21
+  widget370041:
+    parentId: widget281
+    index: 20
+  widget128845:
+    parentId: widget256
+    index: 25
+  widget9504:
+    index: 13
+    parentId: widget281
+  widget7763:
+    index: 2
+    closed: false
+    height: 203
+    parentId: leftPanel1
+  widget4963:
+    index: 9
+    parentId: widget281
+  widget14285:
+    index: 17
+    parentId: widget281
+  widget315389:
+    index: 26
+    parentId: widget256
+  widget61472:
+    parentId: widget281
+    index: 17
+  widget4446:
+    parentId: widget281
+    index: 9
+  widget306161:
+    index: 22
+    parentId: widget281
+  widget132766:
+    index: 12
+    parentId: widget256
+  widget754513:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget13021:
+    index: 13
+    parentId: widget281
+  widget3602:
+    parentId: widget256
+    index: 13
+  widget51894:
+    parentId: widget281
+    index: 24
+  widget3130:
+    parentId: widget256
+    index: 10
+  widget105873:
+    parentId: widget281
+    index: 25
+  widget3294:
+    closed: false
+    index: 7
+    parentId: rightPanel2
+  widget4658:
+    index: 11
+    parentId: widget281
+  widget4641:
+    parentId: widget281
+    index: 11
+  widget286513:
+    index: 21
+    parentId: widget256
+  widget19293:
+    index: 13
+    parentId: widget281
+  widget3172:
+    parentId: widget256
+    index: 10
+  widget132808:
+    closed: true
+    position: 422 481
+    index: 3
+    height: 158.5
+    parentId: leftPanel1
+  widget4671:
+    closed: false
+    parentId: widget281
+    index: 11
+  widget242625:
+    index: 39
+    parentId: widget281
+  widget559291:
+    parentId: widget281
+    index: 27
+  widget358223:
+    index: 23
+    parentId: widget281
+  widget71456:
+    parentId: widget256
+    index: 20
+  widget4607:
+    parentId: widget281
+    index: 10
+  widget379958:
+    parentId: widget281
+    index: 28
+  widget209454:
+    index: 13
+    parentId: widget281
+  widget1987570:
+    parentId: widget256
+    index: 37
+  widget562792:
+    index: 32
+    parentId: widget281
+  widget3372:
+    parentId: widget256
+    index: 12
+  widget3666:
+    index: 8
+    parentId: widget256
+  widget1987538:
+    index: 36
+    parentId: widget256
+  widget4491:
+    parentId: widget281
+    index: 12
+  widget4860:
+    index: 10
+    parentId: widget281
+  widget7607:
+    closed: false
+    index: 2
+    parentId: leftPanel1
+  widget605234:
+    index: 23
+    parentId: widget281
+  widget487091:
+    index: 43
+    parentId: widget281
+  widget10540:
+    parentId: widget256
+    index: 20
+  widget33917:
+    index: 20
+    parentId: widget281
+  widget4879:
+    parentId: widget281
+    index: 14
+  widget250682:
+    index: 36
+    parentId: widget281
+  widget499253:
+    parentId: widget256
+    index: 21
+  widget209486:
+    index: 14
+    parentId: widget281
+  widget154254:
+    index: 20
+    parentId: widget281
+  widget178525:
+    index: 44
+    parentId: widget281
+  widget4992:
+    index: 11
+    parentId: widget281
+  widget5012:
+    parentId: widget256
+    index: 13
+  widget696523:
+    index: 22
+    parentId: widget256
+  widget346826:
+    parentId: widget281
+    index: 12
+  widget492191:
+    index: 46
+    parentId: widget281
+  widget477261:
+    parentId: leftPanel1
+    closed: false
+    height: 175
+    index: 5
+  widget96608:
+    parentId: widget281
+    index: 24
+  widget3642:
+    index: 2
+    closed: false
+    height: 178.5
+    parentId: leftPanel1
+  widget387477:
+    parentId: widget281
+    index: 14
+  widget224033:
+    index: 32
+    parentId: widget281
+  widget4882:
+    index: 9
+    parentId: widget281
+  widget1439683:
+    parentId: widget281
+    index: 41
+  widget450771:
+    index: 18
+    parentId: widget281
+  widget39465:
+    parentId: widget281
+    index: 13
+  widget7839:
+    index: 13
+    parentId: widget281
+  widget3553:
+    parentId: widget256
+    index: 11
+  widget8068:
+    parentId: widget281
+    index: 14
+  widget337632:
+    index: 18
+    parentId: widget281
+  widget10385:
+    index: 17
+    parentId: widget256
+  widget26322:
+    index: 13
+    parentId: widget281
+  widget619668:
+    index: 37
+    parentId: widget281
+  widget87837:
+    parentId: widget281
+    index: 13
+  widget3670:
+    parentId: widget281
+    index: 9
+  widget321752:
+    parentId: widget281
+    index: 16
+  widget139799:
+    parentId: widget281
+    index: 16
+  widget685743:
+    index: 25
+    parentId: widget281
+  widget4892:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget300275:
+    parentId: widget281
+    index: 23
+  widget65452:
+    index: 18
+    parentId: widget281
+  widget309362:
+    index: 15
+    parentId: widget281
+  widget3395:
+    index: 12
+    parentId: widget256
+  widget204269:
+    parentId: widget281
+    index: 27
+  widget3622:
+    index: 3
+    closed: true
+    height: 86
+    parentId: leftPanel1
+  widget127389:
+    index: 20
+    parentId: widget256
+  widget3128:
+    index: 9
+    parentId: widget256
+  widget11200:
+    parentId: widget281
+    index: 14
+  widget4764:
+    parentId: widget281
+    index: 13
+  widget4463:
+    parentId: widget281
+    index: 11
+  widget567354:
+    index: 41
+    parentId: widget281
+  widget139023:
+    index: 25
+    parentId: widget281
+  widget555646:
+    index: 24
+    parentId: widget281
+  widget13773:
+    parentId: widget281
+    index: 14
+  widget189336:
+    index: 34
+    parentId: widget256
+  widget121096:
+    index: 21
+    parentId: widget281
+  widget59658:
+    parentId: widget256
+    index: 14
+  widget3683:
+    parentId: widget256
+    index: 10
+  widget696555:
+    index: 24
+    parentId: widget256
+  widget4414:
+    parentId: widget281
+    index: 10
+  widget93713:
+    closed: true
+    index: 4
+    parentId: leftPanel1
+  widget93761:
+    index: 17
+    parentId: widget281
+  widget487064:
+    parentId: widget281
+    index: 42
+  widget61468:
+    parentId: widget281
+    index: 13
+  widget371839:
+    index: 4
+    closed: true
+    height: 209
+    parentId: leftPanel1
+  widget6849:
+    parentId: widget281
+    index: 15
+  widget4679:
+    parentId: widget281
+    index: 10
+  widget13367:
+    parentId: widget281
+    index: 21
+  widget1876078:
+    parentId: widget256
+    index: 22
+  widget4599:
+    parentId: widget281
+    index: 9
+  widget1865046:
+    parentId: widget256
+    index: 17
+  widget125535:
+    index: 14
+    parentId: widget281
+  widget5044:
+    parentId: widget256
+    index: 15
+  widget7539:
+    index: 20
+    parentId: widget281
+  widget4508:
+    index: 9
+    parentId: widget281
+  widget395809:
+    parentId: widget281
+    index: 32
+  widget4895:
+    parentId: widget281
+    index: 9
+  widget3483:
+    index: 10
+    parentId: widget256
+  widget4910:
+    parentId: widget281
+    index: 11
+  widget98327:
+    parentId: widget281
+    index: 12
+  widget3786:
+    index: 12
+    parentId: widget256
+  widget80258:
+    parentId: widget281
+    index: 18
+  widget64014:
+    parentId: widget281
+    index: 13
+  widget23172:
+    closed: true
+    parentId: leftPanel1
+    index: 3
+  widget98244:
+    index: 18
+    parentId: widget256
+  widget1840545:
+    index: 12
+    parentId: widget256
+  widget1810442:
+    parentId: widget256
+    index: 25
+  widget331812:
+    parentId: widget281
+    index: 29
+  widget508415:
+    index: 15
+    parentId: widget256
+  widget141224:
+    parentId: widget281
+    index: 21
+  widget3687:
+    index: 11
+    parentId: widget256
+  widget458363:
+    parentId: widget281
+    index: 38
+  widget3197:
+    parentId: widget256
+    index: 12
+  widget279119:
+    parentId: widget281
+    index: 26
+  widget830942:
+    parentId: widget281
+    index: 20
+  widget395841:
+    parentId: widget281
+    index: 34
+  widget1439651:
+    index: 38
+    parentId: widget281
+  widget228987:
+    parentId: widget281
+    index: 37
+  widget52747:
+    closed: false
+    index: 3
+    parentId: leftPanel1
+  widget44976:
+    parentId: widget281
+    index: 14
+  widget492235:
+    parentId: widget281
+    index: 44
+  widget128813:
+    parentId: widget256
+    index: 24
+  widget259667:
+    index: 4
+    closed: false
+    position: 306 532
+    parentId: leftPanel1
+  widget29634:
+    index: 27
+    parentId: widget256
+  widget367227:
+    parentId: widget281
+    index: 24
+  widget709398:
+    parentId: widget281
+    index: 28
+  widget4543:
+    closed: true
+    index: 2
+    parentId: leftPanel1
+  widget830969:
+    parentId: widget281
+    index: 21
+  widget31391:
+    parentId: widget256
+    index: 22
+  widget4906:
+    parentId: widget281
+    index: 11
+  widget18187:
+    closed: true
+    index: 1
+    parentId: leftPanel1
+  widget127465:
+    index: 22
+    parentId: widget256
+  widget555619:
+    parentId: widget281
+    index: 23
+  widget511715:
+    index: 16
+    parentId: widget256
+  widget11598:
+    parentId: widget256
+    index: 22
+  widget5748:
+    parentId: widget256
+    index: 15
+  widget11630:
+    index: 23
+    parentId: widget256
+  widget13169:
+    index: 25
+    parentId: widget256
+  widget4536:
+    index: 9
+    parentId: widget281
+  widget185837:
+    parentId: widget256
+    index: 30
+  widget120853:
+    index: 17
+    parentId: widget256
+  widget370009:
+    parentId: widget281
+    index: 19
+  widget120809:
+    parentId: widget256
+    index: 16
+  widget560232:
+    parentId: widget256
+    index: 14
+  widget13245:
+    index: 27
+    parentId: widget256
+  widget3499:
+    index: 9
+    parentId: widget256
+  widget196439:
+    index: 21
+    parentId: widget281
+  widget11536:
+    index: 14
+    parentId: widget281
+  widget4851:
+    index: 9
+    parentId: widget281
+  widget143480:
+    index: 17
+    parentId: widget281
+  widget3432:
+    parentId: widget256
+    index: 11
+  widget6306:
+    parentId: widget281
+    index: 13
+  widget263505:
+    parentId: widget256
+    index: 18
+  widget71225:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget11469:
+    index: 30
+    parentId: widget256
+  widget14837:
+    parentId: widget256
+    index: 18
+  widget3433:
+    parentId: widget281
+    index: 11
+  widget242593:
+    parentId: widget281
+    index: 38
+  widget379132:
+    parentId: widget256
+    index: 31
+  widget139719:
+    parentId: widget281
+    index: 21
+  widget5003:
+    parentId: widget281
+    index: 12
+  widget3450:
+    parentId: widget256
+    index: 10
+  widget5858:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget108625:
+    index: 16
+    parentId: widget281
+  widget200550:
+    index: 24
+    parentId: widget281
+  widget8953:
+    parentId: widget256
+    index: 17
+  widget1202118:
+    parentId: widget281
+    index: 33
+  widget3458:
+    parentId: widget256
+    index: 10
+  widget52823:
+    index: 14
+    parentId: widget281
+  widget250700:
+    parentId: leftPanel1
+    closed: true
+    height: 192
+    index: 4
+  widget3336:
+    parentId: widget256
+    index: 9
+  widget80155:
+    closed: true
+    parentId: leftPanel1
+    index: 4
+  widget96505:
+    index: 5
+    closed: false
+    height: 209
+    parentId: leftPanel1
+  widget13436:
+    parentId: widget281
+    index: 15
+  widget367898:
+    index: 13
+    parentId: widget281
+  widget99807:
+    parentId: widget281
+    index: 14
+  widget3748:
+    index: 10
+    parentId: widget256
+  widget3459:
+    index: 12
+    parentId: widget256
+  widget4632:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget157497:
+    parentId: leftPanel1
+    closed: false
+    height: 153
+    index: 3
+  widget11504:
+    parentId: widget281
+    index: 13
+  widget497269:
+    index: 15
+    parentId: widget281
+  widget96581:
+    index: 23
+    parentId: widget281
+  widget3455:
+    index: 3
+    closed: true
+    height: 208
+    parentId: leftPanel1
+  widget335633:
+    parentId: widget281
+    index: 56
+  widget4776:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget4338:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget3635:
+    index: 13
+    parentId: widget256
+  widget6233:
+    parentId: widget256
+    index: 13
+  widget4944:
+    parentId: widget281
+    index: 9
+  widget1678718:
+    parentId: widget256
+    index: 19
+  widget7683:
+    index: 14
+    parentId: widget281
+  widget9980:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget149426:
+    parentId: widget281
+    index: 22
+  widget4373:
+    index: 10
+    parentId: widget281
+  widget4702:
+    index: 15
+    parentId: widget281
+  widget48648:
+    parentId: widget256
+    index: 16
+  widget19955:
+    parentId: widget281
+    index: 14
+  widget5721:
+    parentId: widget256
+    index: 13
+  widget10437:
+    index: 17
+    parentId: widget256
+  widget141300:
+    index: 24
+    parentId: widget281
+  widget4376:
+    parentId: widget256
+    index: 13
+  widget4402:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget47862:
+    parentId: widget281
+    index: 13
+  widget207025:
+    index: 22
+    parentId: widget281
+  widget4872:
+    parentId: widget281
+    index: 13
+  widget342749:
+    parentId: widget281
+    index: 60
+  widget512443:
+    index: 19
+    parentId: widget256
+  widget5863:
+    parentId: widget256
+    index: 16
+  widget153401:
+    parentId: widget281
+    index: 16
+  widget3086:
+    index: 9
+    parentId: widget256
+  widget10542:
+    parentId: widget281
+    index: 18
+  widget492294:
+    index: 48
+    parentId: widget281
+  widget132798:
+    index: 13
+    parentId: widget256
+  widget3531:
+    index: 9
+    parentId: widget256
+  widget165679:
+    parentId: widget281
+    index: 25
+  widget526719:
+    parentId: leftPanel1
+    closed: false
+    height: 62.5
+    index: 4
+  widget6015:
+    parentId: widget256
+    index: 14
+  widget48616:
+    index: 15
+    parentId: widget256
+  widget132911:
+    parentId: widget281
+    index: 18
+  widget3515:
+    parentId: widget256
+    index: 11
+  widget85961:
+    parentId: widget281
+    index: 20
+  widget71429:
+    parentId: widget256
+    index: 19
+  widget6822:
+    parentId: widget281
+    index: 14
+  widget14477:
+    index: 14
+    parentId: widget281
+  widget108985:
+    parentId: widget281
+    index: 25
+  widget53500:
+    parentId: widget256
+    index: 14
+  widget1811776:
+    index: 30
+    parentId: widget256
+  widget4870:
+    closed: false
+    parentId: leftPanel1
+    index: 2
+  widget503899:
+    index: 17
+    parentId: widget281
+  widget3146:
+    parentId: widget256
+    index: 10
+  widget168666:
+    parentId: widget256
+    index: 29
+  widget379164:
+    parentId: widget256
+    index: 32
+  widget106817:
+    index: 26
+    parentId: widget281
+  widget13124:
+    index: 19
+    parentId: widget281
+  widget4683:
+    index: 16
+    parentId: widget256
+  widget565719:
+    index: 20
+    parentId: widget281
+  widget4836:
+    parentId: widget281
+    index: 12
+  widget31929:
+    index: 17
+    parentId: widget281
+  widget4883:
+    index: 10
+    parentId: widget281
+  widget342717:
+    parentId: widget281
+    index: 58
+  widget139660:
+    index: 16
+    parentId: widget281
+  widget154313:
+    parentId: widget281
+    index: 23
+  widget4861:
+    closed: true
+    parentId: leftPanel1
+    index: 2
+  widget63243:
+    parentId: widget281
+    index: 17
+  widget685716:
+    index: 24
+    parentId: widget281
+  widget80236:
+    parentId: widget281
+    index: 12
+  widget11227:
+    parentId: widget281
+    index: 15
+  widget139692:
+    index: 18
+    parentId: widget281
+  widget4809:
+    parentId: widget281
+    index: 10
+  widget168950:
+    index: 30
+    parentId: widget281
+  widget28831:
+    index: 21
+    parentId: widget281
 lastChannelsOpen:
-  Imbier:
-    Help: 7
-    Live Cast: 20
-    Loot: 10
-    Advertising: 5
   Tsunami:
+    Help: 7
+    Advertising: 5
     Team Search: 9
-  Kolczan:
+    Polish Chat: 4
+  Anna:
+    Help: 7
+    Advertising: 5
     Team Search: 9
     Polish Chat: 4
   Aggressive:
@@ -2134,12 +5712,32 @@ lastChannelsOpen:
     Live Cast: 20
     Loot: 10
     Advertising: 5
+  Imbier:
+    Help: 7
+    Live Cast: 20
+    Loot: 10
+    Advertising: 5
+  Ariea:
+    Advertising: 5
+    Polish Chat: 4
+    Help: 7
+    World Chat: 3
+    Team Search: 9
+  Kolczan:
+    Advertising: 5
+    Polish Chat: 4
+    Team Search: 9
 LastCombatControls:
-  Tsunami:
-    fightMode: 3
-    pvpMode: 0
+  Kolczan:
+    fightMode: 1
+    safeFight: false
     chaseMode: 0
+    pvpMode: 0
+  Tsunami:
+    fightMode: 1
     safeFight: true
+    chaseMode: 0
+    pvpMode: 0
   Pozar'w Serwerowni:
     fightMode: 1
     safeFight: true
@@ -2160,332 +5758,422 @@ LastCombatControls:
     safeFight: true
     chaseMode: 0
     pvpMode: 0
-  Kolczan:
-    fightMode: 1
+  Anna:
+    fightMode: 3
+    safeFight: true
+    chaseMode: 0
+    pvpMode: 0
+  Ariea:
+    fightMode: 3
     pvpMode: 0
     chaseMode: 0
-    safeFight: false
+    safeFight: true
 Minimap:
   zoom: 1
   flags:
     1:
-      icon: 0
+      icon: 15
       position:
-        y: 31480
-        x: 33565
-        z: 8
-    2:
-      icon: 0
-      position:
-        y: 31085
-        x: 32356
+        y: 32514
+        x: 32909
         z: 7
+      description: bless
+    2:
+      icon: 18
+      position:
+        y: 32382
+        x: 33174
+        z: 11
     3:
       icon: 0
       position:
         y: 31074
         x: 32380
         z: 7
+    4:
+      icon: 0
+      position:
+        y: 32843
+        x: 32253
+        z: 7
+    5:
+      icon: 0
+      position:
+        y: 32829
+        x: 32343
+        z: 7
+    6:
+      icon: 0
+      position:
+        y: 32520
+        x: 32885
+        z: 7
+      description: flimsy
+    7:
+      icon: 15
+      position:
+        y: 32669
+        x: 32853
+        z: 7
+      description: banuta main entrance
+    8:
+      icon: 0
+      position:
+        y: 32774
+        x: 32300
+        z: 7
+    9:
+      icon: 0
+      position:
+        y: 31085
+        x: 32356
+        z: 7
+    10:
+      icon: 15
+      position:
+        y: 32358
+        x: 33212
+        z: 7
+      description: werehyaenas
+    11:
+      icon: 0
+      position:
+        y: 31480
+        x: 33565
+        z: 8
+    12:
+      icon: 0
+      position:
+        y: 32879
+        x: 32299
+        z: 7
+    13:
+      icon: 15
+      position:
+        y: 32537
+        x: 33168
+        z: 11
+      description: NPC Rhargu
+    14:
+      icon: 0
+      position:
+        y: 32590
+        x: 31915
+        z: 7
+    15:
+      icon: 15
+      position:
+        y: 32833
+        x: 33255
+        z: 7
+      description: shadow tomb entrance
+    16:
+      icon: 18
+      position:
+        y: 32399
+        x: 33192
+        z: 11
+      description: main entrance
 game_interface:
-  splitterMarginBottom: 276
+  splitterMarginBottom: 348
 game_console:
   messageHistory:
     318: hi
     218: exevo vis hur
     418: exevo vis hur
-    223: thais
-    464: !bestiary winter wolf
+    22: hi trade
+    323: yes
     408: yes
-    12: jeszcze sie wkurwiam tylko bo mi neta zrywa i padam bezsensownie
-    62: exevo gran vis lux
-    72: thais
-    423: exani tera
-    292: masz np sytuacje
+    264: sdki kupuje a gfb nie xD
+    364: a nie leczy sie np bo mi sie komp zacina w pizde
+    72: deposit all
+    164: hi
+    52: moze jak wroce
     192: exevo gran vis lux
     492: utana vid
-    392: exevo gran vis lux
+    82: exevo gran flam hur
     92: exevo vis hur
     119: ale mam trapa
     319: venore
-    6: hi
+    6: powerful
     167: sec
-    122: prawie sam ich zabijam xd
-    76: exevo gran vis lux
+    66: deposit all
+    222: hi
     467: !bestiary winter wolf
     267: podaj
-    367: exura
-    422: exevo gran mas vis
+    193: exevo vis hur
+    96: exevo vis hur
     293: godzina 12
     493: !charms
     480: exevo gran vis lux
-    125: xd
+    86: exevo gran mas flam
     225: hi
+    142: ja jestem bardziej rpg niz pvp
     366: xD
-    323: yes
+    322: svargrond
     425: exani tera
     266: discorda
-    101: exevo gran flam hur
+    70: hi
     490: svargrond
-    401: yes
-    2: exura med ico
+    290: a na ts tylko gadanie
+    220: exevo gran flam hur
     190: exevo gran vis lux
-    466: !bestiary husky
-    193: exevo vis hur
+    325: hi
+    367: exura
     324: exani hur "down
     420: exevo vis hur
     124: wyszedlem
-    384: venore
+    465: !bestiary penguin
     461: !bestiary chakoya tribewarden
-    424: exevo vis hur
-    291: wiesz no
+    161: ide tego feastera
+    261: o i znowu mam cos takiego
     191: exevo vis hur
-    284: elo
+    365: jak z niego chce korzystac
     391: exori max vis
-    120: nie
+    184: exevo gran vis lux
     361: no bo jak analizuje na server logu deski
-    139: graja
-    393: exevo vis hur
-    160: pozdrawiam
+    118: jakies 3 noobki
+    466: !bestiary husky
+    363: ze moj char sie nie leczy
     286: pozniej pomysle ale bede pamietal\
-    358: najwiekszym winowajca
+    26: exevo vis hur
     227: yes
-    327: yes
+    460: !bestiary silver rabbit
     149: takich kosmicznych orshabaali tez nie lubie
     185: exevo vis hur
     360: ktory nie daje rady
-    164: hi
-    427: exevo vis hur
+    397: hi
+    160: pozdrawiam
     296: mozesz zapytac siema o ktorej dzisiaj bossy
     196: hi
     496: yes
-    66: hi
+    291: wiesz no
     127: xD
     458: !bestiary stone golem
-    260: chuj wie
-    161: ide tego feastera
+    275: jak kupuje to od razu przeklada
+    331: exana pox
     326: venore
     426: exevo gran vis lux
     126: ide na cobry z nimi potranczyc
-    258: nie wiem
+    258: yes
     463: !bestiary chakoya windcaller
-    222: hi
+    362: to one wynikaja z tego
     263: nie kupuje run w sklepie
     197: edron
-    485: !bestiary chakoya windcaller
-    397: hi
-    32: exeta res
-    362: to one wynikaja z tego
+    421: exani tera
+    163: port hope
+    431: exevo vis hur
+    43: yes
     497: hi
-    332: exana vita
-    473: !bestiary polar bear
-    151: jak bede musial thaiana zabic, pomoglbys?
+    230: nie no w 3 osoby
+    133: ciezko o
+    385: yes
     129: a gdzie bociz
-    259: czasami pada jakos tak
+    229: exiva "imbier
     159: xd
     459: !autoloot polar bear
     359: jest moj laptop
     130: exevo gran mas flam
     329: ankrahmun
-    162: zrobic
-    294: ludzie pracuja
-    251: akurat
+    394: exori max flam
+    262: ze mi skurwysyn
+    221: utana vid
     494: hi
     330: yes
-    121: 2x400 + 280
-    333: hi trade
-    233: niet
-    133: ciezko o
-    328: hi
-    452: !bestiary chakoya windcaller
-    128: nawet alarmu nie mialem
+    448: !bestiary dire penguin
+    462: !bestiary chakoya toolshaper
+    392: exevo gran vis lux
     476: exevo vis hur
-    37: exevo gran flam hur
+    328: hi
+    423: exani tera
+    128: nawet alarmu nie mialem
+    29: exevo gran flam hur
+    377: xd
     428: exevo gran mas vis
     295: a discorda masz na telefonie
+    195: exori max vis
+    495: thais
+    395: exori max vis
+    174: exevo gran vis lux
+    452: !bestiary chakoya windcaller
+    42: svargrond
+    468: !bestiary chakoya windcaller
+    166: yes
     228: exevo vis hur
-    374: yes
-    274: nie no, mam sort supplies
-    231: to bez sensu
-    198: yes
-    387: ab'dendriel
-    363: ze moj char sie nie leczy
-    396: exani tera
-    16: ja moge isc ekiem xD
-    131: exori max flam
-    470: !bestiary chakoya tribewarden
-    186: exevo gran vis lux
-    27: exevo gran flam hur
-    232: xd
+    162: zrobic
+    294: ludzie pracuja
+    350: hi
+    235: venore
+    23: rings
     475: exevo gran mas vis
     419: exevo gran mas vis
-    275: jak kupuje to od razu przeklada
+    332: exana vita
     63: utani gran hur
-    132: no na tej zdechlicy
-    432: exevo gran vis lux
+    13: yes
+    375: jestem zbyt chciwy
     73: o
     175: exevo vis hur
     53: hi trade
     83: exevo vis hur
-    495: thais
-    368: musze zainwestowac w lepszy sprzeet
+    135: utori vis
+    396: exani tera
     93: exevo gran flam hur
-    33: exori mas
-    115: exiva "mard geer
-    376: chcialem coiny na ezodusie zarobic
-    67: exana pox
-    17: hi
+    368: musze zainwestowac w lepszy sprzeet
+    450: !bestiary polar bear
+    336: ankrahmun
+    67: utani tempo hur
+    176: exevo gran vis lux
     47: exevo vis hur
     77: exori max flam
-    276: do plecaka
+    27: exevo gran flam hur
+    17: hi
     371: ho
-    434: exani hur "down
     433: !bestiary frost dragon hatchling
-    176: exevo gran vis lux
     97: exevo gran flam hur
-    349: hi trade
+    376: chcialem coiny na ezodusie zarobic
     491: yes
-    169: ta mape od ciebie
+    115: exiva "mard geer
     57: !bestiary cobra scout
     87: exevo gran flam hur
     234: hi
     134: th
-    230: nie no w 3 osoby
-    287: ok
-    353: hi trade
-    262: ze mi skurwysyn
-    377: xd
+    233: niet
+    253: wrocilem
+    187: exevo vis hur
+    337: yes
+    434: exani hur "down
     277: innego
     177: exevo vis hur
-    43: yes
-    337: yes
-    279: no jakas stara w chuj, z rok temu pobieralem
-    372: hi
+    231: to bez sensu
+    103: exevo vis hur
+    414: exevo vis hur
+    333: hi trade
     477: exevo gran vis lux
-    390: exori max flam
+    403: port hope
     334: exana pox
     469: !bestiary chakoya toolshaper
-    335: hi
+    169: ta mape od ciebie
     269: tak
-    135: utori vis
+    470: !bestiary chakoya tribewarden
     435: hi
     270: 3/4 czasu mi to dziala
     170: wgram
-    460: !bestiary silver rabbit
-    219: exevo gran mas flam
-    7: yes
-    331: exana pox
-    429: exevo gran vis lux
+    292: masz np sytuacje
+    447: !bestiary husky
+    132: no na tej zdechlicy
+    33: exura vita
+    259: czasami pada jakos tak
     370: 2otc + 1 zwykly
-    261: o i znowu mam cos takiego
+    393: exevo vis hur
     297: i normalne gadanie
-    22: exevo vis hur
+    46: utani tempo hur
     236: yes
     471: !bestiary silver rabbit
-    352: yes
-    336: ankrahmun
+    299: kolczan
+    168: zrobie reloga
     158: a expia na spocie dla 500 leveli
-    474: utani gran hur
+    302: deposit all
     436: svargrond
-    152: !frags
+    380: wyjebane
     171: zw
-    252: do domu
-    180: exevo gran vis lux
+    280: xd
+    417: exevo gran vis lux
     271: a czasami sie buguje
     438: exevo vis hur
     136: kto?
-    338: hi trade
+    273: te 70 to jest takie rezerwowe
     173: exevo gran flam hur
     437: yes
     194: exori max flam
     237: hi
-    137: ja nie znam ludzi
-    226: thais
-    103: exevo vis hur
+    472: !autoloot polar bear
+    430: exevo gran mas vis
+    272: tak, 0 potow spijam na expie
     203: exani tera
     303: yes
-    403: port hope
-    19: utani tempo hur
+    372: hi
+    198: yes
     172: exevo gran vis lux
-    147: tam jak gram to lubie sie klepac
-    79: exevo vis hur
-    49: wychodze
-    166: yes
-    29: exevo gran flam hur
+    402: hi
+    455: !bestiary silver rabbit
+    498: ab'dendriel
+    123: cobry nad scarlet
+    298: a teamspeaka nie uzyjesz poza domem
     238: ankrahmun
     138: ktorzsy tutaj
-    39: exevo gran flam hur
+    481: exevo gran flam hur
     102: exevo gran vis lux
     347: yes
-    302: deposit all
+    473: !bestiary polar bear
     373: deposit all
-    273: te 70 to jest takie rezerwowe
+    338: hi trade
     202: hi trade
-    96: exevo vis hur
-    402: hi
+    16: ja moge isc ekiem xD
+    147: tam jak gram to lubie sie klepac
     247: ankrahmun
-    99: exevo gran flam hur
-    46: utani tempo hur
-    146: to sa fajne na 7.4
-    155: z dupy
-    59: exevo vis hur
+    281: 1.3
+    219: exevo gran mas flam
+    36: utani tempo hur
+    381: postawilem na mlvl
+    255: wlasnie nie wiem
     339: exevo vis hur
-    123: cobry nad scarlet
-    30: utito tempo
+    62: exevo gran vis lux
+    139: graja
     439: !bestiary chakoya toothspaer
     246: hi
-    201: yes
-    446: !bestiary chakoya tribewarden
-    40: exevo gran vis lux
+    239: yes
+    4: hi trade
+    401: yes
     10: exevo gran flam hur
     60: exevo gran vis lux
-    484: !bestiary chakoya toolshaper
+    165: venore
     80: exevo gran flam hur
     50: na silownie
-    89: exevo gran vis lux
-    23: void
-    264: sdki kupuje a gfb nie xD
+    216: exevo gran mas flam
+    422: exevo gran mas vis
+    446: !bestiary chakoya tribewarden
     90: exevo gran mas flam
-    300: hi trade
-    145: bitki na tibii
-    100: exevo vis hur
+    201: yes
     44: utani tempo hur
+    100: exevo vis hur
+    445: yes
     14: exevo gran flam hur
     64: hi
-    34: juz prawie nie gram
-    85: exevo vis hur
-    445: yes
-    24: exevo vis hur
+    34: utani tempo hur
+    482: !bestiary silver rabbit
+    345: hi
+    245: exana pox
+    500: exani hur "down
     74: xd
-    200: thais
     94: exevo vis hur
     400: venore
-    8: exevo gran mas vis
+    40: exevo gran vis lux
     84: exevo gran vis lux
     54: thais
-    354: a nie pytaj
-    25: exevo gran flam hur
-    35: utani tempo hur
-    107: exevo gran vis lux
-    207: yes
-    407: thais
+    200: thais
+    254: xd
+    182: exevo gran flam hur
+    88: exevo vis hur
+    58: exevo gran flam hur
+    9: exevo gran mas flam
     144: a teraz sie ciesze z bicia potworow xD
     244: yes
     344: exana pox
-    15: exevo gran vis lux
-    38: hi
-    65: deposit all
-    9: exevo gran mas flam
-    289: na discordzie sa tez tekstowe kanaly, mozna ze soba popisac normalnie
-    78: exevo gran vis lux
-    489: hi
-    18: exevo gran vis lux
-    444: passage
-    454: !bestiary chakoya tribewarden
-    443: yes
-    369: a przypomne, ze mam tylko 3 klienty tibii odpalone
-    28: utani tempo hur
-    488: !bestiary silver rabbit
+    154: levele takie
     389: exani hur "down
+    311: hi
+    346: thais
+    28: utani tempo hur
+    78: exevo gran vis lux
+    48: utani gran hur
+    189: exevo vis hur
+    444: passage
+    45: exevo gran vis lux
+    306: yes
+    369: a przypomne, ze mam tylko 3 klienty tibii odpalone
+    407: thais
+    488: !bestiary silver rabbit
+    35: utani tempo hur
     406: hi
     243: twist of fate
     343: yes
@@ -2493,212 +6181,213 @@ game_console:
     288: a nie lepoiej discord?
     388: yes
     206: venore
-    500: exani hur "down
-    245: exana pox
-    478: exevo vis hur
-    111: exevo vis hur
-    278: no ale mam otwarte 4 shopping bagi
-    205: hi
-    442: travel
-    142: ja jestem bardziej rpg niz pvp
-    51: xd
-    342: ankrahmun
-    307: hi
+    489: hi
+    145: bitki na tibii
     305: venore
+    38: rings
+    278: no ale mam otwarte 4 shopping bagi
+    178: exevo gran mas flam
+    268: 336a3edc22
+    405: hi trade
+    483: !bestiary chakoya tribewarden
+    342: ankrahmun
+    442: travel
+    24: exevo vis hur
     242: hi
     81: exevo vis hur
-    11: yes
-    157: hi
+    110: exevo gran vis lux
+    61: utani gran hur
     105: exevo vis hur
-    98: exevo vis hur
+    205: hi
     104: exevo gran mas flam
     204: exiva "igla'ms
-    441: hi
+    304: hi
     379: obejrzec cos na yt
-    41: exevo vis hur
-    341: hi
-    268: 336a3edc22
+    410: exevo gran mas vis
+    179: exori max flam
+    207: yes
     210: exevo gran flam hur
     241: !bless
-    310: hi trade
-    257: i sie wyjebal bot
+    409: exevo vis hur
+    357: ogolnie to
     141: xd
-    143: jak mialem 15lat to wolalem sie bic
-    189: exevo vis hur
-    68: venore
-    405: hi trade
-    109: exevo gran flam hur
-    178: exevo gran mas flam
-    306: yes
-    179: exori max flam
-    440: !bestiary chakoya toothshaper
+    257: i sie wyjebal bot
+    289: na discordzie sa tez tekstowe kanaly, mozna ze soba popisac normalnie
+    18: exevo gran vis lux
+    479: exevo gran flam hur
+    21: exevo gran flam hur
+    341: hi
+    300: hi trade
+    404: yes
+    412: exevo vis hur
     140: nawet
     240: !frags
     340: exevo gran vis lux
-    412: exevo vis hur
+    440: !bestiary chakoya toothshaper
     312: deposit all
-    346: thais
-    404: yes
-    20: exevo vis hur
-    48: utani gran hur
-    301: hi
-    113: exevo gran mas flam
+    212: exevo gran flam hur
+    441: hi
     398: port hope
     112: exevo gran flam hur
-    212: exevo gran flam hur
+    98: exevo vis hur
     1: utani tempo hur
+    443: yes
     31: exevo gran flam hur
+    301: hi
+    113: exevo gran mas flam
+    106: exevo gran flam hur
     456: !autoloot polar bear
     356: xd
     313: yes
     213: co ty
-    106: exevo gran flam hur
+    307: hi
     413: exevo gran vis lux
     256: poszedlem na silke
     156: kilka tysieczne
-    3: utani tempo hur
-    58: exevo gran flam hur
-    183: exevo vis hur
+    478: exevo vis hur
+    3: yes
+    143: jak mialem 15lat to wolalem sie bic
     309: yes
     5: hi trade
-    479: exevo gran flam hur
+    68: venore
     209: exevo gran mas flam
-    304: hi
-    409: exevo vis hur
-    21: exevo gran flam hur
+    454: !bestiary chakoya tribewarden
+    310: hi trade
+    109: exevo gran flam hur
     457: !bestiary ice golem
-    410: exevo gran mas vis
+    41: exevo vis hur
     71: ankrahmun
-    61: utani gran hur
-    110: exevo gran vis lux
-    357: ogolnie to
+    157: hi
+    11: yes
+    183: exevo vis hur
     283: 1.2
     383: hi
-    483: !bestiary chakoya tribewarden
+    51: xd
     108: exevo vis hur
     208: exevo gran flam hur
     308: ankrahmun
     91: exevo gran vis lux
     211: exevo gran vis lux
-    45: exevo gran vis lux
+    111: exevo vis hur
     75: exevo vis hur
-    311: hi
-    154: levele takie
-    88: exevo vis hur
-    182: exevo gran flam hur
-    254: xd
+    65: deposit all
+    15: exevo gran vis lux
+    107: exevo gran vis lux
+    354: a nie pytaj
+    25: exevo gran flam hur
     382: i ide czytac ksiazke
-    70: hi
+    30: utito tempo
     411: exevo gran vis lux
     282: albo nie iwem
     95: exevo gran vis lux
-    482: !bestiary silver rabbit
-    345: hi
-    239: yes
+    85: exevo vis hur
+    8: exevo gran mas vis
+    20: exevo vis hur
     55: dobra bede robil
-    325: hi
-    216: exevo gran mas flam
+    19: hi trade
+    89: exevo gran vis lux
     116: podbiegniesz tu msem
     416: exevo vis hur
-    255: wlasnie nie wiem
-    381: postawilem na mlvl
-    290: a na ts tylko gadanie
+    59: exevo vis hur
+    155: z dupy
+    12: jeszcze sie wkurwiam tylko bo mi neta zrywa i padam bezsensownie
     355: pierdole to expienie
-    281: 1.3
-    82: exevo gran flam hur
-    481: exevo gran flam hur
-    298: a teamspeaka nie uzyjesz poza domem
+    99: exevo gran flam hur
+    223: thais
+    39: exevo gran flam hur
+    181: exevo vis hur
     316: yes
-    498: ab'dendriel
-    455: !bestiary silver rabbit
+    49: wychodze
+    79: exevo vis hur
     69: yes
     117: zrobic oro?
-    394: exori max flam
+    358: najwiekszym winowajca
     317: utani gran hur
     499: yes
     378: albo nie wiem
-    417: exevo gran vis lux
-    280: xd
-    380: wyjebane
-    447: !bestiary husky
-    299: kolczan
+    180: exevo gran vis lux
+    252: do domu
+    152: !frags
+    474: utani gran hur
+    352: yes
     199: hi
     217: exevo gran flam hur
     399: yes
-    118: jakies 3 noobki
-    431: exevo vis hur
-    52: moze jak wroce
+    232: xd
+    432: exevo gran vis lux
+    327: yes
     314: hi trade
     214: robisz
     453: !bestiary chakoya toolshaper
-    414: exevo vis hur
-    272: tak, 0 potow spijam na expie
+    279: no jakas stara w chuj, z rok temu pobieralem
+    137: ja nie znam ludzi
     153: orshabaal w znaczeniu
-    472: !autoloot polar bear
-    187: exevo vis hur
-    253: wrocilem
-    195: exori max vis
+    390: exori max flam
+    353: hi trade
+    287: ok
+    274: nie no, mam sort supplies
     487: !bestiary chakoya tribewarden
-    375: jestem zbyt chciwy
-    168: zrobie reloga
+    374: yes
+    260: chuj wie
     449: !bestiary penguin
     114: exori max flam
     215: exani tera
-    450: !bestiary polar bear
+    349: hi trade
     415: exevo gran vis lux
     315: deposit all
     249: no moge
-    235: venore
-    350: hi
+    424: exevo vis hur
+    186: exevo gran vis lux
     250: isc
     386: hi
-    468: !bestiary chakoya windcaller
-    229: exiva "imbier
-    13: yes
+    7: yes
+    335: hi
+    427: exevo vis hur
     150: btw
     486: !bestiary chakoya toolshaper
-    322: svargrond
-    181: exevo vis hur
-    395: exori max vis
+    131: exori max flam
+    37: exori mas
+    276: do plecaka
     148: nie gralem
     248: yes
     348: utani gran hur
-    448: !bestiary dire penguin
-    221: utana vid
-    385: yes
+    121: 2x400 + 280
+    251: akurat
+    151: jak bede musial thaiana zabic, pomoglbys?
     451: !bestiary winter wolf
     351: port hope
     285: hi trade
     321: hi
-    421: exani tera
-    430: exevo gran mas vis
-    174: exevo gran vis lux
+    485: !bestiary chakoya windcaller
     224: yes
-    462: !bestiary chakoya toolshaper
-    86: exevo gran mas flam
-    163: port hope
-    26: exevo vis hur
-    36: nawet bota mi sie nie chce puszczac
+    226: thais
+    429: exevo gran vis lux
+    122: prawie sam ich zabijam xd
+    101: exevo gran flam hur
+    76: exevo gran vis lux
+    387: ab'dendriel
+    125: xd
     320: yes
-    56: utani tempo hur
-    184: exevo gran vis lux
-    365: jak z niego chce korzystac
-    465: !bestiary penguin
-    165: venore
+    32: exeta res
+    120: nie
+    284: elo
+    384: venore
+    484: !bestiary chakoya toolshaper
     265: otclient
-    220: exevo gran flam hur
-    42: svargrond
-    364: a nie leczy sie np bo mi sie komp zacina w pizde
-    4: yes
+    2: exura med ico
+    146: to sa fajne na 7.4
+    56: utani tempo hur
+    464: !bestiary winter wolf
 UseIgnoreList: true
 UseWhiteList: false
 IgnorePrivateMessages: false
 IgnoreYelling: false
 IgnorePlayers:
   1: Bortek Jechanka
+  2: Druid Scripts
 WhitelistedPlayers:
 terminal-window:
   poped: false
 window-size: 600 480
-window-pos: 660 300
+window-pos: 468 192
 window-maximized: true
